@@ -9,7 +9,7 @@
         "definition": "3",
         "optional": [
         	{ 
-        	    "Part of Speech":"2"
+        	    "PoS":"2"
         	}
         ],
 	"theme": "4"
