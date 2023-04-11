@@ -7,11 +7,11 @@
         "entryID" : "0",
         "word": "1",
         "definition": "3",
-         "optional": [
-            { 
-                "PoS": "2",
-                "theme": "4"
-            }
-        ]
+        "optional": [
+        	{ 
+        	    "Part of Speech":"2"
+        	}
+        ],
+	"theme": "4"
     }
 }

@@ -1,0 +1,6 @@
+mapping: tobelo-approx.csv
+norm_form: NFC
+escape_special: false
+case_sensitive: false
+authors:
+  - Gary Holton
