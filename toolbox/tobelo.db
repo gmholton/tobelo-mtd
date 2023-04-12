@@ -1,11 +1,13 @@
 \_sh v3.0  400  MDF 4.0
 \_DateStampHasFourDigitYear
 
+
 \lx abari
 \ps o
 \ge news
 \gn kabar
 \bw Malay
+
 
 \lx abo
 \ps ma
@@ -13,15 +15,17 @@
 \id ogahi de maabooka
 \ge the sea is covered with foam
 
+
 \lx ade-ade
 \ps ho
-\ge  to narrate
+\ge to narrate
 \ps ma
 \ge conversation
 \ps o
 \ge story
 \crm totoade
 \crm Malay andai-andai
+
 
 \lx adono
 \ps ho
@@ -35,11 +39,13 @@
 \ge enough
 \ge sufficient
 
+
 \lx aerani
 \ps ma
 \ge wonderful
 \ge strange
 \bw Malay heran
+
 
 \lx aere
 \ps i na
@@ -47,11 +53,13 @@
 \gn
 \sd
 
+
 \lx aere
 \ps o
 \ge high *tide
 \gn air naik
 \sd nautical
+
 
 \lx aga
 \ps ho
@@ -62,11 +70,13 @@
 \ge to ridicule s o
 \sd
 
+
 \lx agomo
 \ps ma
 \ge thick
 \gn tebal
 \sd
+
 
 \lx aha
 \ps part
@@ -75,17 +85,20 @@
 \id
 \sd
 
+
 \lx -ahi
 \ps vsf
 \ge DUR
 \de durative-continuative aspectual suffix
 \re still
 
+
 \lx ahoko
 \ps ho
 \ge call
 \gn panggil
 \sd
+
 
 \lx ahuhu
 \ps o
@@ -94,8 +107,10 @@
 \ge tree *stump
 \sd plant
 
+
 \lx ahumu
 \ge whole
+
 
 \lx ai-
 \ps npf
@@ -104,17 +119,21 @@
 \gn
 \sd
 
+
 \lx aiki
 \ps ha
 \ge take away
+
 
 \lx aili
 \ps o
 \ge centipede
 \sd insect
 
+
 \lx akaka
 \ge tickling
+
 
 \lx ake
 \ps ho
@@ -123,11 +142,13 @@
 \ps ha
 \de invite someone to dance cakalele by giving them the sawako
 
+
 \lx ake-akeme
 \ps o
 \ge mosquito
 \gn nyamuk
 \sd insect
+
 
 \lx akeme
 \ps ma
@@ -135,22 +156,15 @@
 \gn
 \sd body part
 
+
 \lx akere
 \ps o
 \ge water
 \gn air
-\se o akere ma utu
-\ge river
-\gn sungai
-\se o akere ma biono
-\ge river mouth
-\re mouth
-\se o akere ma jobubu
-\ge spring
-\se o huhu ma akere
-\ge milk
-\se o akere ma lako
-\ge headwater
+\xv o akere ma jobubu
+\xe spring (water source)
+\sd earth
+
 
 \lx akiri
 \ps nanga
@@ -158,18 +172,22 @@
 \gn lidah
 \sd body part
 
+
 \lx akunu
 \ge allowed
+
 
 \lx alam
 \ps o
 \ge world
 \bw Malay
 
+
 \lx ale-ale
 \ps o
 \ge ring
 \gn cincin
+
 
 \lx alibiru
 \ps ho
@@ -179,17 +197,21 @@
 \bw Ternate?
 \crm Bacan halibiru
 
+
 \lx alimu
 \ps o
 \ge sage
 
+
 \lx alipa
 \ge carelessness
+
 
 \lx alo
 \ps ma
 \ge cold
 \gn dingin
+
 
 \lx alu
 \ps ma
@@ -197,11 +219,13 @@
 \gn tulang dada
 \sd body part
 
+
 \lx alu
 \ps nanga
 \ge breast bone
 \gn
 \sd body part
+
 
 \lx alua
 \ps o
@@ -209,21 +233,27 @@
 \ge k.o. cake
 \re cake
 
+
 \lx aluhu
 \ge fine
+
 
 \lx alyeme
 \ge lick
 
+
 \lx alyemi
 \ge lick
+
 
 \lx ama
 \ge father
 
+
 \lx ame
 \ge kiss
 \ge smell
+
 
 \lx ami
 \ps PRO
@@ -232,20 +262,24 @@
 \gn
 \sd
 
+
 \lx amo
 \ge each
 \ge every
 \ge any
+
 
 \lx amoko
 \ps o
 \ge large
 \ge big
 
+
 \lx anca
 \ps o
 \ge bamboo *mat
 \gn
+
 
 \lx ani
 \ps PRO
@@ -254,8 +288,10 @@
 \gn
 \sd
 
+
 \lx aniaya
 \ge injustice
+
 
 \lx ao
 \ps ha
@@ -266,17 +302,20 @@
 \ge cary along
 \ge bring along
 
+
 \lx ao
 \ps ha
 \ge take
 \ge carry
 \gn
 
+
 \lx ao
 \ps ho
 \ge care for
 \ge nurse
 \gn pelihara
+
 
 \lx aoto
 \ps o
@@ -285,9 +324,11 @@
 \ge sailors
 \ge passengers in a canoe
 
+
 \lx apongi
 \ps ha
 \ge forgive
+
 
 \lx apoto
 \ps ho
@@ -295,14 +336,18 @@
 \ps ho hi
 \ge bring s t about *quickly
 
+
 \lx ara-ara
 \ge spider
+
 
 \lx arapoka
 \ge Arab
 
+
 \lx arara
 \ge spider
+
 
 \lx arehe
 \ps i
@@ -313,11 +358,13 @@
 \sd color
 \sd time
 
+
 \lx ari
 \ps ho
 \ge cry
 \ge weep
 \gn menangis
+
 
 \lx aruku
 \ps o
@@ -325,14 +372,18 @@
 \gn goa
 \sd
 
+
 \lx atera
 \ge tease
+
 
 \lx ato
 \ge say
 
+
 \lx atomo
 \ge clothes *lice
+
 
 \lx auenu
 \ps
@@ -340,11 +391,13 @@
 \gn blood
 \sd body part
 
+
 \lx aulyoto
 \ps o
 \ge k o *bamboo
 \gn buluh
 \sd plant
+
 
 \lx awana
 \ps o
@@ -352,19 +405,23 @@
 \ps i
 \ge to *rain
 
+
 \lx awunu
 \ps o
 \ge blood 
 \gn darah
 \sd body part
 
+
 \lx ayo
 \ps ma
 \ge mother
 \sd kin
 
+
 \lx baaeri
 \ge sail
+
 
 \lx baatuku
 \ps o
@@ -372,8 +429,10 @@
 \gn dodeso
 \sd hunting
 
+
 \lx babaka
 \ge thrown
+
 
 \lx babali
 \ps o
@@ -381,8 +440,10 @@
 \gn
 \sd food
 
+
 \lx babalyanga
 \ge handle
+
 
 \lx babanga
 \ps o
@@ -390,15 +451,19 @@
 \gn pohon bahu
 \sd plant
 
+
 \lx babao
 \ge widower
+
 
 \lx babaraha
 \ge peg
 \ge pin
 
+
 \lx babarihi
 \ge paint
+
 
 \lx babau
 \ps
@@ -407,18 +472,23 @@
 \gn
 \sd kin
 
+
 \lx babiti
 \ge corrsion
+
 
 \lx Baca
 \ps o
 \ge Bacan Islands
 
+
 \lx bada
 \ge makeup
 
+
 \lx badaganga
 \ge trade
+
 
 \lx badangi
 \ps nanga
@@ -426,27 +496,32 @@
 \sd body part
 \bw Malay
 
+
 \lx bahaka
 \ps ma
 \ge end
 \gn ujung
 
+
 \lx baharama
 \ps o
 \ge banyan *tree
 \gn
-\sc
+\sd
 \sd plant
+
 
 \lx bahi
 \ge danger
 \ge trouble
+
 
 \lx bahuku
 \ps o
 \ge axe
 \ps ho
 \ge chop (with an axe)
+
 
 \lx baikoleke
 \ps o
@@ -455,6 +530,7 @@
 \gn burung camar
 \sd animal
 
+
 \lx baiti
 \ps o
 \ge hole
@@ -462,11 +538,14 @@
 \ge burrow
 \gn lobang
 
+
 \lx baja
 \ge persuade
 
+
 \lx bajooka
 \ge Baju
+
 
 \lx baju
 \ps o
@@ -474,11 +553,14 @@
 \ge shirt
 \bw Malay
 
+
 \lx bajuli
 \ge card game
 
+
 \lx baka
 \ge throw
+
 
 \lx bakaha
 \ps o
@@ -486,18 +568,22 @@
 \gn ikan garam
 \sd food
 
+
 \lx bakanuku
 \ps o
 \ge jellyfish
 \gn
 \sd animal
 
+
 \lx bakau
 \ge wages
 \ge salary
 
+
 \lx bake
 \ge corpse
+
 
 \lx bakoro
 \ps o
@@ -505,35 +591,45 @@
 \ge slope
 \gn tebing
 
+
 \lx baku-baku
 \ge pitch
+
 
 \lx bakulu
 \ge coroded
 \ge decayed
 
+
 \lx balacu
 \ge uncolored *cotton
+
 
 \lx balahadada
 \ge long *dress
 
+
 \lx balahi
 \ge revenge
+
 
 \lx balajang
 \ge fee
 \ge payment
 
+
 \lx bale
 \ge bed
 \ge bedstead
 
+
 \lx bali
 \ge turn
 
+
 \lx baliha
 \ge sad
+
 
 \lx balitako
 \ps o
@@ -542,32 +638,41 @@
 \sd plant
 \crm often used for making boats
 
+
 \lx baliteta
 \ge fluent
 
+
 \lx balitorongo
 \ge mouth-organ
+
 
 \lx baluhu
 \ps ho
 \ge answer
 \ge revenge
 
+
 \lx balyaana
 \ge flat
+
 
 \lx balyanga
 \ge feel
 \ge handle
 
+
 \lx banakono
 \ge loot
+
 
 \lx banga
 \ge buried
 
+
 \lx bangeheli
 \ge flute
+
 
 \lx bangi-bangi
 \ps o
@@ -576,33 +681,41 @@
 \ps ho
 \ge to *dam
 
+
 \lx bangisa
 \ps o
 \ge race
 \gn bangsa
 \bw Malay
 
+
 \lx bangu
 \ps ho ma
 \ge pay
 \gn bayar
 
+
 \lx bao
 \ps ma
 \ge widower
 
+
 \lx bara
 \ge overhang
+
 
 \lx baradoha
 \ge sin
 \ge condemned
 
+
 \lx baraguna
 \ge useful
 
+
 \lx barakati
 \ge blessing
+
 
 \lx barang
 \ps o
@@ -611,19 +724,23 @@
 \gn barang
 \bw Malay
 
+
 \lx barani
 \ps ho
 \ge courageous
 \gn berani
 \bw Malay
 
+
 \lx bare
 \ps o
 \ge famine
 \gn
 
+
 \lx barehala
 \ge idol
+
 
 \lx barene
 \ps ho
@@ -631,11 +748,14 @@
 \ps ho ma
 \ge rise
 
+
 \lx barihi
 \ge work with guests
 
+
 \lx barihi
 \ge repelled
+
 
 \lx barihi
 \ps ho
@@ -645,13 +765,16 @@
 \gn taburkan
 \sd
 
+
 \lx barija
 \ps
 \ge wise
 \gn bijaksana
 
+
 \lx barikua
 \ge certainly
+
 
 \lx baro
 \ps
@@ -659,11 +782,13 @@
 \gn
 \sd plant
 
+
 \lx baru
 \ps o
 \ge boat *caulk
 \gn
 \sd nautical
+
 
 \lx baruang
 \ps
@@ -671,8 +796,10 @@
 \gn bir
 \sd food
 
+
 \lx barukua
 \ge even
+
 
 \lx basitang
 \ps o
@@ -680,9 +807,11 @@
 \gn manggis
 \sd food
 
+
 \lx bata
 \ps ho
 \ge jump up
+
 
 \lx bata-bata
 \ps i
@@ -692,6 +821,7 @@
 \ge mold
 \gn
 
+
 \lx bataru
 \ps ho ma
 \ge bet
@@ -699,11 +829,13 @@
 \gn bertaruh
 \bw Malay
 
+
 \lx batingi
 \ps ma
 \ge border
 \gn batas
 \bw Malay
+
 
 \lx bato-batoko
 \ps o
@@ -711,23 +843,28 @@
 \gn
 \sd animal
 
+
 \lx batoko
 \ps o
 \ge k o *root (used to stun fish)
 \gn
 \sd plant
 
+
 \lx batoko
 \ps o
 \ge foot *wound
 \ge foot *barbs
 
+
 \lx batungu
 \ge help
 \ge support
 
+
 \lx batya
 \ge read
+
 
 \lx bau
 \ps ha
@@ -737,6 +874,7 @@
 \ge loan
 \gn pinjamkan
 
+
 \lx bauhu
 \ps o
 \ge ocean *current
@@ -744,11 +882,14 @@
 \id obauhu malulu
 \ge current swell
 
+
 \lx baulatyo
 \ge hunger
 
+
 \lx bauru
 \ge in
+
 
 \lx bawa
 \ps o
@@ -757,8 +898,10 @@
 \gn bawang
 \bw Malay
 
+
 \lx bayale
 \ge awake
+
 
 \lx bayeleki
 \ps
@@ -766,20 +909,26 @@
 \gn
 \sd plant
 
+
 \lx bayongo
 \ge small *bag
+
 
 \lx be
 \ge where
 
+
 \lx bea
 \ge import *duties
+
 
 \lx beba
 \ge coral
 
+
 \lx bebanga
 \ge close
+
 
 \lx bebanga
 \ps o
@@ -787,33 +936,42 @@
 \gn
 \sd animal
 
+
 \lx bebe
 \ps i
 \ge loose
 \gn
 
+
 \lx bebehongo
 \ge deliver
 
+
 \lx bebele
 \ge track
+
 
 \lx bebeloho
 \ps ma
 \ge stake
 \gn patok
 
+
 \lx bebeno
 \ge wall
+
 
 \lx bebeoto
 \ge k o *shell
 
+
 \lx bedeng
 \ge seedbed
 
+
 \lx beebepa
 \ge packing
+
 
 \lx beha-behaka
 \ps ma
@@ -821,11 +979,13 @@
 \gn basah
 \crm pehaka
 
+
 \lx behi
 \ps o
 \ge iron
 \gn besi
 \bw Malay
+
 
 \lx bela
 \ps
@@ -833,74 +993,96 @@
 \gn
 \sd body part
 
+
 \lx bela-belaka
 \ge split fine
+
 
 \lx belaka
 \ps ha
 \ge split
 \gn
 
+
 \lx belehoko
 \ge trouble
 \ge sadness
 
+
 \lx belelaka
 \ge leanness
+
 
 \lx belenga
 \ge open
 
+
 \lx beleoko
 \ge crooked
+
 
 \lx beleta
 \ge pound *sago
 
+
 \lx beloho
 \ge stake
 
+
 \lx benarata
 \ge shout
+
 
 \lx beneto
 \ge narrow
 \ge straight
 
+
 \lx benga
 \ge wrist
+
 
 \lx benga
 \ge knock
 \ge tap
 
+
 \lx bengoto
 \ge nasal
+
 
 \lx beno
 \ge close
 \ge stop
 
+
 \lx beoto
 \ge tap palm wine
+
 
 \lx bepa
 \ge pack
 
+
 \lx Berani
 \ge tribal *spirit
+
 
 \lx bereanga
 \ge spread wide
 
+
 \lx bere-bere
 \ge sickness
+
 
 \lx berehi
 \ge cleanse
 
+
 \lx bereki
 \ge old man
+
 
 \lx berera
 \ps o
@@ -908,31 +1090,40 @@
 \ge town
 \ge Tobelo
 
+
 \lx besi
 \ge iron
+
 
 \lx beta-beta
 \ge small *package
 
+
 \lx betongo
 \ge text
+
 
 \lx beubabu
 \ge reason
 \ge therefore
 
+
 \lx beuekeuno
 \ge upper *arm
+
 
 \lx beureti
 \ge stop
 \ge rest
 
+
 \lx beutikanga
 \ge concave up
 
+
 \lx biagaro
 \ge oyster shell
+
 
 \lx biaha
 \ps o
@@ -942,16 +1133,19 @@
 \gn biasa
 \bw Malay
 
+
 \lx bianga
 \ps o
 \ge February (time when the Pleiades is at its zenith)
 \sd time
+
 
 \lx bianga
 \ps o
 \ge k o small *shellfish
 \gn
 \sd animal
+
 
 \lx biara
 \ps ho ma
@@ -960,24 +1154,29 @@
 \gn piara
 \bw Malay
 
+
 \lx biawa
 \ps o
 \ge k o *plant
 \gn
-\sc Maranta dictotania Wall.
+\sd Maranta dictotania Wall.
 \sd plant
+
 
 \lx bibikiri
 \ge mop
+
 
 \lx bibikiri
 \ps o
 \ge sieve
 \gn
 
+
 \lx bibilata
 \ps o
 \ge wart
+
 
 \lx bidilon
 \ps o
@@ -985,19 +1184,22 @@
 \gn
 \sd animal
 
+
 \lx bido-bidoho
 \ps o
 \ge k o small *fish
 \gn
 \sd fish
 
+
 \lx bidoho
 \ps o
 \ge betel
 \gn sirih
-\sc chavica siriboa
+\sd chavica siriboa
 \sd food
 \sd plant
+
 
 \lx biha
 \ps o
@@ -1005,6 +1207,7 @@
 \ge poison
 \gn bisa
 \bw Malay
+
 
 \lx bihi
 \ps o
@@ -1016,38 +1219,47 @@
 \gn biru
 \sd color
 
+
 \lx biji
 \ps o
 \ge weeds
 \gn
 \bw Ternate
 
+
 \lx biki
 \ps o
 \ge leaf used for sails
 \gn
-\sc
+\sd
 \sd plant
 \sd nautical
+
 
 \lx biki-hago
 \ge earwig
 
+
 \lx bikini
 \ge tree
 
+
 \lx bikini
 \ge tail
+
 
 \lx bilahu
 \ge smooth
 \ge shine
 
+
 \lx bilamo
 \ge phosphorescent *centipede
 
+
 \lx bilangu
 \ge contribution to a feast
+
 
 \lx bilaono
 \ps o
@@ -1055,14 +1267,18 @@
 \ge supplies
 \gn bekal
 
+
 \lx bilatu
 \ge wood clamp
+
 
 \lx bileure
 \ge sago leaf *decoration
 
+
 \lx bilihu
 \ge slice
+
 
 \lx bima:wa
 \ps o
@@ -1070,21 +1286,29 @@
 \gn sore-sore
 \sd time
 
+
 \lx binaha
 \ge wreck
 \ge ruin
 \ge spoil
 
+
 \lx bingu
 \ge confused
+
 
 \lx biono
 \ge face
 \ge appearance
+\re face, mouth
+\xv o akere ma biono
+\xe river mouth
 \sd body part
+
 
 \lx biono
 \ge front
+
 
 \lx biono
 \ps nanga
@@ -1095,54 +1319,68 @@
 \ge front
 \gn muka
 
+
 \lx bira
 \ps o
 \ge rice
 \sd food
 
+
 \lx birahi
 \ge glad
 \ge happy
 
+
 \lx biranga
 \ge sister
 
+
 \lx birini
 \ge frequqent
+
 
 \lx biru
 \ps ma
 \ge green
 \bw Malay
 
+
 \lx bitoanga
 \ps o
 \ge banana
 \sd food
 
+
 \lx bitoko
 \ge stamp
+
 
 \lx bitu-bitumu
 \ge fasten rigid
 
+
 \lx bitumu
 \ge weed with strong roots
+
 
 \lx bitumu
 \ge fast
 \ge firm
 \ge solid
 
+
 \lx bityarya
 \ge discussion
+
 
 \lx biu
 \ge poultice
 \ge plaster
 
+
 \lx biuhu
 \ge mischief
+
 
 \lx biuni
 \ps nanga
@@ -1150,57 +1388,73 @@
 \gn muka
 \sd body part
 
+
 \lx biunu
 \ge before
 \ge front
+
 
 \lx boa
 \ge arrive
 \ge come
 
+
 \lx boauka
 \ge call to
 
+
 \lx bobaakouro
 \ge slippery
+
 
 \lx bobai
 \ge lover
 \ge suitor
 
+
 \lx bobaiti
 \ge grave
 \ge groove
 
+
 \lx bobaja
 \ge temptation
+
 
 \lx bobaku
 \ge illness
 \ge epidemic
 
+
 \lx bobali
 \ge coconut leaf *sack
 
+
 \lx bobane
 \ge pier
+
 
 \lx bobangu
 \ge payment
 \ge penance
 
+
 \lx bobara
 \ge k o large tasty *fish
+
 
 \lx bobareuha
 \ge peg
 
+
 \lx bobareune
 \ge pier
+
 
 \lx bobareune
 \ge canoe
 \ge vessel
+
 
 \lx bobaso
 \ps o
@@ -1208,11 +1462,14 @@
 \gn
 \bw ?
 
+
 \lx bobatingi
 \ge limit
 
+
 \lx bobato
 \ge chief
+
 
 \lx bobeleuru
 \ge oar
@@ -1220,119 +1477,156 @@
 \gn pendayung
 \sd nautical
 
+
 \lx bobeoto
 \ge palm wine
+
 
 \lx bobero
 \ge growing
 \ge raising
 
+
 \lx bobeto
 \ge taunt
+
 
 \lx bobeuleoko
 \ge curve
 
+
 \lx bobeuleta
 \ge sago pounding
+
 
 \lx bobeulianga
 \ge taxes
 
+
 \lx bobeurehe
 \ge cover
+
 
 \lx bobeureki
 \ge old ones
 
+
 \lx bobeureki
 \ge spirit rice
+
 
 \lx bobilango
 \ge porcelain *plates
 
+
 \lx bobilatu
 \ge catch
 
+
 \lx bobili
 \ge shell *bracelet
+
 
 \lx bobita
 \ge command
 \ge prohibition
 
+
 \lx bobo
 \ge heel
+
 
 \lx boboko
 \ge bamboo *lath
 
+
 \lx bobolata
 \ge bamboo filled with sago
+
 
 \lx boboleha
 \ge shell
 
+
 \lx bobolen
 \ge sandy
+
 
 \lx bobolulunu
 \ge round
 
+
 \lx bobooca
 \ge skin *ulcer
+
 
 \lx boboro
 \ge palm
 \ge lontarpalm
 
+
 \lx bobotara
 \ge head sore
+
 
 \lx boboto
 \ge finish
 
+
 \lx bobugo
 \ge property stakes
+
 
 \lx boburuha
 \ge shawl
 
+
 \lx bobutanga
 \ge any *six
+
 
 \lx bobuturungu
 \ge strong
 
+
 \lx bobututu
 \ge pin
 
+
 \lx boci
 \ge groundnuts
+
 
 \lx bodiga
 \ge disaster
 \ge misfortune
 
+
 \lx bodiku
 \ge tie
 \ge binding
+
 
 \lx bodito
 \ge misfortune
 \ge calamity
 
+
 \lx bodo
 \ge stupid
+
 
 \lx boga-boga
 \ge illness of *legs
 
+
 \lx bohara
 \ge refuse a request
 
+
 \lx boheume
 \ge k o edible *plant
+
 
 \lx bohoko
 \ps o
@@ -1340,14 +1634,18 @@
 \gn
 \sd
 
+
 \lx bohono
 \ge forbidden
+
 
 \lx bohouko
 \ge large ceramic *pot
 
+
 \lx bohouro
 \ge discontented
+
 
 \lx boka
 \ps ho ma
@@ -1356,11 +1654,14 @@
 \ps ha
 \ge wash clothes (for s o)
 
+
 \lx boki
 \ge princess
 
+
 \lx boki
 \ge cat
+
 
 \lx boki-kokito
 \ps o
@@ -1368,27 +1669,34 @@
 \gn
 \sd animal
 
+
 \lx boko-boko
 \ge sago baked in bamboo
 
+
 \lx bokoto
 \ge fist
+
 
 \lx boku
 \ge hole
 \ge hollow
 
+
 \lx bokumu
 \ge pandanus *mat material
 
+
 \lx bola
 \ge ball
+
 
 \lx bole
 \ps o
 \ge sandbar
 \ge shoal
 \sd nautical
+
 
 \lx bole
 \ps o
@@ -1404,83 +1712,107 @@
 \gn hijau
 \sd color
 
+
 \lx bole-bole
 \ps ha
 \ge do *slowly
 \gn pelan-pelan
 
+
 \lx bolitorongo
 \ge trumpet
+
 
 \lx boloi
 \ps i
 \ge more
 \gn lebih
 
+
 \lx boloworeuki
 \ge plant
+
 
 \lx bolutu
 \ge sleep
 
+
 \lx bongo-bongo
 \ge cane
+
 
 \lx bongono
 \ge wooden *hammer
 
+
 \lx bongouno
 \ge blunt
 
+
 \lx bootu
 \ge canoe *plank
+
 
 \lx bootuke
 \ge tear
 \ge crack in rock
 
+
 \lx bopoura
 \ge bangs
+
 
 \lx boraka
 \ge lucky
 
+
 \lx borengo
 \ge rope
+
 
 \lx bori
 \ge climbing *plant
 
+
 \lx bori
 \ge both
+
 
 \lx boriri
 \ge *parrot
 \ge lorry
 
+
 \lx boro
 \ge fine repair of nets
 
+
 \lx boro
 \ge flower bud
+
 
 \lx boroho
 \ge ulcer
 \ge boil
 
+
 \lx boroho
 \ge slice
 \ge cut
 
+
 \lx borohono
 \ge fear
+
 
 \lx borokata
 \ps ma
 \ge vow not to eat a certain food (usually the favorite food of a relative who has died
 
+
 \lx boronga
 \ge superficial *tear
+
 
 \lx borotoka
 \ps o
@@ -1488,10 +1820,12 @@
 \gn
 \sd food
 
+
 \lx borowotiti
 \ps ho
 \ge hide in sarong fold
 \gn
+
 
 \lx boru
 \ps o
@@ -1499,11 +1833,13 @@
 \gn
 \bw Dutch
 
+
 \lx borua
 \ps o
 \ge box
 \ge case
 \gn kotak
+
 
 \lx bota
 \ps ma
@@ -1513,14 +1849,18 @@
 \id olyou mabota
 \ge sock
 
+
 \lx bote
-\ps PART
+\ps part
 \ge sure
 \ge certainly
 \gn tentu
 
+
 \lx boteani
+\ps adv
 \ge presently
+
 
 \lx boteme
 \ps o
@@ -1528,12 +1868,14 @@
 \gn
 \sd food
 
+
 \lx botino
-\ps PART
+\ps part
 \ge then
 \ge further
 \ge next
 \gn sebentar
+
 
 \lx boto
 \ps i
@@ -1545,11 +1887,13 @@
 \id ngohi tadiai ibotoka
 \ge I have done it
 
+
 \lx boto-boto
 \ps o
 \ge k o *grasshopper
 \gn
 \sd animal
+
 
 \lx botue
 \ps ma
@@ -1557,11 +1901,13 @@
 \gn
 \sd fishing
 
+
 \lx bou-lamo
 \ps o
 \ge civet cat
 \gn
 \sd animal
+
 
 \lx bounu
 \ps ma
@@ -1570,15 +1916,18 @@
 \ge stench
 \gn bau
 
+
 \lx buapong
 \ps o
 \ge k o *millet
 \gn
 \sd food
 
+
 \lx bubu
 \ps ha
 \ge to turn wood (by hand but as if on a lathe)
+
 
 \lx bubu
 \ps o
@@ -1586,15 +1935,18 @@
 \gn
 \sd fish
 
+
 \lx bubukunu
 \ps o
 \ge purchase price
 \gn
 \crm hukunu
 
+
 \lx bubuutu
 \ge spike
 \ge bar
+
 
 \lx budi
 \ps ho
@@ -1605,6 +1957,7 @@
 \ge deception
 \gn
 
+
 \lx budi
 \ps o
 \ge art
@@ -1612,135 +1965,174 @@
 \gn
 \bw Ternate
 
+
 \lx bugo
 \ge swelling
 \ge festering
 
+
 \lx bugo
-\ge mark o f ownership
+\ge mark of ownership
+
 
 \lx buhanga
 \ge span
 \ge linear measure
 
+
 \lx buhengi
 \ge lazy
 \ge idle
 
+
 \lx buho
 \ge pandanus *tree
+
 
 \lx buho-buho
 \ge lying in heaps
 
+
 \lx buhuhu
 \ge give birth
+
 
 \lx buhuku
 \ge inlay
 \ge take away
 \ge align
 
+
 \lx buku
 \ge partially full
+
 
 \lx buku
 \ge knee
 
+
 \lx bukuku
 \ge kneel
+
 
 \lx bukunu
 \ps ho ma
 \ge sell
 \gn jual
 
+
 \lx bula
 \ge multiple
 
+
 \lx bulana
 \ge fish
+
 
 \lx buli-buliruku
 \ge wobbly
 \ge displeasing
 
+
 \lx bulu
 \ge belt
+
 
 \lx bululawa
 \ge clove
 
+
 \lx bululu
 \ge short
+
 
 \lx bululu
 \ge round
 
+
 \lx buluteute
 \ge stripe
+
 
 \lx bunga
 \ge interest money
 
+
 \lx buoto
 \ge bite
 \ge mouthfull
+
 
 \lx bureure
 \ge fat
 \ge obese
 \ge thick
 
+
 \lx buruhu
 \ge wet
 \ge soaking *wet
 
+
 \lx buruutu
 \ge peel skin
+
 
 \lx buta
 \ge strand of aren fiber
 
+
 \lx butanga
 \ge six
+
 
 \lx buteteke
 \ge white *ant
 
+
 \lx butu
 \ge market
 
+
 \lx buturungu
 \ge strong
+
 
 \lx butuueuhe
 \ge brackish
 \ge salty
 
+
 \lx butuutu
 \ge pin up
 
+
 \lx buure!
 \ge shout
+
 
 \lx buwe-buw
 \ge cradle
 \ge swing
 
+
 \lx caana
 \ge thousand
 
+
 \lx cacaki
 \ge chalk pot
+
 
 \lx cade
 \ge joke
 \bw Ternate
 
+
 \lx cafala
 \ge do *quickly
 \bw Ternate
+
 
 \lx cafaruni
 \ge filth
@@ -1748,11 +2140,14 @@
 \ge impurity
 \ge immoral
 
+
 \lx cahaya
 \ge beauty *potion
 
+
 \lx cakaiba
 \ge mask
+
 
 \lx cako
 \ge k o *fishing technique
@@ -1761,82 +2156,105 @@
 \ge twist
 \ge evil
 
+
 \lx canga-canga
 \ge priacy
 \ge murder
 \ge plunder
 
+
 \lx capaka
 \ge k o *plumeria
+
 
 \lx capati
 \ge clever
 
+
 \lx capeo
 \ge hat
 
+
 \lx capu
 \ge stamp
+
 
 \lx cara
 \ge way
 \ge manner
 
+
 \lx caragapi
 \ge shroud
+
 
 \lx carita
 \ge tell
 \ge announce
 
+
 \lx carokia
 \ge how
+
 
 \lx cati
 \ge paint
 
+
 \lx cawali
 \ge only
+
 
 \lx cawaro
 \ge clever
 \bw Ternate
 
+
 \lx cege-cege
 \ge do fast in *unison
+
 
 \lx celaka
 \ge misfortune
 \ge catastrophe
+
 
 \lx cere
 \ge divide
 \ge divorce
 \ge tea *kettle
 
+
 \lx cereni
 \ge mister
+
 
 \lx cicimi
 \ge rattan
 \ge small *twig
 
+
 \lx cigiafa
 \ge trigger
+
 
 \lx cikahoua
 \ge weak
 
+
 \lx cinga-cinga
 \ge k o *plant
+
 
 \lx cingari
 \ge scanty
 \ge poor
 
+
 \lx cirako
 \ge strike
 \bw Ternate
+
 
 \lx ciu-ciu
 \ps o
@@ -1844,127 +2262,166 @@
 \gn
 \sd animal
 
+
 \lx ciung
 \ge k o *owl
+
 
 \lx co
 \ge hold tight
 
+
 \lx cobo
 \ge depart
+
 
 \lx cobo-cobo
 \ge continual
 \ge constant
 
+
 \lx cocatu
 \ge gift
 \bw Ternate
 
+
 \lx cocawaro
 \ge wise
 
+
 \lx cocoo
 \ge handle
+
 
 \lx cocore
 \ge chatter
 \ge drivel
 
+
 \lx cocoro
 \ge funnel
+
 
 \lx colo
 \ge dye
 
+
 \lx comoko
 \ge closed
+
 
 \lx coporoki
 \ge twisted
 \ge deformed
 
+
 \lx copu
 \ge spray
 \ge squirt
 
+
 \lx cuali
 \ge slower
+
 
 \lx cuci-kode
 \ge hairpins
 
+
 \lx cucukunu
 \ge tickle
+
 
 \lx cucupu
 \ge small porcelain *vase
 
+
 \lx cuga-cuga
 \ge lame
+
 
 \lx cugulu
 \ge speak in *riddles
 
+
 \lx cuka
 \ge vinegar
 
+
 \lx cuka-cuka
 \ge sour
+
 
 \lx cuki
 \ge sleep
 \bw Ternate
 
+
 \lx cuku-cuku
 \ge tickle
 \ge itch
 
+
 \lx cumu-cumu
 \ge riddle
+
 
 \lx dabo-dabo
 \ge fish dish
 
+
 \lx daboho
 \ge grained
+
 
 \lx dada
 \ge rice cake
 
+
 \lx dadaboa
 \ge k o small *fish
+
 
 \lx dadahongo
 \ge spear
 
+
 \lx dadaka
 \ge liana
+
 
 \lx dadaka
 \ge banana
 
+
 \lx dadakuru
 \ge catcher
+
 
 \lx dadalyoko
 \ge fan
 
+
 \lx dadami
 \ge fire grill
+
 
 \lx dadamonu
 \ge cover
 
+
 \lx dadana
 \ge feast food
+
 
 \lx dadapa
 \ge patched
 
+
 \lx dadarono
 \ge swelling
 \ge festering
+
 
 \lx dadatoko
 \ps o
@@ -1972,19 +2429,24 @@
 \ge shield
 \gn sawako
 
+
 \lx dadayoko
 \ge fan
+
 
 \lx dadi
 \ge become
 \ge succeed
 
+
 \lx dadu
 \ps i
 \ge lay against
 
+
 \lx dae
 \ge weapon
+
 
 \lx daena
 \ps DEM
@@ -1995,111 +2457,149 @@
 \gn di bawah
 \sd dir
 
+
 \lx daeune
 \ge meet
 \ge conclude
 
+
 \lx dafa
 \ge slave captured in war
+
 
 \lx dafi-dafi
 \ge triangular bamboo *sieve
 
+
 \lx dafongo
 \ge catch
+
 
 \lx dagali
 \ge substitute
 
+
 \lx dagamono
 \ge catch
+
 
 \lx daganga
 \ge merchant stranger
 
+
 \lx dagapi
 \ge explanation
+
 
 \lx dagarihi
 \ge cry intensely
 
+
 \lx dagi
 \ge run able to
+
 
 \lx dagi-dagi
 \ge run
 
+
 \lx dago-dago
 \ge run to meet
 
+
 \lx dahabaka
 \ge hit by accident
+
 
 \lx dahango
 \ge spread
 \ge grow
 
+
 \lx dahao
-\ps PART
+\ps part
 \ge before
 \gn baru
 
+
 \lx dahe
 \ge crawl
+
 
 \lx dahi
 \ge extend hand
 \ge handshake
 
+
 \lx daho
 \ge name of mans sisters child
+
 
 \lx dahongo
 \ge catch
 
+
 \lx dahu
-\ge name of wifes husbands sister
+\ge name of wife's husbands sister
+
 
 \lx dahuku
 \ge calendar of rope knots
 
+
 \lx dai
-\ps LOC
+\ps loc
 \ge directional adverb, "on the sea"
 
-\se daioka
-\ge on the *sea
-\ge seawards
 
-\se daiuha
-\ge landwards
+\lx daioka
+\ps dir
+\ge on the *sea
+\ge seaward
+\crm dai
+
+\lx daiuha
+\ps dir
+\ge landward
+\crm dai
+
 
 \lx dai-dai
+\ps ho
 \ge carry on the back
+
 
 \lx dailako
 \ps ho ma
 \ge look at
 
+
 \lx dailangi
 \ge morning twilight
 \sd time
 
+
 \lx daji
+\ps o
 \ge bamboo money container
 \ge bamboo fishing float
 \sd tool
 
+
 \lx daka
+\ps o
 \ge honey
 \sd food
+
 
 \lx dake
 \ge seperate fighters
 
+
 \lx dake
 \ge above
 \ge up here
+
 
 \lx dakena
 \ps DEM
@@ -2107,97 +2607,130 @@
 \ge directional demonstrative, "that upward"
 \sd dir
 
+
 \lx dakolo
 \ge bargain
 
+
 \lx daku
-\ps LOC
+\ps loc
 \ge above
+
 
 \lx dakuru
 \ge catch a liquid
 
+
 \lx dalima
+\ps o
 \ge pomegranate tree
+\sd plant
 
 \lx daluku
+\ps o
 \ge palm wine
+\sd food
 
 \lx dama
+\ps ha
 \ge wait for
+
 
 \lx damela
 \ge stink
 
+
 \lx damonu
 \ge cover
+
 
 \lx damouro
 \ge watch
 
+
 \lx damouro
 \ge approach
 \ge come close
+
 
 \lx damunu
 \ps o
 \ge drum
 \gn
 
+
 \lx dana
 \ge gentle
 \ge tame
 
+
 \lx danana
 \ge helpfulness
 
+
 \lx danawaka
 \ge bad
+
 
 \lx danena
 \ps DEM
 \ge directional demonstrative, "that seaward"
 
+
 \lx dangade
 \ge quick action
 
+
 \lx danganga
+\ps o
 \ge rice destroying insect
 \re insect
-\sc ?
+\sd ?
 \sd insect
 
+
 \lx dangi
+\ps ho
 \ge sit
+
 
 \lx dangutu
 \ge hatred
+
 
 \lx danongo
 \ps nanga
 \ge grandchild
 \sd kin
 
+
 \lx dapa
 \ge tell
+
 
 \lx dapalyu
 \ge depressed
 
+
 \lx daparaha
 \ge pin on
+
 
 \lx dapariono
 \ge lap
 
+
 \lx daramouho
 \ge squeeze
+
 
 \lx dararono
 \ge glimmer
 
+
 \lx dari
 \ge name of womans brothers children
+
 
 \lx daro-daromo
 \ps ma
@@ -2205,60 +2738,79 @@
 \gn hitam-hitam
 \sd color
 
+
 \lx daromo
 \ps ma
 \ge black
 \gn hitam
 \sd color
 
+
 \lx darunu
 \ge seperate
+
 
 \lx darunu
 \ge property stake
 
+
 \lx datauru
 \ge pull closed
 
+
 \lx dateuke
 \ge beside
+
 
 \lx datomo
 \ps ha
 \ge to *plant
 \gn tanam
 
+
 \lx datoro
 \ps o
 \ge conflict
 \gn peraturan
 
+
 \lx dau
-\ps LOC
+\ps loc
 \ge below
+
 
 \lx dawaga
 \ge close
 
+
 \lx dawara
 \ge order in housekeeping
 
+
 \lx de
+\ps part
 \ge and
 \ge with
 \ge then
 
+
 \lx debini
+\ps o
 \ge coconut oil
+
 
 \lx debini
 \ge pure
 
+
 \lx deda
-\ge fish
+\ps o
+\ge k o fish
+\sd fish
 
 \lx dede
 \ge with
+
 
 \lx dedeta
 \ps o
@@ -2267,6 +2819,7 @@
 \ps ha
 \ge to *sift with a sieve
 
+
 \lx dedetoro
 \ps o
 \ge mouse
@@ -2274,27 +2827,33 @@
 \gn tikus
 \sd animal
 
+
 \lx dedouro
 \ps o
 \ge k o *tree
 \gn
 \sd plant
 
+
 \lx dego
 \ge set
+
 
 \lx deheuro
 \ge twine
 \ge climb
+
 
 \lx dekano
 \ps
 \ge long duration
 \sd time
 
+
 \lx dekaura
 \ge top
 \ge point
+
 
 \lx demo
 \ps ho ma
@@ -2302,80 +2861,109 @@
 \ps ma
 \ge language
 \ge word
-\se o Tobeloho ma demo
-\de Tobelorese, the Tobelo language
+\xv o Tobeloho ma demo
+\xe Tobelorese, the Tobelo language
 \re Tobelorese
 
+
 \lx demo-demo
+\ps o
 \ge headhunters
 
+
 \lx demoko
-\ps
+\ps o
 \ge mushrooms
 \gn
 \sd plant
 
+
 \lx dengi
-\ps
+\ps o
 \ge fine *rattan
 \gn
 \sd plant
+
 
 \lx dengo
 \ge joint
 \ge articulation
 
+
 \lx deo
 \ge squeeze
 
+
 \lx deri
+\ps o
 \ge large pandanus *sack
+
 
 \lx derihi
 \ps o
 \ge palm leaf *cup
+\sd household
 
 \lx dero
 \ge time of
 
+
 \lx dero
 \ge rightly
+
 
 \lx deta
 \ge pour
 
+
 \lx detouro
 \ge in
 
+
 \lx detu
+\ps ho
 \ge make *fire
+
 
 \lx deubeho
 \ge narrow
 \ge tight
 
+
 \lx deubeturu
+\ps i na
 \ge lazy
+\ps ma
+\ge laziness
+\xv o nyawa ma deubeturu
+\xe lazy person
+
 
 \lx deudela
 \ge bowstring
 
+
 \lx deudeli
 \ge tendon
+
 
 \lx deukekeure
 \ge grate
 \ge groin
 
+
 \lx deuremi
 \ge second year rice *field
+
 
 \lx deurero
 \ge dry
 
+
 \lx dewili
 \ge fiber
 \ge thread
+
 
 \lx dia
 \ps o
@@ -2383,22 +2971,27 @@
 \ge cleaver
 \gn parang
 
+
 \lx diagi
 \ge bamboo pot
+
 
 \lx diai
 \ps ho
 \ge make
+
 
 \lx diangi
 \ge live
 \ge stay
 \ge sojourn
 
+
 \lx diauo
 \ge mate
 \ge fellow
 \ge companion
+
 
 \lx diba
 \ps o
@@ -2406,31 +2999,40 @@
 \gn
 \sd plant
 
+
 \lx dibitumu
 \ge press
+
 
 \lx dibo-diboko
 \ge swim
 
+
 \lx diburu
 \ge sprout
+
 
 \lx dide
 \ge hang
 \ge carry
 
+
 \lx didide
 \ge cradle
+
 
 \lx didipo
 \ge stick used to pick fruit
 
+
 \lx didomo
 \ge heal
+
 
 \lx didumu
 \ge cover
 \ge deny
+
 
 \lx difu
 \ps ho
@@ -2438,15 +3040,19 @@
 \gn putar Tanjung Djere
 \sd nautical
 
+
 \lx digi-digi
 \ge close by
+
 
 \lx digiranga
 \ge longitudinal
 
+
 \lx dihanga
 \ge firmament
 \ge heaven
+
 
 \lx dihidete
 \ps
@@ -2454,58 +3060,75 @@
 \gn layar
 \sd nautical
 
+
 \lx dihihiri
 \ge drone
+
 
 \lx dihini
 \ge dozen *chickens
 
+
 \lx dihira
 \ge front piece
 
+
 \lx dihiwara
 \ge shine upon
+
 
 \lx dihongo
 \ge happiness
 \ge prosperity
 \ge profit
 
+
 \lx dika
-\ps PART
+\ps part
 \ge just
 \gn saja
+
 
 \lx diki
 \ge support
 
+
 \lx diki-diki
 \ge walking *stick
+
 
 \lx dikiti
 \ge cough
 
+
 \lx dilago
 \ge fruit
 
+
 \lx dilibu
 \ge fruit
+
 
 \lx dilibu
 \ge fruit
 \ge fetus
 
+
 \lx diliki
 \ge male *genetalia
+
 
 \lx dilikini
 \ge spirits of the dead
 
+
 \lx dilikitu
 \ge divorced wife
 
+
 \lx dimoaka
 \ge remainder
+
 
 \lx dimo-dimono
 \ps o
@@ -2513,64 +3136,87 @@
 \gn yang paling tua
 \crm timono
 
+
 \lx dina
-\ps LOC
+\ps loc
 \ge on the land
+
 
 \lx dinena
 \ps DEM
 \ge that landward
 
+
 \lx dineunguku
 \ge seawards
+
 
 \lx dingi
 \ge tight
 
+
 \lx dingi-dingi
 \ge song game
 
+
 \lx dino
 \ge loom
 
+
 \lx dino
+\ps ma
 \ge burned
+\xv o uku ma dino
+\xe firewood
+
 
 \lx dino
 \ge loom
+
 
 \lx diodaka
 \ge crawl under
 
+
 \lx dioha
 \ge house
+
 
 \lx diopo
 \ge brothers *wife
 
+
 \lx diopo
 \ge wives of brothers
+
 
 \lx dipidili
 \ge release
 
+
 \lx dipo
 \ge knock o ff fruit
+
 
 \lx dipongo
 \ge banana
 
+
 \lx dipopa
 \ge steep ending
+
 
 \lx ditifa
 \ge fall on
 
+
 \lx ditoko
 \ge set aside
 
+
 \lx ditoko
 \ge deviate
+
 
 \lx doa
 \ps ho ma
@@ -2580,34 +3226,43 @@
 \id oigono tomadoa la mahohoko tomalye
 \ge I climbed the coconut palm in order to get some coconuts
 
+
 \lx doaaura
 \ge surprise
+
 
 \lx doabutu
 \ge purchase price
 
+
 \lx doa-doana
 \ge call names
+
 
 \lx doaka
 \ps ma
 \ge ransom
 \crm toaka
 
+
 \lx doana
 \ge call names
 
+
 \lx dobalyaana
 \ge flat depressed
+
 
 \lx dobi-dobiki
 \ps ma
 \ge a *little bit
 \gn sedikit-sedikit
 
+
 \lx dobiki
 \ps ho
 \ge break o ff
+
 
 \lx dobongo
 \ps ho ma
@@ -2615,15 +3270,19 @@
 \gn
 \crm tobongo
 
+
 \lx doda
 \ge anchor
+
 
 \lx dodadi
 \ge creature
 \ge origin
 
+
 \lx dodaga
 \ge canoe *plank
+
 
 \lx dodagi
 \ps ma
@@ -2631,53 +3290,68 @@
 \ge passage
 \gn perjalanan
 
+
 \lx dodai
 \ge plates
 \ge dishes
 
+
 \lx dodakouro
 \ge knocker
+
 
 \lx dodama
 \ge prolonged *wait
 
+
 \lx dodanu
 \ge colateral
+
 
 \lx dodara
 \ge love
 \ge affection
 
+
 \lx dodato
 \ge fear
 
+
 \lx dode
 \ge shrimp
+
 
 \lx dodego
 \ge press
 \ge sugar press
 
+
 \lx dodemo
 \ge spoken
+
 
 \lx dodengi
 \ge file
 
+
 \lx dodeuke
 \ge fish
 
+
 \lx dodeureboko
 \ge red
+
 
 \lx dodiai
 \ge right
 \ge good
 
+
 \lx dodiawo
 \ps nanga
 \ge friend
 \gn teman
+
 
 \lx dodiba
 \ps nanga
@@ -2685,35 +3359,45 @@
 \gn rambut
 \sd body part
 
+
 \lx dodigiranga
 \ge long wide *mat
+
 
 \lx dodigiranga
 \ge long thin *object
 
+
 \lx dodiha
 \ge snake
+
 
 \lx dodilakeuru
 \ge vessel
 
+
 \lx dodilibu
 \ge sayur liling
+
 
 \lx dodilibu
 \ge vegetable
 
+
 \lx dodinguku
 \ge reward
 
+
 \lx dodipoko
 \ge short
+
 
 \lx dodo
 \ps o
 \ge sweet rice cakes
 \gn waji
 \sd food
+
 
 \lx dodoa
 \ps i na
@@ -2727,27 +3411,33 @@
 \id nododoa
 \ge what do you want?
 
+
 \lx dodoaha
 \ps Q
 \ge why
 \gn kenapa
 
+
 \lx dodoana
 \ge call names
+
 
 \lx dododoto
 \ps o
 \ge youngest *child
 \sd kin
 
+
 \lx dodogumu
 \ps ma
 \ge rest
+
 
 \lx dodoku
 \ps o
 \ge bridge
 \gn jembatan
+
 
 \lx dodoma
 \ps o
@@ -2755,163 +3445,212 @@
 \gn
 \sd animal
 
+
 \lx dodomi
 \ps
 \ge placenta
 \gn
 \sd body part
 
+
 \lx dodomo
 \ge point
 \ge peak
+
 
 \lx dodomo
 \ge point
 \ge pinacle
 
+
 \lx dodongu
 \ge mark
+
 
 \lx dodoole
 \ge roasted *sago balls
 
+
 \lx dodopoko
 \ge spear
 
-\lx dodoporono
-\ge pile
 
 \lx dodoporono
 \ge pile
+
+
+\lx dodoporono
+\ge pile
+
 
 \lx dodora
 \ge weep for
 \ge lament
+
 
 \lx dodoto
 \ps nanga
 \ge younger same-sex *sibling
 \sd kin
 
+
 \lx dodotoko
 \ge instruction
+
 
 \lx dodouno
 \ge clear
 \ge transparent
 
+
 \lx dodowi
 \ge forearm
+
 
 \lx dodowiti
 \ge carrying *stick
 
+
 \lx dodubena
 \ge soft
+
 
 \lx dodubuho
 \ge weight
 
+
 \lx dodubuho
 \ge burdening
+
 
 \lx doduga
 \ge dry *measure
 
+
 \lx dodukuru
 \ge crossbeam
+
 
 \lx dodulali
 \ge stay in one spot
 
+
 \lx dodulihi
 \ge pencil
+
 
 \lx dodumu
 \ge bath water
 
+
 \lx dodumule
 \ge pull out weeds
 
+
 \lx dodupukuru
 \ge wide *mat
+
 
 \lx dodutuku
 \ge anvil
 \ge stamper
 
+
 \lx dofai
 \ge lime
+
 
 \lx dofo
 \ge feed
 \ge foster
 
+
 \lx dogilianga
 \ge unfurl
 \ge unroll
+
 
 \lx dogo
 \ge throw in
 \ge fill up
 
+
 \lx dogohanga
 \ge insanity
+
 
 \lx dogowini
 \ge hard
 
+
 \lx dogu
 \ge hold up
+
 
 \lx dogumu
 \ge hold up
 
+
 \lx doha-dohangau
 \ge desire
+
 
 \lx dohai
 \ge lime
 
+
 \lx dohangau
 \ge fasten
+
 
 \lx doharabaka
 \ge splash
 
+
 \lx dohata
 \ge angry
+
 
 \lx doheuwelanga
 \ge whirl in
 
+
 \lx dohi
 \ge pick
+
 
 \lx dohiki
 \ge steal
 
+
 \lx dohoho
 \ge fly
+
 
 \lx dohotana
 \ge release
 
+
 \lx dohu-dohuku
 \ge stammer
+
 
 \lx dohuku
 \ge go
 \ge backwards
 
+
 \lx dohutu
 \ge darkness
+
 
 \lx doi
 \ge banana
 
+
 \lx doi-doimi
 \ge archery
+
 
 \lx doimi
 \ps ho ma
@@ -2919,21 +3658,26 @@
 \gn tembak
 \sd hunting
 
+
 \lx doio
 \ps o
 \ge crayfish
 \gn
 \sd animal
 
+
 \lx dojo
 \ge pass by
+
 
 \lx doka
 \ge stoke fire
 
+
 \lx doka
-\ps LOC
+\ps loc
 \ge there
+
 
 \lx doka-dokara
 \ps ma
@@ -2941,11 +3685,14 @@
 \gn merah
 \sd color
 
+
 \lx dokeute
 \ge forehead
 
+
 \lx dokeute
 \ge crack
+
 
 \lx doko
 \ps ha
@@ -2956,19 +3703,24 @@
 \xe the pig stepped on the snare and it sprung
 \sd tool
 
+
 \lx dokoto
 \ps o
 \ge wild coconut *palm
 \sd plant
 
+
 \lx dola-bololo
 \ge incantation
+
 
 \lx dolya
 \ge contents
 
+
 \lx dolyomo
 \ge point
+
 
 \lx doma
 \ps
@@ -2977,11 +3729,14 @@
 \gn mati
 \crm toma
 
+
 \lx domi
 \ge coconut *spike
 
+
 \lx domigu
 \ge week
+
 
 \lx domoata
 \ps o
@@ -2989,8 +3744,10 @@
 \ge mist
 \gn kabur
 
+
 \lx domoro
 \ge first *fruit
+
 
 \lx domoteke
 \ps ha
@@ -2999,8 +3756,10 @@
 \id ihidomoteke
 \ge agree with me
 
+
 \lx domoteuke
 \ge splint
+
 
 \lx domuraga
 \ge premature
@@ -3008,16 +3767,20 @@
 \ge hurried
 \ge rash
 
+
 \lx done
-\ps PART
+\ps part
 \ge then
 \gn
+
 
 \lx donga-donga
 \ge joints
 
+
 \lx dongono
 \ge month
+
 
 \lx doohi
 \ps o
@@ -3025,30 +3788,38 @@
 \gn dolosi
 \sd fish
 
+
 \lx doolenge
 \ps ma
 \ge dry
 \ge not *fresh
 \gn kering
 
+
 \lx doouku
 \ge faded
 \ge withered
 
+
 \lx dopa-dopa
 \ge singing game
+
 
 \lx dopo-dopo
 \ge portion of *sago
 
+
 \lx dopo-dopo
 \ge dagger
+
 
 \lx dopoko
 \ge stitch
 
+
 \lx dopotoka
 \ge struck using spring action
+
 
 \lx dora
 \ps ha
@@ -3056,23 +3827,29 @@
 \ge have pity
 \gn
 
+
 \lx dorari
 \ge attend *feasts
 \ge privates
 \nq genitals?
 
+
 \lx dori
 \ge sprout
+
 
 \lx doriha
 \ge put against
 
+
 \lx doriki
 \ge basketwork
+
 
 \lx doro
 \ge strait
 \ge passage
+
 
 \lx doroa
 \ps
@@ -3080,12 +3857,15 @@
 \gn
 \sd kin
 
+
 \lx dorou
 \ge bad
 \ge ugly
 
+
 \lx dorure
 \ge threshold
+
 
 \lx doruru
 \ps
@@ -3093,38 +3873,50 @@
 \gn
 \bw Ternate
 
-\lx dotaka
-\ge bring
 
 \lx dotaka
 \ge bring
 
-\lx dotama
-\ge drumsticks
+
+\lx dotaka
+\ge bring
+
 
 \lx dotama
 \ge drumsticks
+
+
+\lx dotama
+\ge drumsticks
+
 
 \lx dotara
 \ge come out
 
+
 \lx doteri
 \ge doctor
+
 
 \lx doteuke
 \ge tap
 
+
 \lx doteuri
 \ge doctor
 
-\lx doti
-\ge bewitch
 
 \lx doti
 \ge bewitch
+
+
+\lx doti
+\ge bewitch
+
 
 \lx dotiliara
 \ge cut away
+
 
 \lx doto
 \ps ma
@@ -3133,11 +3925,14 @@
 \ge point
 \sd nautical
 
+
 \lx doto-doto
 \ge sharp
 
+
 \lx dotogoreuhe
 \ge intense *crying
+
 
 \lx dotoko
 \ps ho ma
@@ -3147,30 +3942,37 @@
 \ge teach
 \gn mengajar
 
+
 \lx dotoreke
 \ps o
 \ge gecko
 \gn
 \sd animal
 
+
 \lx dotoreke
 \ps o
 \ge thunder
 \gn guntur
 
+
 \lx dotowara
 \ge hardened
 
+
 \lx dotumo
 \ge throw
+
 
 \lx dotumu
 \ps
 \ge fourth generation *grandparents
 \sd kin
 
+
 \lx dowiti
 \ge carry with sticks
+
 
 \lx dowongi
 \ps o
@@ -3179,26 +3981,33 @@
 \gn pasir
 \sd nautical
 
+
 \lx dowora
 \ps o
 \ge ironwood
 \gn
 \sd plant
 
+
 \lx dua-dua
 \ge bellows
+
 
 \lx dubaba
 \ge pour
 
+
 \lx dubara
 \ge adversity
+
 
 \lx dubo
 \ge put up high
 
+
 \lx dubuho
 \ge heavy
+
 
 \lx dudu
 \ps ma
@@ -3208,209 +4017,267 @@
 \ge to *smoke (tobacco)
 \gn merokok
 
+
 \lx dudubo
 \ge put s t up high
+
 
 \lx duduga
 \ge measure
 
+
 \lx duduheure
 \ge final decision
+
 
 \lx duduku
 \ge resentment
 \ge unpleasantness
 \ge apathy
 
+
 \lx dudumunu
 \ge west
+
 
 \lx dudumutu
 \ps ma
 \ge index *finger
 \sd body part
 
+
 \lx dudungono
 \ge dainty
+
 
 \lx dudungu
 \ge lumbar pain
 
+
 \lx dudungu
 \ge dry
 
-\lx dudungutu
-\ge direction
 
 \lx dudungutu
 \ge direction
+
+
+\lx dudungutu
+\ge direction
+
 
 \lx dudunu
 \ge June
 
+
 \lx duduono
 \ge crowd of people
 
+
 \lx dudutu
 \ge grayhaired
+
 
 \lx dudutu
 \ge drop
 \ge drip
 
+
 \lx dudutu
 \ge pick lice from hair
+
 
 \lx duduuru
 \ge lazy
 
+
 \lx dudyu
 \ge fill
+
 
 \lx duga
 \ge size
 
+
 \lx duga
 \ge measure
+
 
 \lx duga-duga
 \ge only
 \ge except
 
+
 \lx duhu
 \ge chase away
+
 
 \lx duhuhu
 \ge baby
 
+
 \lx duhuhuru
 \ge hunt
 \ge flush
+
 
 \lx duhuku
 \ps ho
 \ge shoot
 \gn tembak
 
+
 \lx duhunu
 \ge help
 \ge assist
 
+
 \lx duka-duka
 \ge sitting melancholy
+
 
 \lx dukama
 \ge melancholy
 \ge sad
 
+
 \lx dukono
 \ge volcano
+
 
 \lx duku
 \ge stand with arms down
 
+
 \lx duku
 \ge press
+
 
 \lx dukunu
 \ge coconut
 
+
 \lx dukuru
 \ge coconut
 
+
 \lx dukuru
 \ge lay across
+
 
 \lx dukuru
 \ge assist
 \ge answer for
 
+
 \lx dulada
 \ge image
 
+
 \lx dulaka
 \ge prostitution
+
 
 \lx dulaka
 \ge lewd
 \ge prostitute
 
+
 \lx dulali
 \ge unfair *taunting
+
 
 \lx dulihi
 \ge color
 
+
 \lx dulu
 \ge arrive
+
 
 \lx dululu
 \ge roll against
 
+
 \lx dulumutu
 \ge waste
+
 
 \lx duma
 \ge push
 
+
 \lx duma-duma
 \ge push on
 
+
 \lx dumamata
 \ge evening land *breeze
+
 
 \lx dumeda
 \ge competent
 \ge quick
 
+
 \lx dumu
 \ge plant rice
 
+
 \lx dumu-bole
 \ge soft *food
+
 
 \lx dumule
 \ps o
 \ge garden
 \gn kebun
 
+
 \lx dumunitara
 \ge dew
 \ge rain
 
+
 \lx dumunu
 \ge west
 
+
 \lx dumunu
 \ge dive
+
 
 \lx dumutu
 \ge index
 \ge *finger
 
+
 \lx dumutu
 \ge forefinger
+
 
 \lx dunata
 \ge greed
 \ge gluttony
 
+
 \lx dungiri
 \ps ma
-\ge scale
-\id onawoko madungiri
-\ge fish scale
+\ge scale (of fish)
+\sd body part
+\xv onawoko madungiri
+\xe fish scale
 \ps o
 \ge k o freshwater *fish
 \gn
+\sd fish
 \ps o
 \ge k o plant
 \gn
-\ps ha
-\ge to *scale
-\sd fish
-\sd animal
 \sd plant
+\ps ha
+\ge to *scale (fish)
+
 
 \lx dungouno
 \ps ho
@@ -3418,13 +4285,16 @@
 \ps i na
 \ge refuse s t
 
+
 \lx dungu-dungutu
 \ge run to meet
+
 
 \lx dungutu
 \ps nanga
 \ge intention
 \gn maksud
+
 
 \lx dunia
 \ps ho
@@ -3433,65 +4303,82 @@
 \id homatekeduniaka
 \gn kita sudah saling meminang
 
+
 \lx dunia
 \ps o
 \ge world
 \gn dunia
 \bw Malay
 
+
 \lx duono
 \ge crowd of people
+
 
 \lx dupuda
 \ge breakout in a rash
 
+
 \lx dupuri
 \ge *infertile ground
 
+
 \lx durahi
 \ge steepness
+
 
 \lx durahi
 \ps ma
 \ge bluff
 \gn
 
+
 \lx dure
-\ps PART
+\ps part
 \ge very
+
 
 \lx duru
 \ps ADV
 \ge very
+
 
 \lx duru
 \ps ma
 \ge after
 \ge behind
 
+
 \lx dururu
 \ps ma
 \ge replacement
+
 
 \lx dutu
 \ps ma
 \ge property owner
 
+
 \lx dutu-dutuku
 \ge drive on
 
+
 \lx dutungutu
 \ge awl
+
 
 \lx duuuku
 \ge shape
 \ge form
 
+
 \lx duuuku
 \ge mourn
 
+
 \lx duuuru
 \ge miserly
+
 
 \lx ebe
 \ps o
@@ -3500,17 +4387,21 @@
 \ps ma
 \ge fish *fin
 
+
 \lx edeukati
 \ge sense
 \ge inclination
 \ge plan
 
+
 \lx ee
 \ge grandmother
+
 
 \lx ehato
 \ge push
 \ge press on
+
 
 \lx ehe
 \ps ho
@@ -3520,33 +4411,42 @@
 \ps ho ma g
 \ge rub off s t
 
+
 \lx eh!
 \ge well
+
 
 \lx eka
 \ge betel
 
+
 \lx eke
 \ge fine *mats
+
 
 \lx ekere
 \ps ha
 \ge winnow rice
 
+
 \lx eki
 \ge tobacco plug
 
+
 \lx eko
-\ps PART
+\ps part
 \ge or
 \gn atau
+
 
 \lx ekoro
 \ge tortise shell *comb
 
+
 \lx ele
 \ge let *loose
 \ge slip
+
 
 \lx ele
 \ps nanga
@@ -3554,18 +4454,23 @@
 \gn nene
 \sd kin
 
+
 \lx elu-eluku
 \ge lie continuously
+
 
 \lx eluku
 \ge lie
 
+
 \lx elye
 \ge grandmother
+
 
 \lx emouno
 \ge dirty
 \ge revolting
+
 
 \lx enangohi
 \ps ma
@@ -3573,20 +4478,25 @@
 \gn masih ada lagi
 \sd
 
+
 \lx enga-engayo
 \ge not fresh
+
 
 \lx engini
 \ps o
 \ge enemy
 \gn musuh
 
+
 \lx eni
 \ge this
 \ge these
 
+
 \lx eri
 \ge brother in law
+
 
 \lx ete
 \ps nanga
@@ -3594,11 +4504,13 @@
 \gn
 \sd kin
 
+
 \lx eteki
 \ps ma
 \ge small (of things)
 \ps manga
 \ge small (of people)
+
 
 \lx etongo
 \ps ho
@@ -3606,98 +4518,124 @@
 \ge calculate
 \gn hitung
 
+
 \lx faaumu
 \ge female *servant
+
 
 \lx fafara
 \ge shiver
 
+
 \lx fafaru
 \ge streams
+
 
 \lx fafati
 \ge reason
 \ge excuse
 
+
 \lx fafo
 \ge stack
 \ge pile
+
 
 \lx faida
 \ge profit
 \ge happiness
 \ge advantage
 
+
 \lx faiti
 \ge dig up
+
 
 \lx faja
 \ge greasy
 \ge dirty
 \ge messy
 
+
 \lx faka
 \ge peel
+
 
 \lx fakati
 \ge agreement
 \ge consideration
 
+
 \lx fakiri
 \ge fictional *woman
+
 
 \lx fala
 \ge house
 
+
 \lx falola
 \ge answer
+
 
 \lx fangi
 \ge turn
 \ge avert
 \ge stop
 
+
 \lx fangu
 \ge pay
 \ge compensate
 \ge satisfy
 
+
 \lx fangunu
 \ge pay
 \ge compensate
 
+
 \lx farade
 \ge put in mouth
+
 
 \lx fara-fara
 \ge all
 \ge one by one
 
+
 \lx fara-fara
 \ge classify
 \ge divide
 
+
 \lx fareune
 \ge step in
+
 
 \lx fasali
 \ge chapter
 \ge division
 \ge portion
 
+
 \lx fatu-fatu
 \ge hoe
+
 
 \lx fau
 \ge widow
 
+
 \lx fauru
 \ge handle
+
 
 \lx fekata
 \ps
 \ge spouse
 \crm hekata
+
 
 \lx fenes
 \ps o
@@ -3705,38 +4643,49 @@
 \gn fenes
 \bw
 
+
 \lx feno
 \ge help
 \ge assist
 
+
 \lx feoleouru
 \ge turn over
+
 
 \lx feoto
 \ps
 \ge tap palm wine
 
+
 \lx fero
 \ge grow fast
 \ge shoot up
 
+
 \lx feulenga
 \ge open
+
 
 \lx feuleta
 \ge sago rattle
 
+
 \lx feune
 \ge tortise
+
 
 \lx fideuro
 \ge friction
 
+
 \lx fidili
 \ge let *loose
 
+
 \lx fififi
 \ge suck
+
 
 \lx filidouro
 \ps o
@@ -3744,14 +4693,18 @@
 \gn
 \sd animal
 
+
 \lx fini
 \ge seed
+
 
 \lx firanga
 \ge sister
 
+
 \lx firikiti
 \ge distort
+
 
 \lx firu-firu
 \ps o
@@ -3759,23 +4712,29 @@
 \gn
 \sd animal
 
+
 \lx fisa
 \ge loincloth
+
 
 \lx fita
 \ge tie
 \ge ribbon
 
+
 \lx fitako
 \ge tree
+
 
 \lx fitana
 \ge badness
 \ge iniquity
 \ge untruthfulness
 
+
 \lx fofan
 \ge soap *tree
+
 
 \lx fofo
 \ps o
@@ -3783,63 +4742,82 @@
 \gn
 \sd animal
 
+
 \lx fofongo
 \ge shade
+
 
 \lx foka
 \ge wash out
 
+
 \lx fokoto
 \ge fist
+
 
 \lx fokumu
 \ge pour out
 
+
 \lx foloi
 \ge more
+
 
 \lx folori
 \ge prescious *stone
 \ge costly *wood
 
+
 \lx fongana
 \ge woods
+
 
 \lx fufu
 \ge blow
 
+
 \lx fufuta
 \ge tangled
 
+
 \lx fukunu
 \ge sell
+
 
 \lx fuluiti
 \ps o
 \ge flute
 \gn
 
+
 \lx fuma
 \ge stupid
 \ge foolish
 
+
 \lx fuo
 \ge heart
+
 
 \lx furu
 \ge gland
 
+
 \lx futa
 \ge tangled
+
 
 \lx futu
 \ge night
 
+
 \lx futurungu
 \ge strength
 
+
 \lx gaacomo
 \ge coarse
+
 
 \lx gaafufu
 \ps ma
@@ -3847,20 +4825,25 @@
 \gn
 \sd body part
 
+
 \lx gaagoumo
 \ge lump
 \ge clod
 
+
 \lx gaahu
 \ge vegetable
 
+
 \lx gaauta
 \ge ankle *bands
+
 
 \lx gaawiti
 \ps o
 \ge k o *spear (with a barbed point)
 \sd hunting
+
 
 \lx gabi
 \ps o
@@ -3868,61 +4851,78 @@
 \gn
 \sd plant
 
+
 \lx gadaku
 \ps
 \ge on top of
 
+
 \lx gadina
 \ge there landwards
+
 
 \lx gadingi
 \ge wooden knee
 \ge strut
 
+
 \lx gagahu
 \ge yield
 \ge harvest
 
+
 \lx gagakauna
 \ge make fun of
+
 
 \lx gagaku
 \ge torch
 
+
 \lx gagali
 \ge wash off blood *ceremony
+
 
 \lx gagao
 \ge care
 \ge nurse
 
+
 \lx gagara
 \ge rib
+
 
 \lx gagau
 \ge tool
 \ge work
 \ge labor
 
+
 \lx gagawang
 \ge bewildered
 \ge desperate
 
+
 \lx gagawi
 \ge swallow
 
+
 \lx gahata
 \ge bamboo sheath
+
 
 \lx gahauku
 \ge sweat
 \ge perspiration
 
+
 \lx gahe
 \ge time
 
+
 \lx gahea
 \ge bamboo frame to smoke herring
+
 
 \lx gahi
 \ps o
@@ -3930,9 +4930,11 @@
 \ge seawater
 \sd nautical
 
+
 \lx gahoko
 \ge ask
 \ge request
+
 
 \lx gahuhu
 \ps ma
@@ -3940,10 +4942,12 @@
 \gn
 \sd body part
 
+
 \lx gahumu
 \ps
 \ge solid
 \ge not *damaged
+
 
 \lx gaibiti
 \ps o
@@ -3951,12 +4955,15 @@
 \gn
 \sd birds
 
+
 \lx gai-hahaluta
 \ge jump on one leg
 \ge hopscotch
 
+
 \lx gaili
 \ge maggots
+
 
 \lx gakaka
 \ps
@@ -3964,75 +4971,95 @@
 \gn
 \sd body part
 
+
 \lx gakana
 \ps o
 \ge knife
 \gn pisau
 \sd
 
+
 \lx gakunu
 \ge rich
 \ge influential
 \ge distinguished
 
+
 \lx gala-gala
 \ge putty
 \ge grease
 
+
 \lx galala
 \ge noise
 
+
 \lx galaufea
 \ge bamboo frame to smoke herring
+
 
 \lx gale
 \ge coil
 \ge ring
 
+
 \lx galeri
 \ge look askance
+
 
 \lx gali
 \ge repeat
 
+
 \lx galiaha
 \ge spice plant
+
 
 \lx galigouno
 \ge festering *wound
 
+
 \lx galipi
 \ge right
 \ge common *law
+
 
 \lx galu
 \ge follower
 \ge diciple
 \ge imitator
 
+
 \lx galuga
 \ge k o *plant with red beans
 
+
 \lx galula
 \ge a skin *disease
+
 
 \lx galyoko
 \ge bark skirt
 \ge sarong
 
+
 \lx galyoko
 \ge large *tree
+
 
 \lx gamamu
 \ge gloomy
 \ge cloudy
 
+
 \lx gane
 \ge fine rice
+
 
 \lx gani
 \ge intoxicated
 \ge sick
+
 
 \lx gani
 \ps o
@@ -4040,33 +5067,42 @@
 \gn kutu
 \sd animal
 
+
 \lx gani-gani
 \ge intoxicating
+
 
 \lx ganu
 \ge mix
 
+
 \lx gaoto
 \ge bitten off piece
+
 
 \lx garade
 \ge cut out
 \ge carved
 
+
 \lx gara-gara
 \ge whim
 \ge caprice
+
 
 \lx garago
 \ge rejoice
 \ge joyful
 
+
 \lx garaha
 \ge rustling
+
 
 \lx garanga
 \ge rattling
 \ge ringing
+
 
 \lx garara
 \ps nanga
@@ -4080,17 +5116,22 @@
 \ge thumb
 \sd body part
 
+
 \lx gararama
 \ge plant *louse
+
 
 \lx garau
 \ge nibble
 
+
 \lx garaugaji
 \ge saw
 
+
 \lx gare
 \ge barb
+
 
 \lx gare-garehe
 \ps ma
@@ -4098,44 +5139,57 @@
 \gn putih
 \sd color
 
+
 \lx gareufo
 \ge fork
+
 
 \lx gareugaliti
 \ge bottle
 
+
 \lx gareu-gareuhe
 \ge white
+
 
 \lx gari
 \ge cry
 \ge weep
 
+
 \lx gari-garihi
 \ge matches
+
 
 \lx garo
 \ge goad
 \ge incite
 
+
 \lx gate
 \ge liver
+
 
 \lx gate-gate
 \ge marbles
 
+
 \lx gau
 \ge cigarette paper
 
+
 \lx gaueuno
 \ge buttocks
+
 
 \lx gau-gau
 \ge work
 \ge trade
 
+
 \lx gauku
 \ge vegetable
+
 
 \lx gawa
 \ps i
@@ -4145,22 +5199,28 @@
 \id oakere magawa-gawa
 \ge turbid water
 
+
 \lx gawaha
 \ge durable wood
+
 
 \lx gawaya
 \ge wild fruit tree
 
+
 \lx gawewe
 \ge fifth generation *ancestor
+
 
 \lx gawi
 \ge wave
 \ge becon
 
+
 \lx gege
 \ge sliver
 \ge small *piece
+
 
 \lx gegegele
 \ps o
@@ -4168,69 +5228,88 @@
 \gn
 \sd animal
 
+
 \lx gegouto
 \ge worry
 \ge nag
 \ge annoy
 
+
 \lx geha-kira-kira
 \ge ignore
+
 
 \lx gehanga
 \ge yawn
 \ge gape
 
+
 \lx gehe
 \ge sand
 \ge rub off
 
+
 \lx gehuku
 \ge liana
 
+
 \lx gehulahi
 \ge glass
+
 
 \lx gele-gele
 \ge quarrel
 \ge tease
 \ge badger
 
+
 \lx gelewoutu
 \ge wipe butt
+
 
 \lx gena
 \ge those
 \ge that
+
 
 \lx gena
 \ps DEM
 \ge that
 \ge there
 
+
 \lx genanga
 \ge those
 \ge that
 
+
 \lx gendi
 \ge ceramic *bottle
+
 
 \lx gengika
 \ge there
 
+
 \lx gengilye
 \ge there above
+
 
 \lx gengino
 \ge from there to here
 
+
 \lx genginohi
 \ge from then on
+
 
 \lx gengoka
 \ge there
 
+
 \lx genguku
 \ge there below
+
 
 \lx geri
 \ps
@@ -4238,34 +5317,42 @@
 \gn ipar
 \sd kin
 
+
 \lx geri-doroua
 \ps
 \ge mans inlaws
 \gn
 \sd kin
 
+
 \lx gerongu
 \ge club
 \ge wooden cleaver
+
 
 \lx geto-getongo
 \ps
 \ge all
 \ge one by one
 
+
 \lx getongo
 \ps ma
 \ge every
 \gn tiap
 
+
 \lx geugegouto
 \ge worry
+
 
 \lx geugewe
 \ge chew
 
+
 \lx geuhihi
 \ge seed
+
 
 \lx geuletiti
 \ps
@@ -4273,23 +5360,30 @@
 \gn
 \sd body part
 
+
 \lx geurehi
 \ge yaws
+
 
 \lx geurenge
 \ge rattle
 
+
 \lx geurewoto
 \ge scattered
+
 
 \lx geutefata
 \ge raft
 
+
 \lx geutehata
 \ge raft
 
+
 \lx ge-weui
 \ge chew sugar cane
+
 
 \lx giama
 \ps nanga
@@ -4299,14 +5393,17 @@
 \gn tangan
 \sd body part
 
+
 \lx giau
 \ps o
 \ge drinking *coconut
 \gn kelapa muda
 \sd food
 
+
 \lx giete
 \ge laughed at
+
 
 \lx gigabu
 \ps
@@ -4314,10 +5411,12 @@
 \gn
 \sd plant
 
+
 \lx gigan
 \ge fresh
 \ge new
 \ge unripe
+
 
 \lx giganga
 \ps o
@@ -4325,13 +5424,16 @@
 \gn
 \sd plant
 
+
 \lx gigima
 \ge fun after a feast
+
 
 \lx gigini
 \ge nurse
 \ge raise
 \ge feed
+
 
 \lx gigoro
 \ps ho
@@ -4342,8 +5444,10 @@
 \ge be quiet!
 \gn jangan ribut!
 
+
 \lx gihe-giheune
 \ge obey
+
 
 \lx gihini
 \ps
@@ -4351,9 +5455,11 @@
 \gn
 \sd plant
 
+
 \lx gihoro
 \ge grind
 \ge abrasive
+
 
 \lx gihouro
 \ps
@@ -4361,23 +5467,29 @@
 \gn
 \sd food
 
+
 \lx giki-loa
 \ge warewolf
 
+
 \lx gikiri
 \ge spirit
+
 
 \lx gila-gila
 \ps ho
 \ge to *continue
 \gn lanjut
 
+
 \lx gilaongo
 \ge female *slave
+
 
 \lx gilianga
 \ge break
 \ge unfurl
+
 
 \lx gilidanga
 \ps
@@ -4385,8 +5497,10 @@
 \gn
 \sd animal
 
+
 \lx gilili
 \ge skin *disease
+
 
 \lx gilio
 \ps ho hi
@@ -4394,9 +5508,11 @@
 \ge bring back
 \gn kembalikan
 
+
 \lx giliri
 \ge praise
 \ge honor
+
 
 \lx gilitopa
 \ps o
@@ -4404,23 +5520,28 @@
 \gn
 \sd plant
 
+
 \lx giloi
 \ps
 \ge to *smooth
 \gn
 
+
 \lx gilya-gilyaka
 \ge married people
+
 
 \lx gilyaka
 \ps
 \ge marry
 \gn kawin
 
+
 \lx gina
 \ge load
 \ge cargo
 \ge contents
+
 
 \lx gineune
 \ps o
@@ -4428,11 +5549,14 @@
 \gn
 \sd animal
 
+
 \lx giniki
 \ge drive away
 
+
 \lx ginitara
 \ge light
+
 
 \lx ginogi
 \ps
@@ -4440,25 +5564,32 @@
 \gn
 \sd fish
 
+
 \lx giofiki
 \ge sour
+
 
 \lx giohiki
 \ge sour
 
+
 \lx gioko
 \ge sleep
 
+
 \lx giopu
 \ge dragnet
+
 
 \lx gipirini
 \ps o
 \ge k o *snake
 \sd animal
 
+
 \lx giranga
 \ge posts
+
 
 \lx giria
 \ps ma
@@ -4466,52 +5597,66 @@
 \id olobi magiria
 \ge it's cloudy
 
+
 \lx giriri
 \ge praise
 \ge glory
 \ge honor prize
 
+
 \lx gitaamoko
 \ge dawn
+\sd sky
+
 
 \lx gitaoa
 \ge heaven
 \ge sky
+\sd sky
 
 \lx gitifiri
 \ge fingernails
 \ge toenails
 \ge claws
+\sd body part
 
 \lx gitihiri
 \ge fingernails
 \ge toenails
+\sd body part
 
 \lx gito
 \ps o
 \ge coconut *beetle
 \gn
-\sd animal
+\sd insect
+
 
 \lx giunu
 \ge hide someone
+
 
 \lx giwe
 \ps
 \ge waterfall
 \gn air terjun
+\sd earth
+
 
 \lx giwi
 \ge move
 \ge shake
 
+
 \lx go
 \ge growth
+
 
 \lx go
 \ge fresh
 \ge not *finished
 \ge unfaded
+
 
 \lx goa
 \ps o
@@ -4520,18 +5665,23 @@
 \ge stump
 \sd plant
 
+
 \lx goaha
 \ge ebb
+
 
 \lx goana
 \ge watch
 \ge wait for
 
+
 \lx gobe
 \ge stalk
 
+
 \lx gobu
 \ge pick up
+
 
 \lx gobubulu
 \ps i
@@ -4539,14 +5689,17 @@
 \gn gelembung
 \sd
 
+
 \lx gobuhu
 \ps o
 \ge cockroach
 \gn
 \sd animal
 
+
 \lx gocela
 \ge cluster
+
 
 \lx goduru
 \ps o
@@ -4554,15 +5707,18 @@
 \ge youth
 \gn pemuda
 
+
 \lx gofa
 \ge club
 \ge bludgeon
+
 
 \lx gofau
 \ps
 \ge k o small *fish
 \gn
 \sd fish
+
 
 \lx gofelanga
 \ps o
@@ -4571,11 +5727,14 @@
 \gn
 \sd animal
 
+
 \lx gofi
 \ge flat
 
+
 \lx gofo
 \ge wash hair in coconut milk
+
 
 \lx gofoanga
 \ps o
@@ -4583,25 +5742,32 @@
 \gn forno
 \sd food
 
+
 \lx gofu-haerani
 \ge weed
+
 
 \lx gogaha
 \ge character
 
+
 \lx gogahoko
 \ge request
 
+
 \lx gogahu
 \ge livelihood
+
 
 \lx Gogaili
 \ps o
 \ge river South of Labi-Labi
 
+
 \lx gogaka
 \ge maybe
 \ge perhaps
+
 
 \lx gogama
 \ps i na
@@ -4609,17 +5775,22 @@
 \ge cold
 \ge fever
 
+
 \lx gogarade
 \ge carving
+
 
 \lx gogata
 \ge fourth part
 
+
 \lx gogatahiki
 \ge soft
 
+
 \lx gogehe
 \ge rub
+
 
 \lx gogele
 \ge challenge
@@ -4627,38 +5798,49 @@
 \ge taunt
 \ge slander
 
+
 \lx gogeulewoto
 \ge toilet paper
+
 
 \lx gogeure
 \ge live
 \ge stay
+
 
 \lx gogeurebongo
 \ge irresponsible
 \ge foolish
 \ge half wild
 
+
 \lx gogeurena
 \ge cushion
+
 
 \lx gogihoro
 \ge wash basin
 
+
 \lx gogihouro
 \ge grindstone
+
 
 \lx gogilio
 \ge returning
 
+
 \lx gogiloliti
 \ge encircle
+
 
 \lx gogilyaka
 \ge married people
 
+
 \lx gogingi
 \ge grimace
+
 
 \lx gogioko
 \ps o
@@ -4666,9 +5848,11 @@
 \gn
 \sd plant
 
+
 \lx gogirimanga
 \ge cork
 \ge stopper
+
 
 \lx gogitihiri
 \ps
@@ -4676,11 +5860,13 @@
 \gn
 \sd plant
 
+
 \lx gogo
 \ps nanga
 \ge body hair
 \gn bulu
 \sd body part
+
 
 \lx gogo
 \ps nanga
@@ -4688,39 +5874,50 @@
 \ge body *hair
 \sd body part
 
+
 \lx gogobu
 \ge crowd of people
 \ge meeting
 
+
 \lx gogogama
 \ge fever
+
 
 \lx gogogeure
 \ge dwelling
 \ge residence
 
+
 \lx gogohara
 \ge stick
+
 
 \lx gogohihi
 \ge orphaned
 
+
 \lx gogohiki
 \ge water
+
 
 \lx gogoko
 \ge exhort
 
+
 \lx gogoli
 \ge metal bracelets
 
+
 \lx gogoloko
 \ge hoop
+
 
 \lx gogono
 \ps ha
 \ge hide
 \gn bersembunyi
+
 
 \lx gogonoko
 \ps
@@ -4728,35 +5925,45 @@
 \gn
 \sd body part
 
+
 \lx gogori
 \ge shell
+
 
 \lx gogoru
 \ge love
 \ge compassion
 
+
 \lx gogoru
 \ge invite
+
 
 \lx gogouno
 \ge put away
 \ge keep
 \ge hide
 
+
 \lx goguho
 \ge soap tree *bark
+
 
 \lx goguhu
 \ge cockroach
 
+
 \lx goguhulo
 \ge ficticious *bird
+
 
 \lx goguhulu
 \ge red *ant
 
+
 \lx goguhumutu
 \ge banana
+
 
 \lx goguhumutu
 \ps o
@@ -4764,14 +5971,17 @@
 \gn
 \sd animal
 
+
 \lx goguiti
 \ps
 \ge scoop
 \ge bailer
 \gn timba
 
+
 \lx gogule
 \ge toy
+
 
 \lx gogurati
 \ps ma
@@ -4779,17 +5989,22 @@
 \gn kuning
 \sd color
 
+
 \lx gogurumini
 \ge lance
+
 
 \lx gogutuku
 \ge rice crop
 
+
 \lx goguwini
 \ge light
 
+
 \lx goha
 \ge beat
+
 
 \lx goha
 \ps
@@ -4797,15 +6012,19 @@
 \gn
 \sd nautical
 
+
 \lx goha
 \ge club
 \ge bludgeon
 
+
 \lx gohaka
 \ge boil
 
+
 \lx gohara
 \ge beat
+
 
 \lx gohau
 \ps
@@ -4813,14 +6032,17 @@
 \gn
 \sd fish
 
+
 \lx goheba
 \ps o
 \ge small osprey
 \gn
 \sd animal
 
+
 \lx gohelanga
 \ge bedbug crab *louse
+
 
 \lx gohi
 \ps o
@@ -4828,14 +6050,18 @@
 \gn telur
 \sd food
 
+
 \lx gohihi
 \ge orphan
+
 
 \lx goho
 \ge wash hair with coconut
 
+
 \lx gohoanga
 \ge sago baking pan
+
 
 \lx gohomanga
 \ps o
@@ -4843,159 +6069,205 @@
 \gn buaya
 \sd animal
 
+
 \lx gohora
 \ge nutmeg
+
 
 \lx gohotouro
 \ge house
 
+
 \lx gohotouro
 \ge leech
+
 
 \lx gohotouro
 \ge green *parrot
 
+
 \lx gohumutu
 \ge stick into
+
 
 \lx gohungiri
 \ge sea grass
 
+
 \lx goi
 \ge tree
+
 
 \lx goko
 \ge maize
 \ge corn
 
+
 \lx goko
 \ge river
+
 
 \lx goko
 \ge buy
 
+
 \lx gola
 \ge large stones
+
 
 \lx gole
 \ge cleaver
 
+
 \lx golebo
 \ge wind gusts
+
 
 \lx goli
 \ps ha
 \ge bite
 \gn gigi
 
+
 \lx golioa
 \ge plant
+
 
 \lx golongi
 \ge band
 \ge hoop
 
+
 \lx golupu
 \ge dagger
+
 
 \lx golyoa
 \ge fallow garden
 
+
 \lx gomako
 \ge split bamboo
+
 
 \lx gomanga
 \ge full
 
+
 \lx gomangau
 \ge spirits of the dead
+
 
 \lx gomateure
 \ge sorcerer
 
+
 \lx gomoanga
 \ge liana
+
 
 \lx gomolo
 \ge plant
 
+
 \lx gomona
 \ge gnat
 \ge mosquito
+
 
 \lx gomouno
 \ps nanga
 \ge eyeball
 \sd body part
 
+
 \lx gomuku
 \ge sore
+
 
 \lx gomuku
 \ge ripe
 \ge mature
 
+
 \lx gonauna
 \ge worms
 \ge maggots
 
+
 \lx goneune
 \ge notch
+
 
 \lx goni
 \ge sail cloth
 \ge sacking
 
+
 \lx goobe
 \ge plant
+
 
 \lx goodoungo
 \ge strangle
 \ge pinch
 
+
 \lx gookoko
 \ge bank
 \ge shore
 
+
 \lx gookoro
 \ge band
+
 
 \lx goopuunu
 \ge meal
 \ge flour
 
+
 \lx gopoa
 \ge pour
+
 
 \lx goraka
 \ge lift
 \ge carry
 
+
 \lx gorangoto
 \ge shark
 
+
 \lx goreuhe
 \ge cry
+
 
 \lx gori
 \ps ha
 \ge bore
 \ge drill
 
+
 \lx gorida
 \ge grindstone
 
+
 \lx goriki
 \ge clearsighted
+
 
 \lx goriki
 \ge find
 \ge obtain
 
+
 \lx goro
 \ps o
 \ge rubber
 \gn karet
+
 
 \lx goro
 \ps o
@@ -5003,11 +6275,14 @@
 \gn
 \sd hunting
 
+
 \lx goroana
 \ge deer paths
 
+
 \lx goro-goro
 \ge milksap
+
 
 \lx goro-goro
 \ps o
@@ -5015,14 +6290,17 @@
 \gn
 \sd food
 
+
 \lx goro-goro
 \ps o
 \ge taro
 \gn kaladi
 \sd plant
 
+
 \lx goroho-kaha
 \ge petroleum
+
 
 \lx gorohutu
 \ps nanga
@@ -5031,8 +6309,9 @@
 \ps o
 \ge k o *tree
 \gn
-\sc
+\sd
 \sd plant
+
 
 \lx goroko
 \ps o
@@ -5040,9 +6319,11 @@
 \gn
 \sd animal
 
+
 \lx gorona
 \ps ma
 \ge middle
+
 
 \lx goronaka
 \ps ma
@@ -5050,14 +6331,18 @@
 \ge contents
 \gn isi
 
+
 \lx gorouhau
 \ge judgement
+
 
 \lx gorua
 \ge deep bay
 
+
 \lx gorua
 \ge fish
+
 
 \lx gota
 \ps o
@@ -5067,14 +6352,17 @@
 \gn kayu
 \sd plant
 
+
 \lx gotoauka
 \ps o
 \ge white *parrot
 \gn
 \sd animal
 
+
 \lx gotoaura
 \ge rumpsteak
+
 
 \lx gotola
 \ps o
@@ -5082,12 +6370,15 @@
 \gn
 \sd animal
 
+
 \lx gou-goungu
 \ge alike
+
 
 \lx goungu
 \ge real
 \ge true
+
 
 \lx gouru
 \ps
@@ -5096,8 +6387,10 @@
 \gn
 \sd body part
 
+
 \lx gua-bebe
 \ge balsam
+
 
 \lx guai
 \ps
@@ -5106,8 +6399,10 @@
 \sd food
 \crm guawe
 
+
 \lx guapo
 \ge fine grain
+
 
 \lx guawe
 \ps o
@@ -5116,28 +6411,35 @@
 \sd food
 \crm guai
 
+
 \lx guba
 \ge curtain
+
 
 \lx gubadi
 \ps i
 \ge left
 \gn kiri
 
+
 \lx gububulu
 \ps i
 \ge fill with water (by being held under water)
+
 
 \lx gudoti
 \ps o
 \ge war
 \gn perang
 
+
 \lx gudu
 \ge far
 
+
 \lx gududi
 \ge rash
+
 
 \lx guewa
 \ps o
@@ -5145,11 +6447,13 @@
 \gn
 \sd animal
 
+
 \lx gufuku
 \ps o
 \ge pig *louse
 \gn
 \sd animal
+
 
 \lx gufuru
 \ps o
@@ -5157,18 +6461,22 @@
 \gn lalat
 \sd animal
 
+
 \lx gugu
 \ps o
 \ge sea *eel
 \gn
 \sd fish
 
+
 \lx guguia
 \ps o
 \ge small red *handkerchief (used by women to cover their breasts)
 
+
 \lx guguli
 \ge trumpet
+
 
 \lx gugumu
 \ps ma
@@ -5176,21 +6484,25 @@
 \ge tail
 \sd body part
 
+
 \lx gugutu
 \ps nanga
 \ge armpit
 \gn
 \sd body part
 
+
 \lx guha
 \ps o
 \ge mould
+
 
 \lx guhu
 \ps o
 \ge hole
 \ge pit
 \gn lobang
+
 
 \lx guhuru
 \ps o
@@ -5199,11 +6511,13 @@
 \sd animal
 \crm gufuru
 
+
 \lx guihi
 \ps ya
 \ge stream
 \gn
 \crm uihi
+
 
 \lx guiti
 \ps ho ma
@@ -5211,49 +6525,60 @@
 \gn timba
 \sd nautical
 
+
 \lx guju
 \ge bury
 \ge put away
+
 
 \lx gula
 \ge liquid sugar
 \bw Malay
 \sd food
 
+
 \lx gule
 \ge song play
+
 
 \lx gule
 \ge play alone
 
+
 \lx gule
 \ge bead
 
+
 \lx gule-gule
 \ge rice porridge
+
 
 \lx gule-gule
 \ps o
 \ge necklace
 \gn
 
+
 \lx gulelanga
 \ps o
 \ge k o *parrot
 \gn
-\sc Electus megalorynchus
+\sd Electus megalorynchus
 \sd animal
+
 
 \lx gulero
 \ge skillful
 \ge skilled
 
+
 \lx gulubenge
 \ps o
 \ge k o wild areca *palm
 \gn
-\sc ?
+\sd ?
 \sd plant
+
 
 \lx gului
 \ps o
@@ -5261,19 +6586,23 @@
 \gn
 \sd body part
 
+
 \lx gului-tubo
 \ps o
 \ge k o small *snake
 \gn
 \sd animal
 
+
 \lx gulupoa
 \ps ho
 \ge overflow with water
 
+
 \lx gulura
 \ps ha
 \ge split (into small pieces)
+
 
 \lx guma
 \ps o
@@ -5281,11 +6610,13 @@
 \gn
 \sd tool
 
+
 \lx gumalya
 \ps ho
 \ge permit
 \ge consent
 \gn izinkan
+
 
 \lx gumemene
 \ps o
@@ -5293,17 +6624,20 @@
 \gn
 \sd insect
 
+
 \lx gumi
 \ps o
 \ge moustache
 \gn
 \sd body part
 
+
 \lx gumi-lamo
 \ps o
 \ge python
 \gn
 \sd animal
+
 
 \lx gumini
 \ps o
@@ -5313,32 +6647,41 @@
 \sd food
 \sd plant
 
+
 \lx gumuruku
 \ge side
 \ge oblique
+
 
 \lx guna
 \ge love potion
 \sd magic
 
+
 \lx gunehanga
 \ge resin
+
 
 \lx gunu
 \ge torch soot
 
+
 \lx gura
 \ge island
 
+
 \lx gurabati
 \ge shrub
+
 
 \lx gurama
 \ge tree
 \sd plant
 
+
 \lx gurati
 \ge gold
+
 
 \lx gurati
 \ps ma
@@ -5346,8 +6689,10 @@
 \gn kuning
 \sd color
 
+
 \lx guri-guriti
 \ge laced up
+
 
 \lx guri-guriti
 \ps o
@@ -5355,29 +6700,36 @@
 \gn
 \sd animal
 
+
 \lx guriti
 \ps o
 \ge string
 \gn
 
+
 \lx guroko
 \ge snore
 \ge grunt
 
+
 \lx gurubabo
 \ge trap
+
 
 \lx guruhe
 \ge swarm
 \ge hordes
 
+
 \lx gurumini
 \ge reflection
 \ge shaddow
 
+
 \lx gurupe
 \ge swarm
 \ge hordes
+
 
 \lx gurutu
 \ps ma
@@ -5387,9 +6739,11 @@
 \id magurutiha
 \gn jauh ke darat
 
+
 \lx guti
 \ps ho ma
 \ge descend
+
 
 \lx guti
 \ps o
@@ -5397,14 +6751,17 @@
 \gn gunting
 \bw Malay
 
+
 \lx gutugete
 \ps o
 \ge k o freshwater *fish
 \gn
 \sd fish
 
+
 \lx gutuku
 \ge gather
+
 
 \lx guuhuru
 \ps
@@ -5412,30 +6769,38 @@
 \gn
 \sd animal
 
+
 \lx guwini
 \ge light
+
 
 \lx haaka
 \ps o
 \ge silver
 \gn
 
+
 \lx haara
 \ge hole
+
 
 \lx haba
 \ge get loose
 \ge tear
 \ge rip
 
+
 \lx habanere
 \ge visible on the sea bottom
+
 
 \lx habarang
 \ge something
 
+
 \lx habatana
 \ge large rush *mat
+
 
 \lx habeba
 \ps o
@@ -5443,11 +6808,13 @@
 \gn cawat
 \bw Mol Malay
 
+
 \lx habeloro
 \ps o
 \ge k o small yellow *snake
 \gn
 \sd animal
+
 
 \lx habeta
 \ps o
@@ -5455,19 +6822,24 @@
 \gn
 \sd animal
 
+
 \lx habeuleko
 \ge let a word slip out
+
 
 \lx habi
 \ge pair
 \ge set
 
+
 \lx habirotaka
 \ge starve
+
 
 \lx habo
 \ge part
 \ge prey
+
 
 \lx habongo
 \ps o
@@ -5475,18 +6847,23 @@
 \gn sisiru
 \crm tatapa
 
+
 \lx hadaka
 \ge gift
 \ge alms
 
+
 \lx hadaria
 \ge k o *waistcoat
+
 
 \lx hadi
 \ge Sunday
 
+
 \lx hadorari
 \ge attack
+
 
 \lx haeke
 \ps manga
@@ -5494,17 +6871,22 @@
 \sd body part
 \crm pea
 
+
 \lx hafini
 \crm hahini
+
 
 \lx hafuru
 \ge sister in law
 
+
 \lx hagaga
 \ge yelling encouragement
 
+
 \lx hagago
 \ge sharp smell
+
 
 \lx hagarara
 \ps o
@@ -5512,49 +6894,62 @@
 \ge toe
 \sd body part
 
+
 \lx hago
 \ge forked
 \ge split
+
 
 \lx hahahaka
 \ge unripe
 \ge sour
 
+
 \lx hahakara
 \ge hair point above forehead
 
+
 \lx hahalebiti
 \ge slanting
+
 
 \lx haharu
 \ps i
 \ge current
 \ge flow
 
+
 \lx haharu
 \ps o
 \ge mortal combat
 
+
 \lx hahauo
 \ge wrapper
+
 
 \lx haheure
 \ge spy upon
 
+
 \lx hahi
 \ge swear
 \ge swear an oath
+
 
 \lx hahini
 \ps i na
 \ge hungry
 \gn lapar
 
+
 \lx haho
 \ge stack
 
+
 \lx hahoreune
 \ge cockscomb
+
 
 \lx hahura
 \ps i
@@ -5562,26 +6957,32 @@
 \ge tremble
 \ge shake
 
+
 \lx hahuru
 \ps o
 \ge sister in law
 \gn
 \sd kin
 
+
 \lx haibauru
 \ge prepare
 
+
 \lx hai-haili
 \ge flutter
+
 
 \lx haika
 \ps ha
 \ge take away
 \ge remove
 
+
 \lx haili
 \ge blow away
 \ge fly away
+
 
 \lx hailoa
 \ps ma
@@ -5589,37 +6990,47 @@
 \ge pretty
 \ge beautiful
 
+
 \lx haino
 \ps ha
 \ge bring here
 
+
 \lx hai-regu
 \ge divide
 
+
 \lx hairi
 \ge visible on sea bottom
+
 
 \lx haiti
 \ps ho
 \ge dig
 \gn
 
+
 \lx haiwateuki
 \ge sleepless
+
 
 \lx hajali
 \ge agreement
 \ge promise
 
+
 \lx haka
 \ps ha
 \ge peel
 
+
 \lx hakadoru
 \ge ramrod
 
+
 \lx haka-honyinga
 \ge remind
+
 
 \lx hakai
 \ps ho
@@ -5632,21 +7043,26 @@
 \ge cooking
 \gn masakan
 
+
 \lx hakaru
 \ge stone
+
 
 \lx hakaura
 \ge spear
 
+
 \lx haka-waro
 \ge inform
+
 
 \lx haketa
 \ps o
 \ge tree
 \gn kamiri
-\sc Meuritos tribula Forst.
+\sd Meuritos tribula Forst.
 \sd plant
+
 
 \lx haki
 \ps ma
@@ -5655,11 +7071,13 @@
 \gn lemak
 \gn enak
 
+
 \lx hakihi
 \ps o
 \ge witness
 \gn saksi
 \bw Malay
+
 
 \lx hakiloro
 \ps o
@@ -5667,16 +7085,20 @@
 \gn
 \sd animal
 
+
 \lx hakimu
 \ge judge
 \ge court
+
 
 \lx hakiri
 \ge legendary
 \ge folk
 
+
 \lx hakola
 \ge sash
+
 
 \lx hakola
 \ps o
@@ -5684,9 +7106,11 @@
 \gn sekolah
 \bw Malay
 
+
 \lx hakoro
 \ps ha
 \ge to make a k o *wicker
+
 
 \lx hakoto
 \ps ha
@@ -5694,14 +7118,17 @@
 \gn meluruskan (khusus untuk bikin tikar)
 \sd
 
+
 \lx haku
 \ge right
 \ge ownership
+
 
 \lx hakulu
 \ps ha
 \ge boil
 \ge stew
+
 
 \lx hakuru
 \ps ma
@@ -5710,22 +7137,26 @@
 \id obole mahakuru
 \ge hand of bananas
 
+
 \lx hakuta
 \ge maintain
 \ge care for
+
 
 \lx halabiana
 \ps o
 \ge megapode bird
 \gn burung megapode
-\sc Eulipoa wallacei
+\sd Eulipoa wallacei
 \sd animal
+
 
 \lx halaeta
 \ps o
 \ge fishing line *leader
 \gn
 \sd fishing
+
 
 \lx halaha
 \ps o
@@ -5734,21 +7165,26 @@
 \bw Malay
 \sd time
 
+
 \lx halalenge
 \ps o
 \ge impurity
 \gn
 
+
 \lx halamata
 \ge supernatural
 \ge heavenly
+
 
 \lx halamati
 \ge welfare
 \ge happiness
 
+
 \lx halamburung
 \ge bird *nest
+
 
 \lx halapa
 \ps o
@@ -5756,31 +7192,39 @@
 \gn
 \sd fishing
 
+
 \lx hale
 \ps o
 \ge k o *tree
 \gn
 \sd plant
 
+
 \lx halebiti
 \ge slanting
+
 
 \lx haledo
 \ps i
 \ge half *dead (of fish)
 
+
 \lx hali
 \ge expensive
+
 
 \lx hali
 \ge bad
 
+
 \lx hali
 \ge fishing rod
+
 
 \lx hali
 \ge lawsuit
 \ge dispute
+
 
 \lx halibiru
 \ps ho
@@ -5790,11 +7234,13 @@
 \gn
 \bw Mol Malay
 
+
 \lx halila
 \ps o
 \ge wild citrus *fruit
 \gn
 \sd plant
+
 
 \lx halimuli
 \ps
@@ -5802,17 +7248,22 @@
 \gn
 \sd plant
 
+
 \lx halingohu
 \ge must
+
 
 \lx halipi
 \ge walls
 
+
 \lx halopa
 \ge metal areca *box
 
+
 \lx halu
 \ge village stamp
+
 
 \lx haluanga
 \ps
@@ -5821,14 +7272,18 @@
 \gn
 \sd plant
 
+
 \lx haluara
 \ge trousers
+
 
 \lx haluhu
 \ge answer
 
+
 \lx halulunu
 \ge feel
+
 
 \lx hamaka
 \ps o
@@ -5837,21 +7292,26 @@
 \sd plant
 \sd food
 
+
 \lx hamana
 \ps
 \ge outrigger
 \gn semang-semang
 \sd nautical
 
+
 \lx hamanemo
 \ge hit
 \ge strike
 
+
 \lx hamata
 \ge arenpalm leaf ribs
 
+
 \lx hamehi
 \ge tanning a net
+
 
 \lx hamihi
 \ps o
@@ -5859,26 +7319,33 @@
 \gn hari kamis
 \bw Malay\sd time
 
+
 \lx hamooko
 \ge collarbone
+
 
 \lx hangaimi
 \ge use finger to induce *vomiting
 
+
 \lx hangaini
 \ge remove
+
 
 \lx hangaji
 \ps ma
 \ge district head
 \gn sangaji
 
+
 \lx hangali
 \ge repay
 \ge return service
 
+
 \lx hangate
 \ge banana
+
 
 \lx hange
 \ps NUM
@@ -5886,14 +7353,18 @@
 \gn tiga
 \sd num
 
+
 \lx hange-hona
 \ge cry of surprise
+
 
 \lx hangeru
 \ge festive *procession
 
+
 \lx hangeru
 \ge sneeze
+
 
 \lx hangihara
 \ps ma
@@ -5903,8 +7374,10 @@
 \gn sangsara
 \bw Malay
 
+
 \lx hangkole
 \ge sago package
+
 
 \lx hangkura
 \ps o
@@ -5912,8 +7385,10 @@
 \gn
 \sd animal
 
+
 \lx hango
 \ge answer
+
 
 \lx hango-hango
 \ps o
@@ -5921,49 +7396,62 @@
 \gn
 \sd fish
 
+
 \lx hangoka
 \ge March
 
+
 \lx hangole
 \ge all the more
+
 
 \lx hangu
 \ge pay
 \ge satisfy
 
+
 \lx hangu-hangu
 \ps o
 \ge
 \gn ikan paus
-\sc
+\sd
 \sd fish
+
 
 \lx hangunu
 \ge pay
 \ge satisfy
 
+
 \lx hanguru
 \ge snort
+
 
 \lx hanitiata
 \ge without * topping
 
+
 \lx hanongo
 \ge female *grandchild
+
 
 \lx hao
 \ge widow
 \ge then
 
+
 \lx haoko
 \ps
 \ge bring seaward
 
+
 \lx hapaka
 \ge stones throw
 
+
 \lx hapela
 \ge crotch of trousers
+
 
 \lx hapi
 \ps o
@@ -5971,56 +7459,73 @@
 \gn sapi
 \bw Malay
 
+
 \lx hapitu
 \ge also
+
 
 \lx hapongo
 \ge come
 
+
 \lx hara
 \ge also
+
 
 \lx hara
 \ge turn
 \ge time
 
+
 \lx hara
 \ge a number of roofing leaves
 
+
 \lx harabaka
 \ge splash
+
 
 \lx hara-hara
 \ge all
 \ge one by one
 
+
 \lx haraka
 \ge crossbeams
+
 
 \lx haram
 \ge unclean
 \ge forbidden
 
+
 \lx harana
 \ge wounded
+
 
 \lx harangoto
 \ge banana
 
+
 \lx harapa
 \ge rash
+
 
 \lx harara
 \ge rake
 
+
 \lx harati
 \ge charm
+
 
 \lx haratu
 \ge coin
 
+
 \lx harau
 \ge dried above the fire
+
 
 \lx harawodeke
 \ps o
@@ -6028,21 +7533,27 @@
 \gn
 \sd animal
 
+
 \lx haremi
 \ge shoulderblade
+
 
 \lx harene
 \ge board
 \ge ascend
 
+
 \lx hareuhe
 \ge spread of fingers
+
 
 \lx hari
 \ge knot net
 
+
 \lx harigana
 \ge roof vent
+
 
 \lx harita
 \ps ha
@@ -6052,44 +7563,55 @@
 \ge net mending needle
 \sd fishing
 
+
 \lx harongo
 \ps ha
 \ge broil
 \ge roast
 \gn
 
+
 \lx haropu
 \ge diarrhea
+
 
 \lx haru
 \ge pressing request
 \ge persistent
 
+
 \lx haruawanga
 \ge edible *plant
+
 
 \lx harumu
 \ge sheath
 \ge case
+
 
 \lx hasil
 \ps ma
 \ge yield
 \bw Malay
 
+
 \lx hatamu
 \ge cut
 
+
 \lx hatenga
 \ge half
+
 
 \lx hatera
 \ge wild
 \ge savage
 
+
 \lx hateru
 \ge work
 \ge labor
+
 
 \lx hatobu
 \ps o
@@ -6097,8 +7619,10 @@
 \gn
 \sd plant
 
+
 \lx hatoli
 \ge almost
+
 
 \lx haturu
 \ps o
@@ -6108,73 +7632,94 @@
 \xe drive your enemies away
 \xn kasi hilang musuhmu
 
+
 \lx hau
 \crm mahau
+
 
 \lx hauku
 \ps ma
 \ge warm
 \ge heat
 
+
 \lx hauo
 \ge wrap
 \ge pack
 
+
 \lx hauraro
 \ge solid *lava
+
 
 \lx hauru
 \ge feel
 \ge grope
 
+
 \lx hawa
 \ge lewd
 
+
 \lx hawa
 \ge renovate
+
 
 \lx hawaho
 \ge know
 \ge acquainted
 
+
 \lx hawakata
 \ge stomach *illness
+
 
 \lx hawana
 \ge fear
 \ge dislike
 
+
 \lx hawateri
 \ge uneasy
 \ge worry
+
 
 \lx haweko
 \ge basin
 \ge bowl
 
+
 \lx hawoa
 \ge banana
+
 
 \lx hawuaba
 \ge beach
 
+
 \lx hayanga
 \ge compassion
+
 
 \lx hea
 \ge foolish
 
+
 \lx hebiti
 \ge uneven
+
 
 \lx hedu
 \ge jest
 
+
 \lx hegala
 \ge all
 
+
 \lx hehega
 \ge skin disease
+
 
 \lx hehehera
 \ps o
@@ -6182,8 +7727,10 @@
 \gn
 \sd
 
+
 \lx heheli
 \ge drain
+
 
 \lx hehene
 \ps o
@@ -6191,25 +7738,31 @@
 \gn
 \sd plant
 
+
 \lx hehengi
 \ge lance
+
 
 \lx hehera
 \ps ho ma
 \ge sweep
 \ge dust
 
+
 \lx hehoto
 \ps ha
 \ge press together
 \gn mendempit
 
+
 \lx hehutu
 \ge late
+
 
 \lx hekafu
 \ge completely
 \ge entirely
+
 
 \lx hekata
 \ps nanga
@@ -6217,15 +7770,18 @@
 \gn isteri
 \sd kin
 
+
 \lx heki
 \ps o
 \ge tree
 \gn
 \sd plant
 
+
 \lx hekono
 \ge bare
 \ge naked
+
 
 \lx hela
 \ps
@@ -6233,23 +7789,30 @@
 \gn
 \sd nautical
 
+
 \lx hele
 \ge slip
+
 
 \lx helehuku
 \ge square bottle
 
+
 \lx helekono
 \ge seperated spouse
+
 
 \lx helenga
 \ge open
 
+
 \lx heleta
 \ge sago beating
 
+
 \lx heleuru
 \ge pull out
+
 
 \lx helewati
 \ps
@@ -6257,26 +7820,32 @@
 \gn
 \sd plant
 
+
 \lx helewo
 \ps o
 \ge stone
 \gn batu
 
+
 \lx heloro
 \ge move
 \ge turn
 
+
 \lx helotu
 \ge lock
 
+
 \lx heluku
 \ge joke
+
 
 \lx hemo
 \ps
 \ge palm
 \gn
 \sd plant
+
 
 \lx hemoro
 \ps ma
@@ -6285,11 +7854,14 @@
 \gn manis
 \gn enak
 
+
 \lx hena
 \ge slim
 
+
 \lx hene
 \ge turtle
+
 
 \lx heneni
 \ps o
@@ -6298,20 +7870,26 @@
 \bw Malay
 \sd time
 
+
 \lx heneoara
 \ge spirit of the dead
+
 
 \lx henge
 \ge strap pack
 
+
 \lx hengi
 \ge cent
+
 
 \lx hengo
 \ge half *roasted
 
+
 \lx heoko
 \ge turned over
+
 
 \lx heoto
 \ps ho
@@ -6319,11 +7897,14 @@
 \gn
 \sd food
 
+
 \lx hepa
 \ge catch
 
+
 \lx hepa-hepa
 \ge play catch
+
 
 \lx hepata
 \ps o
@@ -6332,22 +7913,28 @@
 \gn pohon seho
 \sd plant
 
+
 \lx hepe
 \ge ceramic *pot
+
 
 \lx hepeli
 \ge flag
 \ge pennant
 
+
 \lx hepi
 \ge slanting
+
 
 \lx heran
 \ge surprised
 \ge amazed
 
+
 \lx hereko
 \ge border
+
 
 \lx hero
 \ps
@@ -6355,21 +7942,26 @@
 \gn
 \sd fish
 
+
 \lx hero
 \ge grow
 \ge shoot up
 
+
 \lx hero-hero
 \ge net fish trap
 
+
 \lx hetang
 \ge devil
+
 
 \lx hetongo
 \ps ha
 \ge say
 \ge name
 \gn katakan
+
 
 \lx hewa
 \ps o
@@ -6378,9 +7970,11 @@
 \gn sewa
 \bw Malay
 
+
 \lx hewana
 \ps ha
 \ge strip *bark
+
 
 \lx hewana
 \ps i
@@ -6390,8 +7984,10 @@
 \ge to *open
 \ge to *separate
 
+
 \lx hewelanga
 \ge shut with a swivel
+
 
 \lx hi-
 \ps vpf
@@ -6399,40 +7995,50 @@
 \ge CAUS
 \re *
 
+
 \lx hiado
-\ps PART
+\ps part
 \ge till
 \ge untill
+
 
 \lx hiado-adono
 \ge long
 \ge many years
 
+
 \lx hiadono
 \ge till
 \ge until
 
+
 \lx hiadono
-\ps PART
+\ps part
 \ge reach
 \ge attain
 \gn sampai
 
+
 \lx hiaga
 \ge crest of white *parrot
+
 
 \lx hiaha
 \ge impose
 \ge insist
 
+
 \lx hiaha
 \ge old tuber
+
 
 \lx hia-hia
 \ge shout for joy
 
+
 \lx hia-hia
 \ge water *scoop
+
 
 \lx hiahu
 \ps
@@ -6440,9 +8046,11 @@
 \gn
 \sd plant
 
+
 \lx hiahumu
 \ge repair
 \ge mend
+
 
 \lx hiahutuhu
 \ps
@@ -6450,20 +8058,26 @@
 \gn
 \sd plant
 
+
 \lx hiake
 \ge lean
+
 
 \lx hiamuru
 \ge ceremony
 
+
 \lx hiangi
 \ge underlayer
+
 
 \lx hiangkali
 \ge decieve
 
+
 \lx hiani
 \ge young deer horns
+
 
 \lx hiapoto
 \ps ma
@@ -6472,14 +8086,18 @@
 \gn cepat
 \crm apoto
 
+
 \lx hiara
 \ge hang down
+
 
 \lx hiarene
 \ge threaten
 
+
 \lx hiata
 \ge draw out
+
 
 \lx hiba
 \ps
@@ -6487,91 +8105,120 @@
 \gn
 \sd animal
 
+
 \lx hibaaeri
 \ge floating
+
 
 \lx hibahuku
 \ge make an *axe
 
+
 \lx hibaiti
 \ge bury
+
 
 \lx hibaja
 \ge flatter
 
+
 \lx hibaju
 \ge jacket
+
 
 \lx hibajuli
 \ge gamble away
 
-\lx hibakau
-\ge pay
 
 \lx hibakau
 \ge pay
+
+
+\lx hibakau
+\ge pay
+
 
 \lx hibaki-bakiti
 \ge wrestling
 \ge rolling
 
+
 \lx hibaki-bakiti
 \ge wrestling
 \ge rolling
 
-\lx hibaku-baku
-\ge pitch
 
 \lx hibaku-baku
 \ge pitch
 
-\lx hibalyanguku
-\ge get in the *dark
+
+\lx hibaku-baku
+\ge pitch
+
 
 \lx hibalyanguku
 \ge get in the *dark
 
-\lx hibanga
-\ge bury
+
+\lx hibalyanguku
+\ge get in the *dark
+
 
 \lx hibanga
 \ge bury
 
-\lx hibangu
-\ge pay
+
+\lx hibanga
+\ge bury
+
 
 \lx hibangu
 \ge pay
 
-\lx hibarakati
-\ge blessing
+
+\lx hibangu
+\ge pay
+
 
 \lx hibarakati
 \ge blessing
 
-\lx hibarene
-\ge load
+
+\lx hibarakati
+\ge blessing
+
 
 \lx hibarene
 \ge load
 
-\lx hibarihi
-\ge make fly
+
+\lx hibarene
+\ge load
+
 
 \lx hibarihi
 \ge make fly
 
-\lx hibata
-\ge jump up
+
+\lx hibarihi
+\ge make fly
+
 
 \lx hibata
 \ge jump up
 
-\lx hibatingi
-\ge make *boundary
+
+\lx hibata
+\ge jump up
+
 
 \lx hibatingi
 \ge make *boundary
+
+
+\lx hibatingi
+\ge make *boundary
+
 
 \lx hibatongo
 \ps ho ma
@@ -6581,6 +8228,7 @@
 \ge wait
 \ge stay
 
+
 \lx hibatongo
 \ps ho ma
 \ge rest
@@ -6589,168 +8237,221 @@
 \ge wait
 \ge stay
 
-\lx hibau
-\ge repair
 
 \lx hibau
 \ge repair
 
-\lx hibehehongo
-\ge give command
+
+\lx hibau
+\ge repair
+
 
 \lx hibehehongo
 \ge give command
 
-\lx hibelaono
-\ge take provisions
+
+\lx hibehehongo
+\ge give command
+
 
 \lx hibelaono
 \ge take provisions
 
-\lx hibelelaka
-\ge make thin
+
+\lx hibelaono
+\ge take provisions
+
 
 \lx hibelelaka
 \ge make thin
 
-\lx hibeloho
-\ge put in stake
+
+\lx hibelelaka
+\ge make thin
+
 
 \lx hibeloho
 \ge put in stake
 
-\lx hibeneto
-\ge work o neself through
+
+\lx hibeloho
+\ge put in stake
+
 
 \lx hibeneto
 \ge work o neself through
 
-\lx hibilipere
-\ge shake off
+
+\lx hibeneto
+\ge work o neself through
+
 
 \lx hibilipere
 \ge shake off
 
-\lx hibilono
-\ge dry coconut leaves
+
+\lx hibilipere
+\ge shake off
+
 
 \lx hibilono
 \ge dry coconut leaves
 
-\lx hibitara
-\ge talk it over
+
+\lx hibilono
+\ge dry coconut leaves
+
 
 \lx hibitara
 \ge talk it over
 
-\lx hibiti
-\ge cup
+
+\lx hibitara
+\ge talk it over
+
 
 \lx hibiti
 \ge cup
 
-\lx hibito
-\ge cut thru
+
+\lx hibiti
+\ge cup
+
 
 \lx hibito
 \ge cut thru
+
+
+\lx hibito
+\ge cut thru
+
 
 \lx hiboa
 \ge get
 \ge fetch
 
+
 \lx hiboa
 \ge get
 \ge fetch
 
-\lx hiboaka
-\ge cry out
 
 \lx hiboaka
 \ge cry out
+
+
+\lx hiboaka
+\ge cry out
+
 
 \lx hibobeto
 \ge swear
 
+
 \lx hibobita
 \ge impose a command
+
 
 \lx hibohono
 \ge love
 
+
 \lx hibohoro
 \ge give in anger
+
 
 \lx hibooteke
 \ge split in
 
+
 \lx hiboto
 \ge prepare
 
+
 \lx hibuhukuku
 \ge give *birth
+
 
 \lx hibula
 \ge divide
 \ge portion
 
+
 \lx hibunyafo
 \ge decieve
+
 
 \lx hiburu
 \ge tree
 
+
 \lx hibututu
 \ge pin up
+
 
 \lx hida
 \ge look
 
+
 \lx hida
 \ge small roof patch
 
+
 \lx hidaaere
 \ge blame
+
 
 \lx hidabawa
 \ge disparage
 \ge disdain
 \ge despise
 
+
 \lx hidabi
 \ge consider
+
 
 \lx hidadi
 \ge create
 
+
 \lx hidagali
 \ge go to do
+
 
 \lx hidaharongo
 \ge sticklefish
 
+
 \lx hidahe
 \ge scout
+
 
 \lx hidahe-dahe
 \ge spies
 
+
 \lx hidailako
 \ge keep track o f
+
 
 \lx hidaloko
 \ge wind
 
+
 \lx hidana
 \ge tame
+
 
 \lx hidanga
 \ge strait
 \ge narrows
 \ge passage
 
+
 \lx hidangi
 \ge set down on a tree
+
 
 \lx hide
 \ps ma
@@ -6758,6 +8459,7 @@
 \gn
 \sd food
 \sd plant
+
 
 \lx hidete
 \ps o
@@ -6775,36 +8477,46 @@
 \ge to unfurl the sail
 \sd nautical
 
+
 \lx hidimoaka
 \ge deny
+
 
 \lx hiduru
 \ge steer
 
+
 \lx higaga
 \ge mock
+
 
 \lx higojo
 \ge slander
 
+
 \lx hiha
 \ge loin cloth
 
+
 \lx hihanga
 \ge lost
+
 
 \lx hihi
 \ge hot
 \ge prickly
 \ge stinging
 
+
 \lx hihika
 \ge thorn
 \ge towel
 \ge handkerchief
 
+
 \lx hihipouku
 \ge house lizard
+
 
 \lx hihiri
 \ps o
@@ -6812,26 +8524,33 @@
 \gn nyamuk
 \sd animal
 
+
 \lx hihoi
 \ge enchantment
+
 
 \lx hihu
 \ge mend
 
+
 \lx hika
 \ge wipe
 \ge dry
+
 
 \lx hikagoro
 \ps ho ma
 \ge decide
 \gn bermufakat
 
+
 \lx hikerufu
 \ge screw
 
+
 \lx hila
 \ge sailfish
+
 
 \lx hilidoro
 \ps o
@@ -6839,20 +8558,26 @@
 \gn
 \sd animal
 
+
 \lx hilo
 \ge resin
+
 
 \lx hiloana
 \ge garfish
 
+
 \lx hilo-hiloto
 \ge horseradish
+
 
 \lx hinga
 \ge lion
 
+
 \lx hinianga
 \ge k o *wood
+
 
 \lx hininga
 \ps o
@@ -6863,19 +8588,23 @@
 \ps ho
 \ge to be *fond of
 
+
 \lx hinoto
 \ps NUM
 \ge two
 \gn dua
 \sd
 
+
 \lx hiode
 \ps o
 \ge meat
 \ge side dish
 
+
 \lx hio-hio
 \ge old
+
 
 \lx hioriki
 \ps ha
@@ -6883,11 +8612,13 @@
 \ge know
 \gn mengerti
 
+
 \lx hioru
 \ps ho ma
 \ge paddle
 \gn mendayung
 \sd nauticalical
+
 
 \lx hira
 \ps ma
@@ -6898,10 +8629,12 @@
 \id ngona nohihira
 \ge you go before me
 
+
 \lx hiranga
 \ps nanga
 \ge opposite-sex *sibling
 \sd kin
+
 
 \lx hiri
 \ps i na
@@ -6921,14 +8654,17 @@
 \gn
 \sd body part
 
+
 \lx hitakono
 \ps o
 \ge log
 \gn kayu bulat
 
+
 \lx hitikano
 \ps o
 \crm balitako
+
 
 \lx hiwala
 \ps o
@@ -6936,10 +8672,12 @@
 \gn
 \sd food
 
+
 \lx hiwili
 \ps o
 \ge decoration on rim of habongo
 \sd weaving
+
 
 \lx hiwo
 \ps NUM
@@ -6947,41 +8685,50 @@
 \gn sembilan
 \sd num
 
+
 \lx hiwu
 \ps o
 \ge k o fish net
 \sd fishing
 
+
 \lx hlubota
 \ge shrub
 
+
 \lx ho
-\ps PART
+\ps part
 \ge rest
 \ge remainder
 \gn sisa
 
+
 \lx ho
-\ps PART
+\ps part
 \ge thus
 \gn jadi
+
 
 \lx ho-
 \ps PRO
 \ge 1i
 \ge we
 
+
 \lx ho-
 \ps PRO
 \ge 1inc
 
+
 \lx hoaha
 \ge whistle
+
 
 \lx hoana
 \ps ma
 \ge tribal *village
 \gn
+
 
 \lx hobata
 \ps EXC
@@ -6989,15 +8736,19 @@
 \gn
 \sd
 
+
 \lx hobolo
 \ge mumps
+
 
 \lx hobu
 \ps ho
 \ge beg
 
+
 \lx hofoko
 \ge carry fruit
+
 
 \lx hogo
 \ps
@@ -7005,29 +8756,35 @@
 \gn
 \sd body part
 
+
 \lx hogoli
 \ps o
 \ge bamboo *knife
 \gn
+
 
 \lx hogoto
 \ps
 \ge steps in coconut tree
 \gn
 
+
 \lx hohakai
 \ps
 \ge kitchen
 \gn dapur
 
+
 \lx hohe
 \ge open
 \ge expand
+
 
 \lx hoho
 \ps i
 \ge fly
 \gn terbang
+
 
 \lx hohoba
 \ps o
@@ -7038,9 +8795,11 @@
 \gn
 \sd fishing
 
+
 \lx hohobo
 \ps o
 \ge stone *jar
+
 
 \lx hohoko
 \ps ma
@@ -7049,8 +8808,10 @@
 \gn buah
 \ps plant
 
+
 \lx hohomo
 \ge ghost
+
 
 \lx hohongo
 \ps o
@@ -7060,11 +8821,14 @@
 \ge take shelter (under s t)
 \gn berteduh
 
+
 \lx hohoru
 \ge west
 
+
 \lx hoinapana
 \ge gun
+
 
 \lx hoinapana
 \ps o
@@ -7072,10 +8836,12 @@
 \gn senjata
 \sd hunting
 
+
 \lx hoka
 \ps ha
 \ge wash (clothes)
 \gn cuci (pakaian)
+
 
 \lx hoka
 \ps ma
@@ -7083,16 +8849,19 @@
 \gn daun
 \sd plant
 
+
 \lx hoka
-\ps PART
+\ps part
 \ge as
 \ge like
 \gn seperti
+
 
 \lx hokana
 \ps i
 \ge fly out (of a tool from a handle)
 \gn
+
 
 \lx hokiki
 \ps o
@@ -7100,15 +8869,18 @@
 \gn
 \sd hunting
 
+
 \lx hokoganga
-\ps PART
+\ps part
 \ge like that
 \gn begitu
 
+
 \lx hokona
-\ps PART
+\ps part
 \ge like this
 \gn begini
+
 
 \lx hokoto
 \ps o
@@ -7116,30 +8888,36 @@
 \gn
 \sd body part
 
+
 \lx hokumu
 \ps ha
 \ge pour out
 \ge decant
 \gn
 
+
 \lx holano
 \ge beginning
 \ge origin
+
 
 \lx holete
 \ps ho
 \ge enter
 \gn
 
+
 \lx holoa
 \ps ho
 \ge to give a small *gift
 \gn oleh-oleh
 
+
 \lx holoi
 \ps i
 \ge more
 \gn lebih
+
 
 \lx holya
 \ps o
@@ -7148,30 +8926,38 @@
 \ps ho
 \ge to *dance the cakalele
 
+
 \lx homa
 \ge stutter
+
 
 \lx homoa
 \ge other
 \ge different
 \ge strange
 
+
 \lx homomara
 \ge k o *tree
+
 
 \lx homooko
 \ge k o *hardwood
 
+
 \lx homu
 \ge troubled
 
+
 \lx honanga
 \ge something
+
 
 \lx honenge
 \ps ha
 \ge die
 \gn mati
+
 
 \lx hongana
 \ps o
@@ -7181,11 +8967,14 @@
 \id ohongana manyawa
 \ge Tugutil
 
+
 \lx hongara
 \ge roast
 
+
 \lx hono
 \ge basin
+
 
 \lx hononga
 \ps ma
@@ -7193,50 +8982,65 @@
 \ge part
 \gn sebagian
 
+
 \lx honotoko
 \ge chisel
+
 
 \lx hopa
 \ge hem
 
+
 \lx hopaya
 \ge that
+
 
 \lx hopi
 \ge swear
 \ge curse
 
+
 \lx hopopo
 \ge fine
+
 
 \lx hora
 \ge transport by canoe
 \ge contagious
 \ge chaff
 
+
 \lx horemati
 \ge show respect
+
 
 \lx horene
 \ge crow
 
+
 \lx hori
 \ge lead
+
 
 \lx horogono
 \ge neck hair of pig
 
+
 \lx horowai
 \ge wild parsley
+
 
 \lx horowiri
 \ge behavior
 
+
 \lx horu
 \ge harden
 
+
 \lx hotumu
 \ge exhausted
+
 
 \lx hou
 \ps ma
@@ -7245,35 +9049,44 @@
 \id wato mahou ngohiokahi
 \gn dia bilang sisanya saya sendiri
 
+
 \lx houramo
 \ps o
 \ge mist
 \ge fog
 
+
 \lx houru
 \ge medicine
+
 
 \lx howi
 \ge measles
 
+
 \lx howono
 \ge transgress
+
 
 \lx huba
 \ge bride price
 
+
 \lx hubini
 \ge musty
+
 
 \lx hude
 \ps o
 \ge plate
 \gn piring
 
+
 \lx hudu
 \ps ho
 \ge whisper
 \gn bisik
+
 
 \lx huha
 \ps ha
@@ -7283,46 +9096,65 @@
 \gn susah
 \bw Malay
 
+
 \lx huhu
 \ps ma
 \ge breast
 \gn susu
-\ps ha
-\ge to *nurse (a child)
-\ps ho
-\ge to *suck (the breast)
-\id ohuhu mangohaka
-\ge nipple
+\xv o huhu ma akere
+\xn (breast)milk
+\xv o huhu ma ngohaka
+\xe nipple
 \sd body part
 \bw Malay
+
+\lx huhu
+\ps ha
+\ge to *nurse (a child)
+\bw Malay
+
+\lx huhu
+\ps ho
+\ge to *suck (the breast)
+\bw Malay
+
 
 \lx huhugara
 \ge shovel
 
+
 \lx huhukuno
+\ps o
 \ge termite(?)
+\sd insect
 
 \lx huhupi
 \ps
 \ge blowpipe
 \sd hunting
 
+
 \lx huhuru
 \ge wild
+
 
 \lx hukara
 \ge death *feast
 
+
 \lx huku
 \ge magpie
 
+
 \lx huku
 \ge knot
+
 
 \lx hukunu
 \ps ha
 \ge sell
 \gn jual
+
 
 \lx hulahi
 \ps o
@@ -7330,17 +9162,21 @@
 \gn
 \sd plant
 
+
 \lx huloko
 \ps ha
 \ge order
 \gn
 \sd
 
+
 \lx huludi
 \ge pinch s t
 
+
 \lx hululunu
 \ge round
+
 
 \lx humu
 \ps o
@@ -7348,13 +9184,16 @@
 \gn sumur
 \bw Malay
 
+
 \lx humungu
 \ge nag
 \ge whine
 
+
 \lx hungi
 \ps
 \ge new
+
 
 \lx huo
 \ps o
@@ -7362,31 +9201,40 @@
 \gn jantung
 \sd body part
 
+
 \lx hupi
 \ge shoot with blowpipe
+
 
 \lx hupu
 \ps ho
 \ge go out
 \ge come out
 
+
 \lx hurabi
 \ge porch
+
 
 \lx hurata
 \ge letter
 
+
 \lx huri
 \ge fruit blossom
+
 
 \lx hurono
 \ge nostrils
 
+
 \lx huru
 \ge k o *fish
 
+
 \lx hurutu
 \ge fish poison
+
 
 \lx hutu
 \ps ma
@@ -7394,8 +9242,10 @@
 \ge dark
 \gn malam
 
+
 \lx hutuani
 \ge moment
+
 
 \lx hutulu
 \ps i
@@ -7403,17 +9253,22 @@
 \gn
 \crm utu
 
+
 \lx huwa
 \ge roar of flame
+
 
 \lx huwiha
 \ge trumpet
 
+
 \lx huyu
 \ge smoke
 
+
 \lx ia
 \ge yes
+
 
 \lx iafa
 \ps o
@@ -7421,8 +9276,10 @@
 \gn ikan lomba-lomba
 \sd animal
 
+
 \lx iaha
 \crm iafa
+
 
 \lx iata
 \ps NUM
@@ -7430,8 +9287,10 @@
 \gn emat
 \sd num
 
+
 \lx ibelihi
 \ge evil spirit
+
 
 \lx idahi
 \ps o
@@ -7439,11 +9298,13 @@
 \gn
 \sd animal
 
+
 \lx ido
 \ps o
 \ge mackerel
 \gn ikan cekalang
 \sd fish
+
 
 \lx ido
 \ps o
@@ -7451,11 +9312,14 @@
 \gn
 \sd animal
 
+
 \lx idowau
 \ge sayur liling
 
+
 \lx idu
 \ge lie down
+
 
 \lx idulu
 \ps i
@@ -7464,18 +9328,22 @@
 \id aningoere iidulino
 \ge your sarong is on inside-out
 
+
 \lx -ie
 \ps DIR
 \ge upward
 \sd dir
+
 
 \lx iete
 \ps ho ma
 \ge laugh
 \gn tertawa
 
+
 \lx igini
 \ge fish trap
+
 
 \lx igo
 \ps ho
@@ -7483,11 +9351,13 @@
 \ge like
 \gn
 
+
 \lx igo-igoro
 \ps
 \ge coast
 \ge sail close to shore
 \sd nautical
+
 
 \lx igono
 \ps o
@@ -7500,18 +9370,22 @@
 \ge coconut (still on the tree)
 \sd food
 
+
 \lx igutu
 \ps
 \ge nest
+
 
 \lx iha
 \ge hedge
 \ge fence
 
+
 \lx -iha
 \ps DIR
 \ge landward
 \sd dir
+
 
 \lx ihanga
 \ps ma
@@ -7519,18 +9393,22 @@
 \gn
 \sd nautical
 
+
 \lx ihara
 \ge chicken scratching
+
 
 \lx ihene
 \ps ho
 \ge hear
 \gn dengar
 
+
 \lx ihihi
 \ps o
 \ge urine
 \gn kencing
+
 
 \lx ihoro
 \ps ho
@@ -7540,42 +9418,50 @@
 \ge clean
 \gn cuci piring
 
+
 \lx ihumu
 \ge trembling
+
 
 \lx ija
 \ps ho ma
 \ge buy
+
 
 \lx ijo
 \ps ma
 \ge green
 \bw Malay
 
+
 \lx -ika
 \ps DIR
 \de allative directional suffix, "away"
 \ge ALL
 \re away
-\se ika
+\sd dir
+
+\lx ika
 \ps ha
 \de go away
 
-\sd dir
 
 \lx ilingi
 \ps o
 \ge voice
 \gn suara
 
+
 \lx ilyaka
 \ps
 \ge marry
+
 
 \lx imu
 \ps o
 \ge k o spirit
 \sd magic
+
 
 \lx ingiri
 \ps nanga
@@ -7583,21 +9469,26 @@
 \gn gigi
 \sd body part
 
+
 \lx initara
 \ge light
+
 
 \lx inomo
 \ps o
 \ge food
 \gn makanan
 
+
 \lx inongo
 \ge here
 \ge now
 
+
 \lx ipiti
 \ge pinch
 \ge squeeze
+
 
 \lx iriki
 \ps ha
@@ -7607,15 +9498,19 @@
 \xv ka ngona mairiki
 \xe it's up to you
 
+
 \lx iruhu
 \ge skim
+
 
 \lx iti
 \ge only
 
+
 \lx iunu
 \ge hide
 \ge conceal
+
 
 \lx iwa
 \ps ha
@@ -7627,8 +9522,10 @@
 \id okaho koiwa
 \gn tidak ada anjing
 
+
 \lx iwi
 \ge rattan
+
 
 \lx ja
 \ps o
@@ -7636,24 +9533,30 @@
 \gn
 \sd fishing
 
+
 \lx jabibi
 \ge blister
+
 
 \lx jabu-jabu
 \ps
 \ge sago gutter
 \gn
 
+
 \lx jaga
 \ps
 \ge (branch of tree)
 \gn cabang
 
+
 \lx jai-jai
 \ge hasty
 
+
 \lx jajawa
 \ge coconut water seperated from milk
+
 
 \lx jaji
 \ps o
@@ -7663,21 +9566,26 @@
 \gn janji
 \bw Malay
 
+
 \lx jako
 \ge bearing
 \ge appearance
 \ge stature
 
+
 \lx jako-jaka
 \ge net landing
+
 
 \lx jamani
 \ge face
 \ge countenance
 
+
 \lx jame
 \ge taste
 \ge sample
+
 
 \lx jamu
 \ps o
@@ -7686,15 +9594,19 @@
 \gn jam
 \sd time
 
+
 \lx janga
 \ge shine
 \ge glitter
 
+
 \lx janga
 \ge beams
 
+
 \lx janga-janga
 \ge brilliant
+
 
 \lx jangela
 \ps o
@@ -7702,18 +9614,22 @@
 \gn jendela
 \bw Malay
 
+
 \lx jarita
 \ps
 \ge story
 \gn cerita
 \bw Malay
 
+
 \lx jaru
 \ge aunt
+
 
 \lx jati
 \ps
 \ge wood
+
 
 \lx jela-jela
 \ps
@@ -7721,86 +9637,111 @@
 \gn
 \sd plant
 
+
 \lx jere
 \ge grave
 \ge cemetary
 
+
 \lx jijibobo
 \ge spoon
 
+
 \lx jijiga
 \ge orange
+
 
 \lx jiko
 \ge bay
 \ge bight
 \ge creek
 
+
 \lx jobiri
 \ge ancestor
+
 
 \lx jobo
 \ge go
 \ge depart
 
+
 \lx jobubo
 \ge source
 \ge also
 
+
 \lx jojo
 \ge paternal *uncle
+
 
 \lx jojo
 \ge handrail
 \ge hold fast
 
+
 \lx jojongo
 \ge pearl
+
 
 \lx jojopu
 \ge syringe
 
+
 \lx joko-joko
 \ge bamboo *bench
+
 
 \lx jongutu
 \ge mat
 
+
 \lx jopu
 \ge squirt
 
+
 \lx joro
 \ge fallow garden
+
 
 \lx joro-joro
 \ge garden
 \ge singing game
 
+
 \lx jou
 \ge gentleman
+
 
 \lx juangana
 \ge large *canoe
 
+
 \lx jubale
 \ge splice rope
+
 
 \lx jumu
 \ge calk
 
+
 \lx ka
 \ge only
 
+
 \lx kabelanga
 \ge cocnut shell
+
 
 \lx kabi
 \ps o
 \ge goat
 \bw Malay kambing
 
+
 \lx kaboto
 \ge schooling *fish
+
 
 \lx kabutu
 \ps o
@@ -7808,36 +9749,46 @@
 \gn ikan durian
 \sd fish
 
+
 \lx kadu
 \ps o
 \ge sack
 \gn tas
 
+
 \lx kadu-kadunu
 \ge sleepykaeli
 \ge diligent
 
+
 \lx kadunu
 \ge bend forward
+
 
 \lx kafo
 \ge dust
 
+
 \lx kafo-kafo
 \ge k o *mussel
 
+
 \lx kagunga
 \ge large *canoe
+
 
 \lx kaha
 \ge country
 \ge region
 
+
 \lx kahawari
 \ge cassowary
 
+
 \lx kahina
 \ge mirror
+
 
 \lx kahitela
 \ps o
@@ -7849,21 +9800,25 @@
 \ge corn
 \sd food
 
+
 \lx kaho
 \ps o
 \ge dog
 \gn anjing
 \sd animal
 
+
 \lx kahoho
 \ps o
 \ge grasshopper
 \sd animal
 
+
 \lx kahuruono
 \ps INTEROG
 \ge when (in the future)
 \gn kapan
+
 
 \lx kai
 \ps ma
@@ -7872,29 +9827,36 @@
 \ge bark
 \sd body part
 
+
 \lx kailaka
 \ps o
 \ge k o *liana
-\sc
+\sd
 \sd plant
+
 
 \lx kailupa
 \ge kapok
 
+
 \lx kaingo
 \ps o
 \ge k o sea *snake
-\sc
+\sd
 \sd animal
+
 
 \lx kaja
 \ge palm *mat
 
+
 \lx kaka
 \ge coral
 
+
 \lx kakadono
 \ge joint
+
 
 \lx kakaluepata
 \ps o
@@ -7902,25 +9864,30 @@
 \gn dayung
 \sd nautical
 
+
 \lx kakatama
 \ps ma
 \ge tongs
 \sd tool
 
+
 \lx kakatama
 \ps o
 \ge scorpion
 \gn
-\sc
+\sd
 \sd insect
+
 
 \lx kakihi
 \ge slit
+
 
 \lx kakoto
 \ps nanga
 \ge eyelash
 \sd body part
+
 
 \lx kakuba
 \ps o
@@ -7928,73 +9895,90 @@
 \de a k o banana tree
 \re tree ; banana
 \gn
-\sc
+\sd
 \sd food
 \sd plant
 
+
 \lx kalero
 \ge lime oven
+
 
 \lx kalubaharu
 \ge black *coral(?)
 \re coral
 \sd fish
 
+
 \lx kalulu
 \ge k o canoe
 \re canoe
 \sd nautical
 
+
 \lx kalupapa
 \ge ear drum
 \sd body part
+
 
 \lx kalyidu
 \ge lust
 \ge desire
 
+
 \lx kamo-kamoro
 \ge clouds
+
 
 \lx kane-kane
 \ge tree *ant
 
+
 \lx kangano
-\ps PART
+\ps part
 \ge earlier
 \gn tadi
+
 
 \lx kangela
 \ge burden
 \ge trouble
 \ge anxiety
 
+
 \lx kapa
 \ge cotton
 \ge ship
 
+
 \lx kapeta
 \ge kick with foot
 
+
 \lx kapu
 \ge stain
+
 
 \lx karahi
 \ge rat
 \ge mouse
 
+
 \lx karana
 \ge respect
 \ge misfortune(Ternate)
 
+
 \lx kari
 \ge decide arbitrarily
+
 
 \lx karianga
 \ps o
 \ge iguana
 \ge lizard
 \sd animal
+
 
 \lx karo
 \ps o
@@ -8003,14 +9987,17 @@
 \sd nautical
 \bw ?
 
+
 \lx kateko
 \ps o
 \ge pandanus *mat
+
 
 \lx katu
 \ps o
 \ge roof
 \gn
+
 
 \lx kawahi
 \ps o
@@ -8018,22 +10005,28 @@
 \gn
 \sd plant
 
+
 \lx kaweli
 \ge throw
+
 
 \lx kawihi
 \ge kite
 
+
 \lx kekere
 \ge rasp
 
+
 \lx kelaki
 \ge complaint
+
 
 \lx kele
 \ps
 \ge bamboo water *cask
 \gn
+
 
 \lx kelehoro
 \ps ho
@@ -8041,11 +10034,13 @@
 \gn
 \sd
 
+
 \lx kelenga
 \ps ho
 \ge place
 \ge lay
 \gn letakkan
+
 
 \lx keoko
 \ps ho
@@ -8055,8 +10050,10 @@
 \ge cowardice
 \gn
 
+
 \lx kera
 \ge massage
+
 
 \lx kerewoto
 \ps ha
@@ -8065,26 +10062,32 @@
 \is imikerewoto
 \ge we were separated
 
+
 \lx keteko
 \ps o
 \ge sago bread
 \id opeda oketeko
 \ge cooked *sago
 
+
 \lx kia
 \ps Q
+
 
 \lx kiai
 \ge Chinese
 
+
 \lx kiani
-\ps PART
+\ps part
 \ge must
 \gn harus
+
 
 \lx kiarono
 \ps o
 \ge k o *basket
+
 
 \lx kiawa
 \ps o
@@ -8092,14 +10095,17 @@
 \gn kaladi
 \sd food
 
+
 \lx kibiri
 \ps
 \ge spit
 \ge saliva
 \gn
 
+
 \lx kiditoko
 \ge the very *last
+
 
 \lx kie
 \ps o
@@ -8107,9 +10113,11 @@
 \gn gunung
 \bw Ternate
 
+
 \lx kiguru
 \ps
 \ge sago drain
+
 
 \lx kikihini
 \ps nanga
@@ -8117,14 +10125,17 @@
 \gn
 \sd body part
 
+
 \lx kikisi
 \ps o
 \ge batten
 \gn
 \sd weaving
 
+
 \lx kilehoro
 \ge sprain
+
 
 \lx kilianga
 \ps ha
@@ -8132,16 +10143,20 @@
 \ge demolish
 \gn bongkar
 
+
 \lx kilioro
 \ge turn
+
 
 \lx kiloana
 \ps o
 \ge bamboo water *cask
 
+
 \lx kilotini
 \ge drift wood
 \ge dead wood
+
 
 \lx kinitara
 \ps i
@@ -8149,37 +10164,46 @@
 \gn
 \sd time
 
+
 \lx kioko
 \ps i na
 \ge to be *sleepy
 \gn ngantuk
 
+
 \lx kiria
 \ge frequent
 \ge many
 
+
 \lx kiwuku
 \ge pull out s t
+
 
 \lx ko
 \ge embrace
 \ge hug
 
+
 \lx koaha
 \ge better
 
+
 \lx koali
-\ps PART
+\ps part
 \ge no
 \gn tidak
 \crm
+
 
 \lx koano
 \ge sultan
 \ge k o gum tree
 
+
 \lx kobara
 \ge leaf of areca *palm
+
 
 \lx kobo
 \ps o
@@ -8187,16 +10211,19 @@
 \gn
 \sd animal
 
+
 \lx kobongo
 \ps
 \ge bone
 \gn tulang
 \sd body part
 
+
 \lx koboto
 \ps o
 \ge oath
 \gn sumpah
+
 
 \lx kobowo
 \ps o
@@ -8204,8 +10231,10 @@
 \gn kerbau
 \sd animal
 
+
 \lx kobu
 \ge pick up
+
 
 \lx koca-koca
 \ps o
@@ -8213,21 +10242,26 @@
 \gn
 \sd animal
 
+
 \lx kofin
 \ge fez
+
 
 \lx kofo
 \ge drag *net
 
+
 \lx koha
 \ge harsh
+
 
 \lx kohe
 \ps o
 \ge year *bird
 \gn burung tahun
-\sc
+\sd
 \sd animal
+
 
 \lx kohuta
 \ps o
@@ -8235,11 +10269,13 @@
 \gn
 \sd food
 
+
 \lx koiwa
-\ps PART
+\ps part
 \ge not present (for non-humans)
 \gn tidak ada
 \crm iwa
+
 
 \lx kokaleda
 \ps o
@@ -8247,10 +10283,12 @@
 \gn
 \sd animal
 
+
 \lx kokarai
 \ps o
 \ge quiet the wind
 \sd magic
+
 
 \lx koko
 \ps o
@@ -8259,8 +10297,10 @@
 \sd food
 \sd plant
 
+
 \lx kokoa
 \ge sleeping *mat
+
 
 \lx kokoho
 \ps o
@@ -8268,11 +10308,14 @@
 \gn
 \sd animal
 
+
 \lx kokokoho
 \ge warp
 
+
 \lx kokono
 \ge egg *basket
+
 
 \lx kokoreehe
 \ps o
@@ -8280,26 +10323,33 @@
 \gn
 \sd animal
 
+
 \lx kokotu
 \ps
 \ge black
 \sd color
 
+
 \lx kolo
 \ge embrace
+
 
 \lx kololo
 \ge embrace
 
+
 \lx kolotau
 \ge mattress
+
 
 \lx kolubati
 \ge worms
 
+
 \lx kolyoba
 \ge fisheagle
 \ge Madole
+
 
 \lx komene
 \ps o
@@ -8307,32 +10357,39 @@
 \gn
 \sd plant
 
+
 \lx komo-komo
 \ps o
 \ge sago *porridge
 \gn kapurung
 \sd food
 
+
 \lx kongo
 \ge tears
+
 
 \lx kookoro
 \ge bent
 \ge crooked
 
+
 \lx kope
 \ge turn away
+
 
 \lx kopi
 \ps o
 \ge coffee
 \gn kopi
 
+
 \lx kore
 \ps o
 \ge wind
 \gn angin
 \bw Ternate
+
 
 \lx korema
 \ps o
@@ -8341,9 +10398,11 @@
 \sd plant
 \sd food
 
+
 \lx kori
 \ge scrape
 \ge grate
+
 
 \lx kori-kori
 \ps o
@@ -8351,14 +10410,17 @@
 \gn
 \sd animal
 
+
 \lx koroana
 \ge lose a child
+
 
 \lx korona
 \ps i
 \ge middle
 \gn tengah
 \sd time
+
 
 \lx koru
 \ps o
@@ -8367,36 +10429,44 @@
 \gn
 \sd animal
 
+
 \lx koruku
 \ps
 \ge morning *star
 \sd nautical
 \sd time
 
+
 \lx kota
 \ge fortress
 
+
 \lx kotibi
 \ge busy
+
 
 \lx koti-koti
 \ge dress
 \ge skirt
 \sd clothing
 
+
 \lx kotiri
 \ge stiff
 \ge starched
+
 
 \lx kouno
 \ps o
 \ge k o *fish
 \sd fish
 
+
 \lx kuama
 \ps o
 \ge spear (general term)
 \sd hunting
+
 
 \lx kubu-kubo
 \ps o
@@ -8404,11 +10474,13 @@
 \gn ikan ngafi
 \sd fish
 
+
 \lx kucawolo
 \ps o
 \ge k o forest *bird
 \gn
 \sd animal
+
 
 \lx kucubu
 \ps o
@@ -8416,12 +10488,15 @@
 \gn
 \sd plant
 
+
 \lx kuda
 \ge trestle
 \ge support
 
+
 \lx kuda-kuda
 \ge weed tool
+
 
 \lx kudofo
 \ps ma
@@ -8429,15 +10504,18 @@
 \gn
 \sd plant
 
+
 \lx kudoti
 \ge war
+
 
 \lx kuho
 \ps o
 \ge k o *marsupial
 \gn
-\sc ?
+\sd ?
 \sd animal
+
 
 \lx kukihi
 \ps ma
@@ -8446,14 +10524,17 @@
 \sd plant
 \sd food
 
+
 \lx kule
 \ps
 \ge evil *spirit
 \sd magic
 
+
 \lx kumati
 \ge splendor
 \ge shine
+
 
 \lx kumuruku
 \ps i
@@ -8463,10 +10544,12 @@
 \gn oleng
 \sd nautical
 
+
 \lx kupa
 \ps o
 \ge ketupat
 \sd food
+
 
 \lx kupe
 \ps
@@ -8474,11 +10557,13 @@
 \gn
 \sd house
 
+
 \lx kuranga
-\ps PART
+\ps part
 \ge less (than)
 \gn kurang
 \bw Malay
+
 
 \lx kurati
 \ps ma
@@ -8486,9 +10571,11 @@
 \gn kuning
 \sd color
 
+
 \lx kuru
 \ge charcoal
 \ge soot
+
 
 \lx kuru-kuru
 \ps
@@ -8498,15 +10585,18 @@
 \sd animal
 \sd food
 
+
 \lx kururihi
 \ge snore
 \ge moan
+
 
 \lx kururu
 \ps ha
 \ge scrape (shave the roughness off pandanus)
 \gn
 \sd
+
 
 \lx kurutu
 \ps i
@@ -8515,11 +10605,13 @@
 \ps ma
 \ge length
 
+
 \lx kutu
 \ps o
 \ge k o *snail
 \gn
 \sd animal
+
 
 \lx labara
 \ps o
@@ -8527,11 +10619,13 @@
 \gn
 \sd animal
 
+
 \lx labu
 \ps o
 \ge k o *watermelon
 \gn
 \sd plant
+
 
 \lx lada
 \ps o
@@ -8539,15 +10633,19 @@
 \gn
 \sd food
 
+
 \lx lage
 \ps ho
 \ge lift up s t
 
+
 \lx lai
 \ge float on wings
 
+
 \lx laia
 \ge dish
+
 
 \lx laikodu
 \ps o
@@ -8555,42 +10653,54 @@
 \gn
 \sd fish
 
+
 \lx lainkapu
 \ps
 \ge k o *milkweed
 \gn
 \sd plant
 
+
 \lx lako
 \ps nanga
 \ge eye
 \gn mata
+\xv o akere ma lako
+\xe headwaters
 \sd body part
+
 
 \lx laku
 \ge strongest
 \ge victorious
+
 
 \lx lalata
 \ps o
 \ge bamboo egg *basket
 \gn
 
+
 \lx langi
 \ge rollers
+
 
 \lx lapuru
 \ge lamp
 
+
 \lx lara
 \ge cell
+
 
 \lx lata
 \ge scorch
 
+
 \lx lawe
 \ge thread
 \sd house
+
 
 \lx leanga
 \ps o
@@ -8598,14 +10708,17 @@
 \gn ikan cekalang
 \sd fish
 
+
 \lx lebi
 \ps
 \ge sheets of a sail
 \gn
 \sd nautical
 
+
 \lx lebo-leboto
 \ge stagger
+
 
 \lx ledo
 \ps o
@@ -8613,28 +10726,35 @@
 \ge Caucasian
 \gn bule
 
+
 \lx lefo
 \ge write
+
 
 \lx lega
 \ps ho
 \ge go *see s t 
 \gn
 
+
 \lx legono
 \ge catch
+
 
 \lx leha
 \ps ho
 \ge ask
 \gn tanya
 
+
 \lx lehi
 \ps o
 \ge sleeping *mat
 
+
 \lx leleanga
 \ge kite
+
 
 \lx lelero
 \ps i
@@ -8642,20 +10762,24 @@
 \gn
 \sd time
 
+
 \lx leletongo
 \ps o
 \ge lightning
 \gn kilat
+
 
 \lx leliama
 \ps
 \ge fish *sauce
 \sd food
 
+
 \lx leoto
 \ps
 \ge anchor
 \sd nautical
+
 
 \lx lepa
 \ge puddle
@@ -8663,29 +10787,37 @@
 \ge marsh
 \ge deep *bay
 
+
 \lx leri
 \ge stand on one side
 \ge slant
+
 
 \lx letongo
 \ge shine
 \ge glitter
 
+
 \lx lewaha
 \ge mixed
+
 
 \lx lewanga
 \ge coconut eaten by birds
 
+
 \lx lewangka
 \ge handcuff
+
 
 \lx liamo
 \ge weed
 
+
 \lx liara
 \ge drag
 \ge pull
+
 
 \lx liaro
 \ps
@@ -8693,23 +10825,29 @@
 \gn tiang
 \sd nautical
 
+
 \lx liate
 \ge pole
+
 
 \lx libiri
 \ge emigrate
 
+
 \lx libuku
 \ge corner
 
+
 \lx ligihi
 \ge rope
+
 
 \lx liha
 \ps o
 \ge k o *tree
 \gn
 \sd plant
+
 
 \lx lihanga
 \ps o
@@ -8718,23 +10856,28 @@
 \gn
 \sd
 
+
 \lx lihunu
 \ps o
 \ge garden *house
 \re house
 \gn rumah kebun
 
+
 \lx lihunu
 \ge stalk
+
 
 \lx liko
 \ps ha
 \ge snare
 \ge tie.up
 
+
 \lx liliko
 \ps ma
 \ge snare
+
 
 \lx liliri
 \ps o
@@ -8745,17 +10888,20 @@
 \sd weaving
 \bw ?
 
+
 \lx limoro
 \ps ho
 \ge hunt
 \gn berburu
 \sd hunting
 
+
 \lx linga-linga
 \ps
 \ge go by land
 \gn
 \bw Ternate
+
 
 \lx lingiri
 \ps ha
@@ -8765,16 +10911,19 @@
 \id ahililingiri odaluku
 \ge I make money by selling palm wine
 
+
 \lx lio
 \ps ho
 \ge turn back
 \ge return
+
 
 \lx liporete
 \ps ho ma
 \ge sit back to back
 \gn
 \sd
+
 
 \lx lita
 \ps o
@@ -8783,22 +10932,27 @@
 \gn
 \sd house
 
+
 \lx litoraka
 \ge rafter
 \sd house
+
 
 \lx liweweru
 \ps o
 \ge pohon casuarus
 \sd plant
 
+
 \lx loa
 \ps
 \ge yard
 
+
 \lx lobe
 \ps o
 \ge torch
+
 
 \lx lobi
 \ps o
@@ -8806,12 +10960,15 @@
 \gn awan
 \sd nautical
 
+
 \lx lobi-lobi
 \ps o
 \ge dark *clouds
 
+
 \lx lola
 \ge reconcile
+
 
 \lx loleba
 \ps o
@@ -8821,8 +10978,10 @@
 \sd weaving
 \crm todoku
 
+
 \lx loleoto
 \ge anchorage
+
 
 \lx lolioanga
 \ps o
@@ -8830,13 +10989,16 @@
 \gn
 \sd animal
 
+
 \lx loliti
 \ge turn s t
+
 
 \lx loloha
 \ps o
 \ge yard
 \bw Gal
+
 
 \lx lololo
 \ps o
@@ -8844,68 +11006,89 @@
 \gn
 \sd animal
 
+
 \lx lolongutu
 \ge red *grasshopper
 
+
 \lx lolou
 \ge writing tool
+
 
 \lx lori
 \ge k o *duck
 \sd bird
 
+
 \lx loro
 \ge glass
+
 
 \lx lotengi
 \ge ceiling
 \ge attic
 
+
 \lx loti
 \ge one unpaired
+
 
 \lx loto-lotono
 \ge notched
 
+
 \lx lotono
 \ge make *notches
+
 
 \lx lou
 \ge sketch
 
+
 \lx louhu
 \ge smooth
+
 
 \lx louku
 \ge smoldering
 
+
 \lx lowo
 \ge worn off
+
 
 \lx lowo
 \ge low *ground
 
+
 \lx luga
 \ge k o *pigeon
+
 
 \lx lugo
 \ge pronunciation
 
+
 \lx lugu
 \ge paralysed
+
 
 \lx luhungu
 \ge cover up
 \ge cover
 
+
 \lx luhungu
 \ge stamping block
+
 
 \lx luiti
 \ge cut
 
+
 \lx luiti
 \ge stroke
+
 
 \lx lukama
 \ps o
@@ -8913,12 +11096,15 @@
 \gn langsat
 \sd food
 
+
 \lx luku
 \ps ma
 \ge deep
 
+
 \lx lukuku
 \ge surface
+
 
 \lx lulu
 \ps
@@ -8926,8 +11112,10 @@
 \ge roll up
 \ge tumble
 
+
 \lx luluiti
 \ge bow
+
 
 \lx lulule
 \ps o
@@ -8935,11 +11123,13 @@
 \gn
 \sd animal
 
+
 \lx lulumiti
 \ps
 \ge moss
 \gn
 \sd plant
+
 
 \lx lungunu
 \ps o
@@ -8947,11 +11137,13 @@
 \ge casket
 \gn
 
+
 \lx lupanga
 \ps o
 \ge sinkhole
 \id ongairi moi ilupanguku
 \ge a stream that flows into a sinkhole
+
 
 \lx luri
 \ps o
@@ -8959,20 +11151,26 @@
 \gn burung luri
 \sd animal
 
+
 \lx lurutu
 \ge stand close together
+
 
 \lx luti
 \ge smallpox
 
+
 \lx lutu
 \ge sink
+
 
 \lx lyabo
 \ge sharp
 
+
 \lx lyahini
 \ge drive away
+
 
 \lx lyahini
 \ps ho
@@ -8982,27 +11180,35 @@
 \ge drift (in a boat without paddling)
 \gn
 
+
 \lx lyahiri
 \ge swallow
+
 
 \lx lyaho
 \ge calf
 
+
 \lx lyahongo
 \ge gill
+
 
 \lx lyamiri
 \ge spoiled
 \ge sour
 
+
 \lx lyaru
 \ge comfort a child
+
 
 \lx lyau
 \ge howl
 
+
 \lx lyauhu
 \ge smear *grease
+
 
 \lx lyaunu
 \ps o
@@ -9010,11 +11216,13 @@
 \gn
 \sd fish
 
+
 \lx lye
 \ps ha
 \ge get
 \ge take
 \gn ambil
+
 
 \lx lyeha
 \ps ma
@@ -9023,46 +11231,58 @@
 \ge mainland, in particular the large island of Halmahera
 \gn tanah besar
 
+
 \lx lyia
 \ps ho
 \ge hunt with dogs
 \gn
 \sd hunting
 
+
 \lx lyikutu
 \ge tie
 \ge bind
 
+
 \lx lyoboho
 \ge swell
+
 
 \lx lyohihi
 \ps ho ma
 \ge urinate
 \gn kencing
 
+
 \lx lyoho
 \ge smoke
+
 
 \lx lyokini
 \de pour out dry goods
 \re pour
 
+
 \lx lyoko
 \ps o
 \de shit, excrement
 \ge excrement
-\se lyolyokutu
+
+\lx lyolyokutu
 \ps o
 \ge refuse *scoop
+\sd household
+
 
 \lx lyoku
 \ps o
 \ge mountain
 \gn gunung
 
+
 \lx lyokuku
 \ge opening
+
 
 \lx lyou
 \ps nanga
@@ -9071,13 +11291,16 @@
 \gn kaki
 \sd body part
 
+
 \lx ma
 \ps NCL
 \ge genetive noun marker
 
+
 \lx ma-
 \ps RFLX
 \ge reflexive verbal prefix
+
 
 \lx maata
 \ps ma
@@ -9089,10 +11312,12 @@
 \gn segar
 \crm alo
 
+
 \lx madango
 \ge as
 \ge so much *as
 \ge by *resemblence
+
 
 \lx mahau
 \ps ho ma
@@ -9100,29 +11325,32 @@
 \gn cuci muka
 \sd
 
+
 \lx mahirama
 \ge completely *covered
+
 
 \lx mai
 \ge fade
 \ge wilt
 \ge whither
-\se
+
+\lx mai
 \ge harpoon shaft
 \sd tool
 
+
 \lx maihi
 \ge fortune telling
+
 
 \lx maijanga
 \ps o
 \ge deer
 \gn rusa
 \sd animal
-\se o maijanga ma taduku
-\ge antler
-\sd body part
-\bw Malay
+
+
 
 \lx maiki
 \ps
@@ -9130,14 +11358,17 @@
 \gn buka
 \sd
 
+
 \lx makahe
 \ps o
 \ge k o *fish
 \gn
 \sd fish
 
+
 \lx makamahingi
 \ge threaten
+
 
 \lx make
 \ps ha
@@ -9148,8 +11379,10 @@
 \ge discover
 \gn temukan
 
+
 \lx makokuduku
 \ge cover the head
+
 
 \lx makoro
 \ps o
@@ -9158,27 +11391,34 @@
 \re pig
 \sd animal
 
+
 \lx mali
 \ge bitter
 
+
 \lx malige
 \ge palace
+
 
 \lx maling
 \ge guide
 \ge pilot
 \sd people
 
+
 \lx malya
 \ge permit
 \ge allow
 \ge leave behind
 
+
 \lx malyeke
 \ge ashamed
 
+
 \lx mamata
 \ge belly
+
 
 \lx mamene
 \ps o
@@ -9186,23 +11426,29 @@
 \gn otak
 \sd body part
 
+
 \lx mami
 \ps ha
 \ge rinse s t
 \ps ho ma
 \ge rinse (oneself)
 
+
 \lx manarama
 \ge work
+
 
 \lx mandarahi
 \ge casava
 
+
 \lx mane
 \ge court s o
 
+
 \lx mane-mane
 \ge beads
+
 
 \lx manga
 \ps o
@@ -9211,10 +11457,12 @@
 \sd food
 \crm wale
 
+
 \lx mangale
-\ps PART
+\ps part
 \ge because
 \gn sebab
+
 
 \lx manoko
 \ps o
@@ -9222,52 +11470,66 @@
 \gn panaki
 \sd animal
 
+
 \lx mao
 \ge feel
 \ge feelings
+
 
 \lx maoko
 \ps ho
 \ge stand up
 \gn berdiri
 
+
 \lx maraha
 \ge vapor
 \ge mist
 \ge haze
 
+
 \lx marai
-\ps PART
+\ps part
 \ge roughly
 \ge must
 \gn kira-kira
 
+
 \lx marangi
 \ge opposite
+
 
 \lx maratana
 \ge flower
 
+
 \lx mari
 \ge stone
+
 
 \lx maruhu
 \ge feast
 
+
 \lx mata
 \ge end
+
 
 \lx matana
 \ge tiger
 
+
 \lx matera
 \ge deliver *magic formula
+
 
 \lx matiga
 \ge butter
 
+
 \lx matoko
 \ge show
+
 
 \lx mayoro
 \ps o
@@ -9275,9 +11537,11 @@
 \gn kayu nombo
 \sd plant
 
+
 \lx mede
 \ge indeed
 \ge yet
+
 
 \lx mede
 \ps o
@@ -9286,14 +11550,17 @@
 \gn bulan
 \sd time
 
+
 \lx mediringi
-\ps PART
+\ps part
 \ge day after tomorrow
 \gn lusa
 \sd time
 
+
 \lx mehanga
 \ge sponge
+
 
 \lx mehehe
 \ps o
@@ -9301,12 +11568,15 @@
 \gn kambing
 \sd animal
 
+
 \lx meki
 \ge magician
 \ge shaman
 
+
 \lx meki
 \ge amulet
+
 
 \lx mela
 \ps ma
@@ -9314,25 +11584,32 @@
 \id o kiarono ma mela
 \ge smelly basket
 
+
 \lx meleu
 \ge wild *chicken
+
 
 \lx melumu
 \ge k o sea *polyp
 
+
 \lx memele
 \ge bamboo *knife
 
+
 \lx meo
 \ge cat
+
 
 \lx meta
 \ge aim
 \ge take *aim
 
+
 \lx mi-
 \ps PRO
 \ge 1exc
+
 
 \lx mia
 \ps o
@@ -9340,23 +11617,28 @@
 \gn kera
 \sd animal
 
+
 \lx mibihi
 \ps ma
 \ge black
 \gn hitam
 \sd color
 
+
 \lx midila
 \ge bring *fire together
 
+
 \lx midiringi
-\ps PART
+\ps part
 \ge day after tomorrow
 \gn lusa
 \sd time
 
+
 \lx mikini
 \ge k o *banana
+
 
 \lx mimiri
 \ps o
@@ -9364,20 +11646,26 @@
 \gn
 \sd animal
 
+
 \lx mirimi
 \ge gall bladder
+
 
 \lx moana
 \ge yawn
 
+
 \lx moayu
 \ge Malay
+
 
 \lx modeke
 \ge consent
 
+
 \lx mode-modeko
 \ge fill completely
+
 
 \lx modoi
 \ps o
@@ -9388,6 +11676,7 @@
 \ge the pig stepped on the snare and it sprung
 \sd hunting
 
+
 \lx modongo
 \ps ho
 \ge afraid
@@ -9395,18 +11684,22 @@
 \ps ha
 \ge timid
 
+
 \lx moduku
 \ge brooding
 \ge certain
+
 
 \lx modukua
 \ps adv
 \ge perhaps
 
+
 \lx moha
 \ps o
 \ge cotton
 \ge linen
+
 
 \lx moholehe
 \ps o
@@ -9414,16 +11707,20 @@
 \gn pemudi
 \sd people
 
+
 \lx moho-mohoino
 \ge dawn
+
 
 \lx moi
 \ps num
 \ge one
 
+
 \lx moi-moi
 \ps adv
 \ge all
+
 
 \lx moku
 \ps ho
@@ -9431,14 +11728,17 @@
 \re carry
 \gn pikul
 
+
 \lx moku-moku
 \ps o
 \ge waves
 \gn ombak
 \sd nautical
 
+
 \lx moku-mokulu
 \ge granular
+
 
 \lx mokuru
 \ps o
@@ -9450,22 +11750,27 @@
 \gn sirih-pinang
 \sd food
 
+
 \lx mologotu
 \ps o
 \ge ebony
 \gn kayu hitam
 \sd plant
 
+
 \lx moluo
 \ge bore
+
 
 \lx molyoka
 \ge married woman
 \ge daughter in law
 
+
 \lx momame
 \ge cookies
 \bw Ternate
+
 
 \lx momo
 \ps o
@@ -9473,14 +11778,17 @@
 \gn rumput
 \sd plant
 
+
 \lx monaoko
 \ps NUM
 \ge twenty
 \sd NUM
 
+
 \lx mongo
 \ps o
 \ge fathom
+
 
 \lx mongolyo
 \ps o
@@ -9489,55 +11797,68 @@
 \sd plant
 \crm hiwili
 
+
 \lx mongoro
 \ge faint
 \ge unconscious
+
 
 \lx morene
 \ge rejoice
 \ge be *pleased
 
+
 \lx moributanga
 \ps NUM
 \ge sixty
+
 
 \lx morihiwo
 \ps NUM
 \ge ninety
 
+
 \lx moritoa
 \ps NUM
 \ge fifty
+
 
 \lx morituange
 \ps NUM
 \ge eighty
 
+
 \lx moritumidi
 \ge seventy
 
+
 \lx moroini
 \ge tame
+
 
 \lx moromu
 \ge match
 \ge fuse
 
+
 \lx moruange
 \ps NUM
 \ge thirty
+
 
 \lx moruata
 \ps NUM
 \ge forty
 
+
 \lx moruono
-\ps PART
+\ps part
 \ge how many
 \gn berapa
 \id yamoruono
 \ge several
 \gn beberapa
+
 
 \lx moteke
 \ps ha
@@ -9545,15 +11866,18 @@
 \ge go after
 \gn
 
+
 \lx motoa
 \ps NUM
 \ge five
 \gn lima
 
+
 \lx motumu
 \ps i
 \ge lie face down
 \gn tiarap
+
 
 \lx mou
 \ps ho
@@ -9562,28 +11886,36 @@
 \ps i
 \ge to be *silent
 
+
 \lx muhu
 \ge destroy
+
 
 \lx muhuku
 \ge irresponsible
 \ge airhead
 \ge epilectic fit
 
+
 \lx muhungu
 \ge season
+
 
 \lx muhutika
 \ge pearl
 
+
 \lx mui
 \ge pit
+
 
 \lx mulaha
 \ge neap *tide
 
+
 \lx mumo
 \ge tread on
+
 
 \lx mumuru
 \ps o
@@ -9591,18 +11923,22 @@
 \gn
 \sd animal
 
+
 \lx muna
 \ps PRO
 \ge 3f
 \ge she
 
+
 \lx muruakaka
 \ge phlegm
+
 
 \lx murue
 \ps ho ma
 \ge to go with *empty hands
 \gn
+
 
 \lx murumu
 \ps o
@@ -9623,8 +11959,10 @@
 \sd nautical
 \sd animal
 
+
 \lx muruono
 \crm moruono
+
 
 \lx murutu
 \ps i
@@ -9632,44 +11970,57 @@
 \ge buzz
 \ge drone
 
+
 \lx muta
 \ge stupid
+
 
 \lx mutiti
 \ge sweet
 
+
 \lx mutuade
 \ge therefore
 
+
 \lx nabo
 \ge wound
+
 
 \lx nafali
 \ge promise
 \ge agreement
 
+
 \lx naga
 \ge be *present
 \ge exist
 
+
 \lx naga
 \ge dragon
+
 
 \lx nagara
 \ge cable
 \ge apable
 
+
 \lx nagimi
 \ge debt
+
 
 \lx nahibi
 \ge casava
 
+
 \lx nahiri
 \ge shallow
 
+
 \lx nahiri
 \ge COUNT (bamboo)
+
 
 \lx naka
 \ps o
@@ -9678,52 +12029,63 @@
 \sd food
 \bw Malay
 
+
 \lx nako
 \ps ha
 \ge know
 \gn tahu
-\ps PART
+\ps part
 \ge COND
+
 
 \lx nalo
 \ge rotten
 \ge worn
 
+
 \lx namo-daro
 \ge pigeon
 
+
 \lx nana
 \ge pus
+
 
 \lx nanalingi
 \ps o
 \ge k o tree whose bark is boiled and used in palm wine
 \gn
-\sc
+\sd
 \sd plant
 \sd med
+
 
 \lx nanamo
 \ps ho
 \ge hunt birds
 \sd hunting
 
+
 \lx nanao
 \ps o
 \ge sleeping *mat
 \gn tikar
 
+
 \lx nanere
 \ge dream
 
+
 \lx nao
 \ge cover
+
 
 \lx nauoko
 \ps o
 \ge fish
 \gn ikan
 \sd fish
+
 
 \lx nauru
 \ps ma
@@ -9732,18 +12094,22 @@
 \id o hapi ma nauru
 \ge bull
 
+
 \lx nawoko
 \crm nauoko
+
 
 \lx ne
 \ge here
 \crm nenanga
+
 
 \lx nena
 \ps DEM
 \ge this
 \ge here
 \crm nenanga
+
 
 \lx nenanga
 \ps DEM
@@ -9754,20 +12120,24 @@
 \crm nena
 \crm nanga
 
+
 \lx ngaamaka
 \ge old days
+
 
 \lx ngabau
 \ps o
 \ge k o thorny *liana
-\sc
+\sd
 \sd plant
 
+
 \lx ngade
-\ps PART
+\ps part
 \ge nearly
 \ge almost
 \gn hampir
+
 
 \lx ngaere
 \ps o
@@ -9775,20 +12145,26 @@
 \ge stream
 \crm aere
 
+
 \lx ngago
 \ge ant
+
 
 \lx ngagu
 \ge profitable
 
+
 \lx ngahiri
 \ge product
+
 
 \lx ngahoko
 \ge nipple
 
+
 \lx ngai
 \ge COUNT (fish)
+
 
 \lx ngairi
 \ps o
@@ -9796,23 +12172,29 @@
 \gn kali
 \sd
 
+
 \lx ngaku
 \ge believe
 \ge trust
+
 
 \lx ngale
 \ge reason
 \ge cause
 
+
 \lx ngale-ngale
 \ge youth
 \ge young man
 
+
 \lx ngali
 \ge change
 
+
 \lx ngalo
 \ge crossbeam
+
 
 \lx ngamo
 \ps ho
@@ -9820,8 +12202,10 @@
 \ge be *angry
 \gn marah
 
+
 \lx nga-moi
 \ge k o *banana
+
 
 \lx ngangangoro
 \ps o
@@ -9829,19 +12213,23 @@
 \sd animal
 \sd food
 
+
 \lx ngangoro
 \ps ma
 \ge splendid
 \gn mewah
 \crm wangoro
 
+
 \lx nganiki
 \ge sauce
+
 
 \lx nganono
 \ge hope
 \ge trust
 \ge respect
+
 
 \lx ngarama
 \ps o
@@ -9849,15 +12237,18 @@
 \gn
 \sd fish
 
+
 \lx ngari-ngari
 \ge single
 \ge alone
 \ge only
 
+
 \lx ngaro
-\ps PART
+\ps part
 \ge yet
 \ge nevertheless
+
 
 \lx ngauku
 \ps nanga
@@ -9865,14 +12256,17 @@
 \gn telinga
 \sd body part
 
+
 \lx ngawatero
 \ps o
 \ge rainbow
+
 
 \lx ngawele
 \ps ho
 \ge trip
 \gn
+
 
 \lx ngekomo
 \ps o
@@ -9880,14 +12274,17 @@
 \ge path
 \gn jalan
 
+
 \lx ngengenga
 \ps o
 \ge k o *tree
 \gn
 \sd plant
 
+
 \lx ngi
 \ge container
+
 
 \lx ngidu
 \ps o
@@ -9895,11 +12292,13 @@
 \gn
 \sd animal
 
+
 \lx ngidulu
 \ps o
 \ge small *parakeet
 \gn
-\sd animal
+\sd bird
+
 
 \lx ngimoi
 \ps NUM
@@ -9907,29 +12306,36 @@
 \gn sepuluh
 \sd num
 
+
 \lx ngina-ngina
 \ge narrow
 \ge thin
 
+
 \lx ngiriki
 \ge kernel
+
 
 \lx ngoere
 \ps o
 \ge sarong
 \gn sarong
 
+
 \lx ngogata
 \ge section a fruit
 
+
 \lx ngogoro
 \ge dry season
+
 
 \lx ngohabeloro
 \ps o
 \ge small sea *snake
 \gn
 \sd animal
+
 
 \lx ngohaka
 \ps o
@@ -9938,24 +12344,29 @@
 \ps
 \ge give *birth
 
+
 \lx ngoheka
 \ps o
 \ge woman
 \ge female
 \gn perempuan
 
+
 \lx ngohi
 \ps PRO
 \ge 1
 
+
 \lx ngoho
 \ge fetch s o
+
 
 \lx ngohokunu
 \ps o
 \ge k o *snake
 \gn
 \sd animal
+
 
 \lx ngoi
 \ps ma
@@ -9965,23 +12376,27 @@
 \ge many (people)
 \gn banyak (orang)
 
+
 \lx ngoko
 \ps o
 \ge k o *banana
 \sd food
 
+
 \lx ngoku
 \ps o
 \ge k o wood *pigeon
 \gn
-\sc
+\sd
 \sd animal
+
 
 \lx ngoluku
 \ps o
 \ge
 \gn
 \crm oluku
+
 
 \lx ngolyowo
 \ps o
@@ -9990,8 +12405,10 @@
 \gn
 \sd body part
 
+
 \lx ngomahoka
 \ge drink entirely
+
 
 \lx ngomi
 \ps PRO
@@ -10000,17 +12417,20 @@
 \re we
 \gn kami
 
+
 \lx ngomoti
 \ps o
 \ge k o wood *pigeon
 \gn
 \sd animal
 
+
 \lx ngona
 \ps PRO
 \de second-person singular independent pronoun
 \ge 2
 \re you
+
 
 \lx ngone
 \ps PRO
@@ -10019,9 +12439,11 @@
 \re we
 \gn kita
 
+
 \lx ngongaku
 \ge belief
 \ge trust
+
 
 \lx ngongohaka
 \ps o
@@ -10029,8 +12451,10 @@
 \gn
 \sd plant
 
+
 \lx ngoo
 \ge separate
+
 
 \lx ngooto
 \ps
@@ -10038,10 +12462,12 @@
 \gn
 \sd nautical
 
+
 \lx ngorana
 \ps o
 \ge door
 \gn pintu
+
 
 \lx ngori
 \ps PRO
@@ -10049,17 +12475,20 @@
 \gn 1
 \bw Ternate
 
+
 \lx ngorumino
 \ps o
 \ge morning
 \gn pagi
 \sd time
 
+
 \lx ngotera
 \ps o
 \ge tree *frog
 \gn
 \sd animal
+
 
 \lx ngotiri
 \ps o
@@ -10084,16 +12513,19 @@
 \ge rudder
 \sd nautical
 
+
 \lx nguha-nguhama
 \ps i
 \ge inedible
 \ge stale
 \ge mouldy
 
+
 \lx ngumi
 \ps o
 \ge moustache
 \ge beard
+
 
 \lx ngunungu
 \ps nanga
@@ -10105,6 +12537,7 @@
 \ge rampart (of a mountain)
 \sd body part
 
+
 \lx ngurato
 \ps nanga
 \ge vein
@@ -10112,10 +12545,12 @@
 \sd body part
 \bw Malay
 
+
 \lx ngute
 \ps o
 \ge stair
 \ge ladder
+
 
 \lx ngutuku
 \ps o
@@ -10126,38 +12561,45 @@
 \ge tree root
 \sd plant
 
+
 \lx ngututu
 \ps o
 \ge k o tree
 \gn
-\sc Commersonia ebinata Forst
+\sd Commersonia ebinata Forst
 \sd plant
+
 
 \lx nguuhumu
 \ps o
 \ge alang-alang *grass
 \gn alang-alang
-\sc Imperata arundinacea Cyrill.
+\sd Imperata arundinacea Cyrill.
 \sd plant
+
 
 \lx ngware
 \ps o
 \ge grass ???
 \gn
-\sc
+\sd
 \sd plant
+
 
 \lx ni-
 \ps PRO
 \ge 2p
+
 
 \lx niata
 \ge invoke spirits
 \ge wish
 \ge desire
 
+
 \lx nike
 \crm nikere
+
 
 \lx nikere
 \ps o
@@ -10165,17 +12607,21 @@
 \gn
 \sd fish
 
+
 \lx niki
 \ps ha
 \ge go after
 \ge follow
 \gn ikut
 
+
 \lx nipa-nipa
 \ge by
 
+
 \lx niporo
 \ge go aslant
+
 
 \lx niraka
 \ps o
@@ -10188,21 +12634,26 @@
 \id o niraka homoteke
 \ge keep right
 
+
 \lx nita
 \ps o
 \ge light
 \gn
 \bw Ternate
 
+
 \lx nitomo
 \ge stick
+
 
 \lx nituhuhu
 \ge shrew
 
+
 \lx no-
 \ps PRO
 \ge 2S
+
 
 \lx noa
 \ps ho
@@ -10212,23 +12663,29 @@
 \id o kiaronoka o igono yonoauku
 \ge they put coconuts in the basket
 
+
 \lx noara
 \ps o
 \ge k o fish
 \gn
 \sd fish
 
+
 \lx nobo
 \ge swelling
+
 
 \lx noboho
 \ge swelling
 
+
 \lx nonai
 \ge bait
 
+
 \lx nongu
 \ge charcoal
+
 
 \lx nouhu
 \ps o
@@ -10236,24 +12693,30 @@
 \gn
 \sd plant
 
+
 \lx nowi
 \ps ha
 \ge cut off s t thin
 \ge peel
 
+
 \lx nuhu
 \ge island (Jav)
 
+
 \lx nyare
 \ge reef
+
 
 \lx nyata
 \ge look at
 \ge inquire into
 
+
 \lx nyau
 \ge fish
 \bw Ternate
+
 
 \lx nyawa
 \ps o
@@ -10265,89 +12728,112 @@
 \ps ho ma hi
 \ge to be accompanied by s o
 
+
 \lx nyawa-nyawa
 \ps o
 \ge doll
 \ge painting (of a person)
 \ge representation of a person
 
+
 \lx nyiara
 \ge canary tree
+
 
 \lx nyimo
 \ge fishline
 
+
 \lx nyoa
 \ge k o stomach *illness
 \ge k o *fish
+
 
 \lx nyonyau
 \ge search for fish
 \ge fishline
 \bw Ternate
 
+
 \lx nyonyie
 \ge east
 \bw Ternate
+
 
 \lx o
 \ps NCL
 \ge noun marker
 
+
 \lx oa
 \ge aunt
+
 
 \lx oaha
 \ps i
 \ge become *dry
 
+
 \lx oara
 \ps ha
 \ge run away
 
+
 \lx obi
 \ge inflamed
+
 
 \lx obiri
 \ge spittle
 
+
 \lx ode
 \ge indeed
+
 
 \lx odiri
 \ge burning
 \ge hot
 \ge spicy
 
+
 \lx ofi
 \ge flat
+
 
 \lx oga
 \ge paralyzed
 
+
 \lx ogana
 \ge coconut milk sauce
+
 
 \lx ogoro
 \ge stopping of s t
 
+
 \lx oguru
 \ge thigh
+
 
 \lx ohaka
 \ge cooked
 \ge done
+
 
 \lx ohana
 \ps ho
 \ge approach
 \ge push
 
+
 \lx -ohi
 \ps vsf
 \ge REP
 \de repetitive aspectual suffix
 \re again
+
 
 \lx ohiki
 \ps ha
@@ -10356,12 +12842,15 @@
 \ge bathe oneself
 \ge take a *bath
 
+
 \lx ohu
 \ge earthquake
+
 
 \lx ohumu
 \ps
 \ge cook
+
 
 \lx ohungu
 \ps o
@@ -10369,26 +12858,32 @@
 \gn
 \sd animal
 
+
 \lx oiki
 \ge go
 \ge set out
 
+
 \lx -oka
-\ps LOC
+\ps loc
 \ge at
+
 
 \lx okere
 \ps ho
 \ge drink
 \gn minum
 
+
 \lx oko
 \ge stand on end
+
 
 \lx -oko
 \ps DIR
 \ge seaward
 \sd dir
+
 
 \lx okoko
 \ps nanga
@@ -10397,20 +12892,25 @@
 \gn
 \sd body part
 
+
 \lx ole
 \ge crotch
+
 
 \lx olete
 \ge penetrate
 
+
 \lx olu
 \ge overflow
+
 
 \lx oluku
 \ps ho
 \ge not want
 \ge refuse s t 
 \gn tidak mau
+
 
 \lx olyomo
 \ps ho
@@ -10419,8 +12919,10 @@
 \ps ha
 \ge eat s t
 
+
 \lx omanga
 \ge full
+
 
 \lx omu
 \ps i na
@@ -10430,37 +12932,45 @@
 \ge jealousy
 \gn
 
+
 \lx omuku
 \ps i
 \ge ripe
 \gn
 
+
 \lx opuru
 \ge spittle
+
 
 \lx ora
 \ps ha
 \ge rob
 \gn mencurikan
 
+
 \lx ora
 \ps nanga
 \ge daughter
 \sd kin
+
 
 \lx orahi
 \ps o
 \ge hour
 \bw Malay
 
+
 \lx orangi
 \ge serants
+
 
 \lx orehe
 \ps ho
 \ge cry
 \ge whine
 \gn tangis
+
 
 \lx oriki
 \ps ho
@@ -10473,32 +12983,41 @@
 \id tingorikua
 \ge I don't see him
 
+
 \lx oro
 \ps
 \ge become *cloudy
 \gn
 
+
 \lx orumu
 \ge come
+
 
 \lx orutu
 \ps i
 \ge fight (of dogs)
 
+
 \lx otaka
 \ge fall
+
 
 \lx otama
 \ge leave
 
+
 \lx otili
 \ge canoe (Tug)
+
 
 \lx otini
 \ge handle
 
+
 \lx oto
 \ge cut
+
 
 \lx oto
 \ps o
@@ -10506,37 +13025,46 @@
 \ge vehicle
 \gn bis
 
+
 \lx owa
 \ps nanga
 \ge aunt
 \gn tante
 \sd kin
 
+
 \lx oworo
 \ge sword
+
 
 \lx paakoro
 \ps i
 \ge slippery
 \gn licin
 
+
 \lx paca
 \ge smear
 \ge brush
 
+
 \lx padaka
 \ge short
+
 
 \lx padamara
 \ps o
 \ge lamp
 \gn lampu
 
+
 \lx padara
 \ge indigestion
 
+
 \lx pado
 \ge leprosy
+
 
 \lx padoha
 \ps i
@@ -10545,12 +13073,14 @@
 \ps o
 \ge poison
 
+
 \lx pagoto
 \ps o
 \ge bad *smell
 \ps ma
 \ge smelly
 \ge odiferous
+
 
 \lx paha
 \ps i
@@ -10559,11 +13089,14 @@
 \id holyomo de ipaha o daluku holyomo
 \ge let's eat and then afterward drink palm wine
 
+
 \lx pahagi
 \ge corner
 
+
 \lx pahi
 \ge shoal
+
 
 \lx pahitaka
 \ps o
@@ -10571,20 +13104,25 @@
 \gn
 \sd
 
+
 \lx pahugo
 \ge asthmatic
+
 
 \lx paka
 \ps ha
 \ge throw (a round object)
 
+
 \lx pakata
 \ge k o *canoe
 \bw Ternate
 
+
 \lx pakisani
 \ge uncivilized
 \bw Ternate
+
 
 \lx pako
 \ps ma
@@ -10592,10 +13130,12 @@
 \ge coarse
 \gn lebar
 
+
 \lx pakoro
 \ps ha
 \ge cut
 \gn
+
 
 \lx palado
 \ps o
@@ -10603,59 +13143,74 @@
 \gn
 \sd animal
 
+
 \lx palaka
 \ge edge
+
 
 \lx palele
 \ge sell
 
+
 \lx pali
 \ge rebel
+
 
 \lx pali
 \ps ha
 \ge roll up
 \gn
 
+
 \lx palyanga
 \ge touch
 \ge feel
+
 
 \lx pamara
 \ps o
 \ge knife
 \ge razor
 
+
 \lx pana
 \ge shoot with bow
 
+
 \lx panata
 \ge disordered
+
 
 \lx panawa
 \ps o
 \ge medicine
 \bw Ternate
 
+
 \lx pancora
 \ge drain
 \ge funnel
+
 
 \lx panga
 \ps nanga
 \ge elbow
 \sd body part
 
+
 \lx papa
 \ps
 \ge reef
 \sd nautical
 
+
 \lx paraha
 \ge pin s t
 
+
 \lx parahaja
 \ge without *payment
+
 
 \lx parahi
 \ps nanga
@@ -10663,9 +13218,11 @@
 \gn janggut
 \sd body part
 
+
 \lx parati
 \ge share
 \ge portion
+
 
 \lx pariama
 \ps o
@@ -10674,21 +13231,27 @@
 \ge rust
 \sd time
 
+
 \lx parihi
 \ge sweep away
 \ge wipe off
 
+
 \lx parting
 \ge wind up
+
 
 \lx paruru
 \ge laxitive
 
+
 \lx patidoi
 \ge chest
 
+
 \lx pawa
 \ge chisel
+
 
 \lx paya
 \ps i
@@ -10697,11 +13260,13 @@
 \gn paya
 \bw Malay
 
+
 \lx payae
 \ps o
 \ge palm leaf *cup
 \gn
 \crm derihi
+
 
 \lx payu
 \ps o
@@ -10713,6 +13278,7 @@
 \ge he uses the leaf as an umbrella
 \bw Malay
 
+
 \lx pea
 \ps o
 \ge skull
@@ -10722,6 +13288,7 @@
 \ge bald
 \gn
 
+
 \lx peda
 \ps o
 \ge sago
@@ -10730,58 +13297,73 @@
 \id o peda ha woere
 \ge lay out *sago to dry
 
+
 \lx peda-peda
 \ps o
 \ge arrowroot
 
+
 \lx pedeke
 \ge frog
 
+
 \lx peduru
 \ge k o *tree
+
 
 \lx pehaka
 \ps i na
 \ge become *wet
 \gn basah
 
+
 \lx peki
 \ge make *dirty
 \ge defile
 \ge contaminate
 
+
 \lx pekoto
 \ge cross legs
+
 
 \lx pelanga
 \ge bent
 \ge crooked
 
+
 \lx peleke
 \ge stumble
+
 
 \lx pelelaka
 \ge lean
 \ge thin
 
+
 \lx peleoko
 \ge curved
 \ge not *straight
+
 
 \lx peneto
 \ge narrow
 \ge tight
 
+
 \lx penga
 \ge beat
 \ge pulse
 
+
 \lx penga-penga
 \ge play *marbles
+
 
 \lx pepe
 \ge wrap up
 \ge enclose
+
 
 \lx pepe
 \ps nanga
@@ -10789,92 +13371,119 @@
 \gn
 \sd kin
 
+
 \lx perehu
 \ge shut
 \ge close
 
+
 \lx pereki
 \ge old
+
 
 \lx peri
 \ge score
 
+
 \lx peringana
 \ge scatter
 \ge disperse
+
 
 \lx peseke
 \ps ma
 \ge dirt
 \ge dirty
 
+
 \lx piara
 \ps ha
 \ge raise
 \bw Malay
 
+
 \lx pida
 \ge unfinished *handiwork
 
+
 \lx pidaha
 \ge hole
+
 
 \lx pidili
 \ge release
 \ge let go
 
+
 \lx pidingi
 \ge k o belt *clasp
+
 
 \lx pigu
 \ge k o small *basket
 
+
 \lx piha-pihana
 \ge use up entirely
 
+
 \lx pilangu
 \ge contribute
+
 
 \lx pilatu
 \ge pinch
 \ge wedge in
 
+
 \lx pilipere
 \ge struggle
+
 
 \lx piloko
 \ge blind
 
+
 \lx pilopuru
 \ge break
+
 
 \lx pim
 \ge k o palm
 
+
 \lx pine
 \ge rice
+
 
 \lx pineau
 \ge k o *coconut
 
+
 \lx pinoa
 \ge flower of aren *palm
+
 
 \lx pipi
 \ge money
 
+
 \lx pipidoro
 \ge k o magic *charm
 
+
 \lx pipiheni
 \ge k o large black *beetle
+
 
 \lx pipiti
 \ge grub
 \ge caterpillar
 
+
 \lx pirini
 \ge thick
+
 
 \lx pitata
 \ps i
@@ -10884,15 +13493,19 @@
 \ge the pig stepped on the snare and it sprung
 \sd hunting
 
+
 \lx pitoko
 \ge stamp
 \ge kick
 
+
 \lx pitu
 \ge k o tree
 
+
 \lx pitua
 \ge customs
+
 
 \lx poa
 \ps ha
@@ -10905,39 +13518,50 @@
 \id tapoaokaua
 \gn saya tidak sanggup lagi
 
+
 \lx poaka
 \ge cry
+
 
 \lx podo
 \ge short
 \bw Ternate
 
+
 \lx podoje
 \ge money *purse
 \ge pocket
+
 
 \lx poha
 \ps ho
 \ge hit
 
+
 \lx pohi-pohi
 \ge k o *mangrove
 
+
 \lx pohuku
 \ge deny persistently
+
 
 \lx pohuku
 \ge fill up
 \ge fill in
 
+
 \lx poka
 \ge hit with hand
+
 
 \lx pokoamo
 \ge sago trough
 
+
 \lx poko-poko
 \ge k o banana
+
 
 \lx pokoro
 \ps nanga
@@ -10948,103 +13572,133 @@
 \ge dysentery
 \sd body part
 
+
 \lx pola
 \ge roasted *sago
 
+
 \lx pole-pole
 \ge fish eagle
+
 
 \lx polo
 \ge short
 \ge stump
 
+
 \lx poloto
 \ge press between fingers
+
 
 \lx polu
 \ge crowd together
 \ge embrace
 
+
 \lx pongo
 \ge deaf
+
 
 \lx pongono
 \ge be *deaf
 
+
 \lx pono
 \ge bewitch s o
+
 
 \lx ponu
 \ge bend forward
 
+
 \lx pooko
 \ge crack
+
 
 \lx pooteke
 \ge crack
 \ge split
 \ge burst
 
+
 \lx popa
 \ge infant
 \ge small *child
 
+
 \lx poparaka
 \ge liana
+
 
 \lx populegana
 \ge k o *snake
 
+
 \lx porete
 \ge back
+
 
 \lx porohono
 \ge chilly
 \ge feverish
 \ge fearful
 
+
 \lx potati
 \ge large edible land *crab
 
+
 \lx poteloti
 \ge pencil
+
 
 \lx potoka
 \ge crack
 \ge burst
 
+
 \lx puda
 \ge surface
 
+
 \lx puga
 \ge limp
+
 
 \lx pugili
 \ge bent
 \ge broken
 
+
 \lx pugu-pugutu
 \ge k o large black *ant
 
+
 \lx puha
 \ge decay
+
 
 \lx puha
 \ge crease
 \ge fold
 \ge tangled
 
+
 \lx puhu
 \ge cholera (?)
+
 
 \lx pujanga
 \ge groin
 
+
 \lx pujeje
 \ge mushy
 
+
 \lx puka
 \ge young wood *chicken
+
 
 \lx puka
 \ge knuckle
@@ -11052,8 +13706,10 @@
 \ge hump
 \ge knot
 
+
 \lx pulo
 \ge small *hill
+
 
 \lx pulono
 \ps ha
@@ -11066,24 +13722,30 @@
 \id o kaho hipulono
 \gn anjing lihat saya
 
+
 \lx pululu
 \ps i
 \ge
 \gn bulat
 
+
 \lx pung
 \ge k o *pandanus
 
+
 \lx puniti
 \ge coconut palm *bark
+
 
 \lx punuhu
 \ps ha
 \ge satiated
 \gn kenyang
 
+
 \lx puonga
 \ge bubble up
+
 
 \lx pupu
 \ps o
@@ -11091,36 +13753,46 @@
 \gn
 \sd animal
 
+
 \lx pupuung
 \ge ankle
 
+
 \lx puro
 \ge k o *tree
+
 
 \lx purutu
 \ge abraded
 \ge skinned
 
+
 \lx putuhu
 \ge decide
+
 
 \lx puturungu
 \ps i na
 \ge strong
 \ge powerful
 
+
 \lx raba-tigo
 \ge k o *wood
+
 
 \lx rabu
 \ge winch
 \ge hoist the sail
 
+
 \lx rabutu
 \ge stuck together
 
+
 \lx radako
 \ge strip off s t
+
 
 \lx raga
 \ge withered
@@ -11129,83 +13801,105 @@
 \ge frightened
 \ge dumbfounded
 
+
 \lx ragoho
 \ge scratch
 
+
 \lx ragumu
 \ge k o *lizard
+
 
 \lx raha
 \ge feel
 \ge mean
 \ge think
 
+
 \lx rahai
 \ge beautiful
 \ge handsome
 \ge graceful
+
 
 \lx rahamati
 \ge blessing
 \ge fortune
 \ge properity
 
+
 \lx rahi
 \ge nearsighted
 \ge myopic
 
+
 \lx rahuku
 \ge uproot
+
 
 \lx rai
 \ge k o *mushroom
 
+
 \lx raki
 \ge planting
+
 
 \lx rako
 \ge attatch
 
+
 \lx rakutu
 \ge liana
+
 
 \lx rama
 \ge swell
 \ge expand
 
+
 \lx rame
 \ge celebrate
 \ge feast
+
 
 \lx ramoho
 \ge press
 \ge squeeze
 \ge knead
 
+
 \lx rangi
 \ge climb
 \bw Ternate
+
 
 \lx rano
 \ge rub
 \ge anoint
 \bw Ternate
 
+
 \lx rapa-rapa
 \ge spices
+
 
 \lx rara
 \ge stand apart
 
+
 \lx raratuhu
 \ge k o *banana
+
 
 \lx rari
 \ge spy
 
+
 \lx raro
 \ge go out of the way
 \ge thick *peels
+
 
 \lx rato
 \ps o
@@ -11213,45 +13907,57 @@
 \gn angin kuat
 \sd nautical
 
+
 \lx ratuhu
 \ps NUM
 \ge hundred
 \bw Malay
 
+
 \lx rau
 \ge half *ripe
 \ge breakers
 
+
 \lx rauku
 \ge warm above fire
 
+
 \lx rawiti
 \ge split bamboo *mat
+
 
 \lx redi
 \ge garden
 \ge cleaned
 \ge cleared
 
+
 \lx refe
 \ge wings
+
 
 \lx regu
 \ge divide
 
+
 \lx rehe
 \ge split open
+
 
 \lx rehene
 \ge remove
 
+
 \lx rehepehi
 \ge guilder
+
 
 \lx rehuku
 \ge come *off
 \ge break off
 \ge come *undone
+
 
 \lx rekata
 \ge rend
@@ -11260,65 +13966,83 @@
 \ge go away
 \ge take a *walk
 
+
 \lx reno
 \ge gnaw
+
 
 \lx repa
 \ge blistered
 
+
 \lx rete
 \ge floor
 \ge layer
+
 
 \lx riaka
 \ps nanga
 \ge older *sibling
 \sd kin
 
+
 \lx ribi-ribi
 \ge fever heat
+
 
 \lx riboko
 \ge wake
 
+
 \lx ribuhu
 \ge thousand
 
+
 \lx rica
 \ge pepper
+
 
 \lx ridi
 \ge be *still
 \ge remain *silent
 \ge k o *tree
 
+
 \lx rihuku
 \ge slow
 
+
 \lx rikana
 \ge hearth *stone
+
 
 \lx rikimi
 \ge fit
 \ge abundant
 
+
 \lx rikitu
 \ge straight
+
 
 \lx rimoi
 \ge all
 
+
 \lx rinom
 \ge cleaver
+
 
 \lx rio
 \ge footprint
 \ge impression
 
+
 \lx riri
 \ge bunch
 \ge stripe
 \ge scratch
+
 
 \lx ririmi
 \ps o
@@ -11330,14 +14054,17 @@
 \ge to use s t as a *rudder
 \sd nautical
 
+
 \lx ritama
 \ps i na
 \ge to get *goose bumps
 \gn
 
+
 \lx riwo
 \ge help
 \ge support
+
 
 \lx riwoto
 \ps o
@@ -11345,21 +14072,26 @@
 \gn
 \sd weaving
 
+
 \lx roanga
 \ge howl
+
 
 \lx robo
 \ge Wednesday
 \sd time
+
 
 \lx roehe
 \ps ma
 \ge trunk
 \sd plant
 
+
 \lx rohu
 \ge do *hastily
 \ge do *rashly
+
 
 \lx rokata
 \ps nanga
@@ -11367,65 +14099,85 @@
 \gn suami
 \sd kin
 
+
 \lx roko
 \ge file teeth
+
 
 \lx roma
 \ge k o *tree
 
+
 \lx romanga
 \ge name
+
 
 \lx rono
 \ge purr
 
+
 \lx ronu
 \ge fall together
+
 
 \lx roraange
 \ge three month *rice
 
+
 \lx roraka
 \ge k o *shrub
+
 
 \lx rorano
 \ge balsam
 
+
 \lx rore
 \ge k o *spirit
 
+
 \lx roree
 \ge k o *canoe
+
 
 \lx roroai
 \ge established
 \ge agreed
 
+
 \lx roroto
 \ge protruding
 
+
 \lx rorotu
 \ge k o *mango
+
 
 \lx roru
 \ge pick
 \ge long
 \bw Ternate
 
+
 \lx rorumu
 \ge k o *wood
+
 
 \lx rotanga
 \ge offer around
 
+
 \lx roti
 \ge bread
+
 
 \lx ruae
 \ge make *noise
 
+
 \lx ruara
 \ge thickleaved
+
 
 \lx ruba
 \ps ho
@@ -11433,38 +14185,48 @@
 \ge knock over
 \ge trip
 
+
 \lx rube
 \ge stone *pot
 \ge earthen *vessel
 \ge pitcher
 
+
 \lx rubu
 \ge stand close together
+
 
 \lx rucaka
 \ge wreck
 \ge destroy
 
+
 \lx ruci
 \ge deceive
 
+
 \lx rudu
 \ge thresh rice
+
 
 \lx rugi
 \ge damage
 \ge loss
 
+
 \lx ruhutu
 \ge close
+
 
 \lx ruju
 \ge rub s t
 
+
 \lx rujubi
 \ge k o *lobster
-\sc ?
+\sd ?
 \sd fish
+
 
 \lx rukiti
 \ps o
@@ -11472,34 +14234,43 @@
 \gn ganemo
 \sd plant
 
+
 \lx ruku
 \ge curved
 \ge hanging over
 
+
 \lx rumunu
 \ge choke
+
 
 \lx ruruhu
 \ge noise
 \ge sound
 
+
 \lx rurutu
 \ge standing close together
+
 
 \lx rutuku
 \ge logjam
 
+
 \lx safa
 \ge damer rosin
+
 
 \lx salipi
 \ge sago leaf *mat
 \bw Ternate
 
+
 \lx salumbe
 \ps ho
 \ge to *sing k o traditional song
 \gn
+
 
 \lx sana
 \ps o
@@ -11507,16 +14278,19 @@
 \gn ribu
 \sd num
 
+
 \lx sapato
 \ps o
 \ge shoe
 \gn sepatu
 \bw Malay
 
+
 \lx sawaro
 \ps ha
 \ge smart
 \gn pandai
+
 
 \lx sehehe
 \ps o
@@ -11524,23 +14298,28 @@
 \gn
 \sd
 
+
 \lx selo
 \ps ho
 \de to *dance a k o dance
 \ge k.o.dance
 
+
 \lx siridola
 \ge k o stomach *illness
+
 
 \lx soika
 \ps ha
 \ge hold
 \gn pegang
 
+
 \lx sopaya
-\ps PART
+\ps part
 \ge so that
 \bw Malay
+
 
 \lx suba-suba
 \ps o
@@ -11548,9 +14327,11 @@
 \gn
 \sd animal
 
+
 \lx taaere
 \ge reprimand
 \ge scold
+
 
 \lx taaga
 \ps o
@@ -11558,14 +14339,17 @@
 \ge puddle
 \gn danau
 
+
 \lx taahi
 \ps o
 \ge k o *jellyfish
 \gn
 \sd animal
 
+
 \lx taajiri
 \ge accuse of adultery
+
 
 \lx taake
 \ps o
@@ -11573,8 +14357,10 @@
 \gn
 \sd plant
 
+
 \lx taana
 \ge endure
+
 
 \lx tabadiku
 \ps o
@@ -11583,8 +14369,10 @@
 \bw Ternate
 \sd plant
 
+
 \lx tabaga
 \ge copper
+
 
 \lx tabako
 \ps o
@@ -11592,25 +14380,32 @@
 \ge tobacco
 \gn rokok
 
+
 \lx tabauru
 \ge fill
+
 
 \lx tabea
 \ge excuse me
 
+
 \lx tabihahu
 \ge orchid
+
 
 \lx tabu
 \ge dip
 \ge sop
 
+
 \lx tabule
 \ge shellfish
+
 
 \lx tadaka
 \ge blunt
 \ge dull
+
 
 \lx tadauru
 \ps nanga
@@ -11618,29 +14413,40 @@
 \gn rambut
 \sd body part
 
+
 \lx tadi
 \ge thrust
 \ge own s t
 
+
 \lx taduku
 \ps o
 \ge horn
+\ge antlers
 \gn
+\xv o maijanga ma taduku
+\xn deer antlers
+\bw Malay
 \sd body part
+
 
 \lx tafi
 \ge filter
 \ge strain
 
+
 \lx taga
 \ps i
 \ge chest pain
 
+
 \lx tagaala
 \ge k o flat *basket
 
+
 \lx tagahanga
 \ge delay
+
 
 \lx tagaheka
 \ps o
@@ -11648,25 +14454,31 @@
 \gn
 \sd animal
 
+
 \lx tagailoriki
 \ps o
 \ge k o *kingfisher
 \gn
 \sd animal
 
+
 \lx tagali
 \ge change
 \ge exchange
 
+
 \lx tagapi
 \ge explain s t mysterious
+
 
 \lx tage
 \ge undermost part of *leaf
 
+
 \lx tagi
 \ge go
 \ge run
+
 
 \lx tagoko
 \ps ha
@@ -11676,10 +14488,12 @@
 \gn tangkap
 \gal tago
 
+
 \lx tahe
 \ps ho
 \ge crawl
 \gn merayap
+
 
 \lx tahube
 \ps o
@@ -11687,10 +14501,12 @@
 \gn
 \sd plant
 
+
 \lx tahuku
 \ps ha
 \ge knot
 \gn ikat
+
 
 \lx tai
 \ps ha
@@ -11699,16 +14515,19 @@
 \id ona okiarono yataioka
 \ge they carried the baskets
 
+
 \lx tai
 \ps ha
 \ge carry on back
 \id okiarono hatai
 \ge we carry baskets
 
+
 \lx taiana
 \ps ho
 \ge deliberate
 \ge consider
+
 
 \lx taihe
 \ps ma
@@ -11716,37 +14535,45 @@
 \gn anak babi
 \sd animal
 
+
 \lx tailako
 \ps ho
 \ge see
 \ge look at
 \gn
 
+
 \lx taili
 \ps ho
 \ge attempt
 \gn mencoba
+
 
 \lx taiti
 \ps ha
 \ge hurry
 \gn terburu
 
+
 \lx taka
 \ge break an engagement
 \ge creak
 
+
 \lx take
 \ge tap
 \ge bump
+
 
 \lx takehiri
 \ge appraise
 \ge estimate
 \ge suppose
 
+
 \lx takieuw
 \ge k o *grass
+
 
 \lx takoro
 \ps ho
@@ -11755,14 +14582,17 @@
 \id odamunu totakoro
 \ge I play the drum
 
+
 \lx takuru
 \ps o
 \ge k o *heron
 \gn
 \sd animal
 
+
 \lx talaaa
 \ge scanty
+
 
 \lx talaga
 \ps o
@@ -11770,14 +14600,18 @@
 \gn danau
 \bw Ternate
 
+
 \lx talama
 \ge plate
+
 
 \lx talanga
 \ge bulge out
 
+
 \lx taleana
 \ge encourage
+
 
 \lx tali
 \ps o
@@ -11785,18 +14619,23 @@
 \gn
 \sd animal
 
+
 \lx talo
 \ge old *egg
 
+
 \lx taloko
 \ge blow
+
 
 \lx tama
 \ge wait
 \ge stuck in throat
 
+
 \lx tamamu
 \ge ready
+
 
 \lx tamero
 \ps
@@ -11804,17 +14643,21 @@
 \gn
 \sd body part
 
+
 \lx tami
 \ge stuck in throat
+
 
 \lx tamo
 \ps o
 \ge rice *pot
 \gn
 
+
 \lx tamoro
 \ge spy
 \ge peep
+
 
 \lx tampala
 \ps o
@@ -11822,10 +14665,12 @@
 \gn
 \sd magic
 
+
 \lx tamunu
 \ps ho
 \ge cover
 \gn tutup
+
 
 \lx tana
 \ps ho
@@ -11834,101 +14679,130 @@
 \id witanuku otutupangoka
 \ge he locked him up in jail
 
+
 \lx tana
 \ps ha
 \ge to bring an *offering
 
+
 \lx tanana
 \ge unhelpful
+
 
 \lx tanawaka
 \ge bad
 
+
 \lx tangi
 \ge perch
+
 
 \lx tangono
 \ps i
 \ge lean
 \gn
 
+
 \lx tani
 \ge look for *lice
+
 
 \lx tanobane
 \ge sail together
 
+
 \lx tanuma
 \ge k o *bean
+
 
 \lx tapa
 \ge mend
 \ge patch
 \ge fish turtle
 
+
 \lx tapaki
 \ge road
+
 
 \lx tapalyu
 \ge fall on
 \ge lay on
 
+
 \lx tape
 \ge hole in tree
+
 
 \lx tapi-tapi
 \ge sieve
 
+
 \lx tapu
 \ge anchor
+
 
 \lx tararono
 \ge shine
 \ge shine upon
 
+
 \lx tarate
 \ge waterlily
+
 
 \lx taratibi
 \ge k o *banana
 
+
 \lx taratibi
 \ge sit with crossed legs
+
 
 \lx tarima
 \ge receive
 
+
 \lx tarimakasi
 \ge thanks
 
+
 \lx taromo
 \ge black
+
 
 \lx taru
 \ge adhere
 \ge stick
 
+
 \lx tarunu
 \ge notch
 \ge store
+
 
 \lx tarupa
 \ps o
 \ge sandals
 \ge shoes
 
+
 \lx tata
 \ge k o *basket
+
 
 \lx tatabuang
 \ge k o *guitar
 
+
 \lx tatanaman
 \ge crop
+
 
 \lx tataope
 \ge tadpole
 \ge ikan kes
+
 
 \lx tatapa
 \ps o
@@ -11936,16 +14810,20 @@
 \gn
 \crm habongo
 
+
 \lx tataruna
 \ge k o *snake
+
 
 \lx tate
 \ge sieve
 \ge sift
 
+
 \lx tateke
 \ge crackle
 \ge crack
+
 
 \lx tatoko
 \ps ha
@@ -11953,64 +14831,82 @@
 \ge shelter
 \ge protect
 
+
 \lx tatu
 \ge burn out
+
 
 \lx tau
 \ps o
 \ge house
 \gn rumah
 
+
 \lx taubutu
 \ge bargain
+
 
 \lx tauge
 \ge k o *earring
 
+
 \lx taugumi
 \ge fish with weir
+
 
 \lx tauja
 \ge sea cucumber
 
+
 \lx taulu
 \ge stick
 \ge paste
+
 
 \lx tauru
 \ps ha
 \ge pull
 \gn tarik
 
+
 \lx tawaga
 \ge listen
 \ge stare
 
+
 \lx tawanono
 \ge admonish
+
 
 \lx tawari
 \ge swallow tobacco
 
+
 \lx tawa-tawa
 \ge k o *tree
+
 
 \lx tawi
 \ge blink
 
+
 \lx tea-tea
 \ge hop
+
 
 \lx teba
 \ge support
 \ge care for
 \ge raise
 
+
 \lx tebehuru
 \ge cross
 
+
 \lx tebeturu
 \ge lazy
+
 
 \lx tebini
 \ps i
@@ -12021,26 +14917,33 @@
 \gn hampir siang
 \sd time
 
+
 \lx tedema
 \ge chew
 \ge bite
+
 
 \lx tego
 \ge sit
 \bw Ternate
 
+
 \lx tegoro
 \ge scold
+
 
 \lx teha
 \ge seat
 \ge bench
 
+
 \lx tehongo
 \ge persist
 
+
 \lx tela
 \ge floor *tile
+
 
 \lx telemi
 \ps o
@@ -12049,48 +14952,61 @@
 \gn
 \sd body part
 
+
 \lx teli
 \ge curve
 \ge stretch a bow
 
+
 \lx temelo
 \ge k o *pea
+
 
 \lx temo
 \ps ho
 \ge speak
 \gn bicara
 
+
 \lx tengehono
 \ge not stop
 \ge reproach
 \ge avenge
 
+
 \lx tengeluku
 \ge lie
 \ge deceit
 
+
 \lx tengo
 \ge alone
 
+
 \lx teno
 \ge roll up
+
 
 \lx teo
 \ge wring out
 \ge press
 
+
 \lx teongo
 \ge juice
+
 
 \lx tepo
 \ge time
 
+
 \lx teri
 \ge run *aground
 
+
 \lx teri
 \ge tar
+
 
 \lx tero
 \ps i
@@ -12100,9 +15016,11 @@
 \ps i ma
 \ge equivalent (to each other)
 
+
 \lx teru
 \ps ha
 \ge set s t down
+
 
 \lx teta
 \ps ha
@@ -12111,6 +15029,7 @@
 \ps ho
 \ge dip in
 
+
 \lx tetapu
 \ps i
 \ge certain
@@ -12118,44 +15037,54 @@
 \gn tetap
 \bw Malay
 
+
 \lx teteke
 \ps i
 \ge drip
 \gn
+
 
 \lx teteki
 \ps i
 \ge small
 \crm eteki
 
+
 \lx tetengo
 \ps o
 \ge toilet
 \crm tengo
+
 
 \lx teteta
 \ps i
 \ge rain
 \crm teta
 
+
 \lx teto
 \ps o
 \ge hard *ground
 \gn
+
 
 \lx tetoro
 \ps ha
 \ge cut
 \ge carve
 
+
 \lx teturu
 \ge crumble
+
 
 \lx teturu
 \ge pick o ff
 
+
 \lx tewedanga
 \ge open *space
+
 
 \lx tiai
 \ps i
@@ -12165,8 +15094,10 @@
 \ge in *order
 \gn betul
 
+
 \lx tiaka
 \ge wrung out *sago pith
+
 
 \lx tiba
 \ps o
@@ -12174,23 +15105,29 @@
 \gn
 \sd plant
 
+
 \lx tibaangunu
 \ge untidy
 \ge disorder
 
+
 \lx tibako
 \ge turn s t
 
+
 \lx tibi
 \ge k o *basket
+
 
 \lx tiboko
 \ps ho
 \ge swim
 \gn berenang
 
+
 \lx tiburu
 \ge truncate
+
 
 \lx tide
 \ps ha
@@ -12202,41 +15139,51 @@
 \ge
 \gn
 
+
 \lx tide-tide
 \ps o
 \ge
 \gn
 
+
 \lx tidingi
 \ge punch
 \ge hit with fist
 
+
 \lx tigi
 \ge near
+
 
 \lx tigiranga
 \ge long and thin
 \ge lengthwise
 \ge straight
 
+
 \lx tigiri
 \ge stain
+
 
 \lx tigono
 \ge juice
 \ge glue
 
+
 \lx tiha
 \ge throw down
 \ge fall
 
+
 \lx tihe
 \ge echo
+
 
 \lx tihihiri
 \ge boom
 \ge load *roar
 \ge rumbling
+
 
 \lx tika
 \ge herd
@@ -12245,44 +15192,55 @@
 \ge not *do
 \bw Ternate
 
+
 \lx tikara
 \ge mat
+
 
 \lx tike
 \ge seek
 \bw Ternate
 
+
 \lx tiki
 \ge prop up
 \ge support
 
+
 \lx tikilo
 \ge k o *fish
+
 
 \lx tikiti
 \ge cough
 \ge chest *illness
 
+
 \lx tila
 \ge push
 
+
 \lx tilabukuku
 \ge kneel
+
 
 \lx tilakeru
 \ge cross
 \ge step *across
 
+
 \lx tilibu
 \ge pregnant
 \ge fertilized
+
 
 \lx tiliho
 \ps o
 \ge k o tree
 \re tree
-\sc ?
+\sd ?
 \sd plant
+
 
 \lx tiliki
 \ps ma
@@ -12290,9 +15248,11 @@
 \gn
 \sd body part
 
+
 \lx timi
 \ge under
 \ge lowest
+
 
 \lx timo
 \ps o
@@ -12300,11 +15260,13 @@
 \gn ketimun
 \sd food
 
+
 \lx timono
 \ps ha
 \ge old
 \ge leader
 \ge elder
+
 
 \lx timo-timono
 \ps ha
@@ -12312,20 +15274,24 @@
 \gn tua-tua
 \sd
 
+
 \lx tinanga
 \ge bruised
 \ge swollen
 \ge overripe
 
+
 \lx tingaka
 \ge seperate
+
 
 \lx tingi
 \ps o
 \ge k o *mangrove
 \gn
-\sc
+\sd
 \sd plant
+
 
 \lx tingi
 \ps ho
@@ -12334,18 +15300,23 @@
 \ps i
 \ge tight
 
+
 \lx tingidu
 \ge dry *leaves
+
 
 \lx tingkai
 \ge pranks
 \ge tricks
 
+
 \lx tinguku
 \ge reward
 
+
 \lx tinirihi
 \ge welt
+
 
 \lx tino
 \ps ha
@@ -12353,10 +15324,12 @@
 \gn tenun
 \sd weaving
 
+
 \lx tino
 \ps i
 \ge consume by *fire
 \gn
+
 
 \lx tio
 \ps ha
@@ -12366,13 +15339,16 @@
 \id oberera genanga hatioka
 \ge we have already passed that village
 
+
 \lx tiodu
 \ge make *wet
 \ge sprinkle
 
+
 \lx tiohaka
 \ge wild
 \ge untamed
+
 
 \lx tioma
 \ps ho ma
@@ -12380,49 +15356,63 @@
 \gn
 \sd
 
+
 \lx tioniki
 \ge cadge
+
 
 \lx tiopo
 \ge sisters *husand
 
+
 \lx tio-tio
 \ge k o black *ant
+
 
 \lx tipo
 \ps ha
 \ge knock o ff (fruit) with stick
 
+
 \lx tipoko
 \ge short
+
 
 \lx tipopa
 \ge steep
 
+
 \lx tita
 \ge order
+
 
 \lx titi
 \ge cause
 \ge start
 \ge motive
 
+
 \lx titiki
 \ge k o *mango
 \ge koini
 
+
 \lx titipa
 \ge gust
 
+
 \lx titoko
 \ge turn aside
+
 
 \lx to-
 \ps PRO
 \ge 1S
 
+
 \lx toa
 \ge friend
+
 
 \lx toaka
 \ps ho
@@ -12435,35 +15425,44 @@
 \id momihidoaka amipayu
 \ge she gave us her umbrella
 
+
 \lx toaka
 \ps ha
 \ge tear
 \ge split
 \ge break o ff
 
+
 \lx toba
 \ge pull
 
+
 \lx tobiki
 \ge break
+
 
 \lx toboko
 \ge burn
 \ge burnt
 
+
 \lx tobongo
 \ps ha
 \ge wade
 
+
 \lx tobote
 \ge think
+
 
 \lx toca
 \ge candles
 
+
 \lx todoa
 \ge bisexual
 \ge hermaphrodite
+
 
 \lx todokana
 \ps i
@@ -12472,6 +15471,7 @@
 \ge to be *startled
 \gn kaget
 
+
 \lx todoku
 \ps o
 \ge warp
@@ -12479,42 +15479,53 @@
 \gn
 \sd weaving
 
+
 \lx todomo
 \ge sharp
+
 
 \lx toduba
 \ge regret
 \ge remorse
 
+
 \lx tofo
 \ge nurse
 \ge feed
 
+
 \lx tofu
 \ge mound
 
+
 \lx togo
 \ge belch
+
 
 \lx togohanga
 \ge insane
 \ge crazy
 
+
 \lx togorona
 \ge halfway
+
 
 \lx togowini
 \ps i
 \ge hard
 \gn keras
 
+
 \lx togu
 \crm togumu
+
 
 \lx togumu
 \ps ho ma
 \ge rest
 \gn istrahat
+
 
 \lx tohata
 \ps i na
@@ -12524,19 +15535,24 @@
 \ps ha
 \ge to be *angry about s t
 
+
 \lx tohi
 \ge from the *stem
 \ge cut a sprout
 
+
 \lx tohiki
 \ge steal
+
 
 \lx tohora
 \ge third generation *ancestors
 \ge third generation *progeny
 
+
 \lx toi
 \ge k o *cane
+
 
 \lx toimi
 \ps o
@@ -12546,12 +15562,15 @@
 \ge to *shoot (a speargun)
 \sd hunting
 
+
 \lx tokalo
 \ge congeal
+
 
 \lx tokara
 \ge glow
 \ge flame
+
 
 \lx tokata
 \ps o
@@ -12559,30 +15578,38 @@
 \gn
 \sd
 
+
 \lx tokemi
 \ge full
 
+
 \lx toku
 \ge step over
+
 
 \lx toli
 \ge think
 \ge suppose
 
+
 \lx tolo
 \ge tap
 \ge knock
+
 
 \lx tolo-liko
 \ps
 \ge bird *snare
 \sd hunting
 
+
 \lx tolomu
 \ge hat
 
+
 \lx tolyanga
 \ge cut down
+
 
 \lx tolyomo
 \ps ha
@@ -12591,14 +15618,17 @@
 \ge sharp
 \gn tajam
 
+
 \lx toma
 \ps ha
 \ge kill
 \gn bunuh
 
+
 \lx tomanga
 \ge awake
 \ge wake up
+
 
 \lx tomara
 \ps nanga
@@ -12606,26 +15636,33 @@
 \gn leher
 \sd body part
 
+
 \lx tomate
 \ps o
 \ge tomato
 \sd plant
 \sd food
 
+
 \lx tome-tome
 \ge k o *tree
+
 
 \lx tomo
 \ge go *against
 
+
 \lx tomole
 \ge brave
+
 
 \lx tomono
 \ge constipated
 
+
 \lx tomonu
 \ge cover s t
+
 
 \lx tonaka
 \ps o
@@ -12634,14 +15671,17 @@
 \ge ground
 \gn tanah
 
+
 \lx tonga
 \ge small *baskets
 \ge cracked
+
 
 \lx tono
 \ps
 \ge hold *underwater
 \gn
+
 
 \lx too
 \ps
@@ -12649,8 +15689,10 @@
 \gn
 \sd nautical
 
+
 \lx toolenge
 \ge dry
+
 
 \lx toomu
 \ps ho
@@ -12660,47 +15702,59 @@
 \ge gather s t
 \gn mengumpul
 
+
 \lx topaha
 \ge cut off
 \ge dig out
+
 
 \lx topi
 \ge plait
 \ge hat
 
+
 \lx topoko
 \ge push
+
 
 \lx toporono
 \ge heap
 \ge pile up
 
+
 \lx tora
 \ge nervous
 \ge alarmed
 
+
 \lx toraha
 \ge scorch
+
 
 \lx toraka
 \ge lift
 \ge carry
 
+
 \lx torari
 \ge attentive
 \ge attend
+
 
 \lx tore
 \ps
 \ge dry
 \gn
 
+
 \lx tori
 \ge sprout
 \ge bud
 
+
 \lx toriha
 \ge sit against
+
 
 \lx torimonoino
 \ps
@@ -12709,8 +15763,10 @@
 \gn
 \sd nautical
 
+
 \lx toro
 \ge fighting attitude
+
 
 \lx toroa
 \ps nanga
@@ -12718,12 +15774,14 @@
 \gn
 \sd kin
 
+
 \lx torobuku
 \ps o
 \ge k o *tree
 \gn
-\sc ?
+\sd ?
 \sd plant
+
 
 \lx torohowehe
 \ps o
@@ -12731,20 +15789,24 @@
 \gn
 \sd plant
 
+
 \lx torohuku
 \ps o
 \ge liana
 \gn
 \sd plant
 
+
 \lx toropaha
 \ge fall
+
 
 \lx toropu
 \ps o
 \ge k o *liana
 \gn
 \sd plant
+
 
 \lx torou
 \ps i
@@ -12753,14 +15815,17 @@
 \ge worn out
 \gn jelek
 
+
 \lx toru
 \ps
 \ge cross the sea
 \gn
 \sd nautical
 
+
 \lx totaka
 \ge bring
+
 
 \lx totaleo
 \ps o
@@ -12768,22 +15833,27 @@
 \gn burung
 \sd animal
 
+
 \lx totameri
 \ps o
 \ge k o *arrow
 \gn
 \sd hunting
 
+
 \lx totango
 \ge tent
 \ge cast
+
 
 \lx totara
 \ge come out
 \ge end up
 
+
 \lx totare
 \ge nurse cautiously
+
 
 \lx totaulu
 \ps o
@@ -12791,18 +15861,23 @@
 \gn
 \sd animal
 
+
 \lx toteke
 \ge tap
 \ge caress
 
+
 \lx totimiono
 \ge grunt
+
 
 \lx totiri
 \ge carry in arms
 
+
 \lx toto
 \ge nape
+
 
 \lx totoade
 \ps o
@@ -12810,11 +15885,13 @@
 \ge tale
 \ge fable
 
+
 \lx totoai
 \ps o
 \ge k o *bird
 \gn
 \sd bird
+
 
 \lx totobeloho
 \ps ho
@@ -12822,10 +15899,12 @@
 \ge speak.Tobelo
 \gn berbahasa Tobelo
 
+
 \lx totodingi
 \ps o
 \ge candlestick
 \gn
+
 
 \lx totodore
 \ps ho
@@ -12833,16 +15912,20 @@
 \ge speak.Tidore
 \re Tidore
 
+
 \lx totokia
 \ge be *able
+
 
 \lx totolo
 \ge tackle block
 \sd tool
 
+
 \lx totomo
 \ge full
 \ge complete
+
 
 \lx totongono
 \ps o
@@ -12851,8 +15934,10 @@
 \gn
 \sd insect
 
+
 \lx tototeke
 \ge knock
+
 
 \lx totuhuro
 \ps
@@ -12860,8 +15945,10 @@
 \gn
 \sd plant
 
+
 \lx totukuna
 \ge ruler
+
 
 \lx totumu
 \ps
@@ -12869,64 +15956,80 @@
 \gn
 \bw Ternate
 
+
 \lx towongi
 \ps ho
 \ge to walk along the *beach
 \crm dowongi
 
+
 \lx towora
 \ge harden
+
 
 \lx tua
 \ps o
 \ge k o *kerchief (worm in cakalele dance)
 
+
 \lx tuada
 \ps o
 \ge jackfruit
 \gn nangka
-\sc Artocarpus ployphema Pers.
+\sd Artocarpus ployphema Pers.
 \sd food
+
 
 \lx tuagi
 \ge pour
 \ge water
 \ge moisten
 
+
 \lx tuanga
 \ge gentleman
+
 
 \lx tuari
 \ge do *separately
 
+
 \lx tuba
 \ge lance
+
 
 \lx tubalenge
 \ge tinker
 \ge fiddle with
 
+
 \lx tubele
 \ge cockfight
 
+
 \lx tubeli
 \ge cockfight
+
 
 \lx tubo
 \ge put on *high
 \ge aloft
 
+
 \lx tubolie
 \ge explode
 \ge toss up high
+
 
 \lx tubuho
 \ps i
 \ge heavy
 \gn berat
 
+
 \lx tubuku
 \ge top
+
 
 \lx tubuku
 \ps
@@ -12934,9 +16037,11 @@
 \ge jump
 \ge come *down
 
+
 \lx tubu-tubuku
 \ps
 \ge speckled
+
 
 \lx tuda
 \ps
@@ -12946,14 +16051,17 @@
 \ge tow
 \gn
 
+
 \lx tudele
 \ps o
 \ge k o *fish
 \gn
 \sd fish
 
+
 \lx tudili
 \ge pick
+
 
 \lx tuduku
 \ps ha
@@ -12961,23 +16069,30 @@
 \gn tombak
 \sd hunting
 
+
 \lx tuga
 \ge measure
+
 
 \lx tugala
 \ge skin flakes
 
+
 \lx tugara
 \ge nautilus shell
+
 
 \lx tugo
 \ge surprize
 
+
 \lx tugutili
 \ge wander in the forest
 
+
 \lx tugutiloka
 \ge forest dweller
+
 
 \lx tuhange
 \ps NUM
@@ -12985,22 +16100,27 @@
 \gn delapan
 \sd num
 
+
 \lx tuhara
 \ps i
 \ge boil
 \ge bubble
 \gn rebus
 
+
 \lx tuhere
 \ge split
 
+
 \lx tuhu
 \ge bang
+
 
 \lx tuhuku
 \ps ho
 \ge shoot
 \gn tembak
+
 
 \lx tui
 \ps o
@@ -13008,46 +16128,58 @@
 \gn
 \sd plant
 
+
 \lx tuieki
 \ge spear
+
 
 \lx tujanga
 \ge roof support
 
+
 \lx tukanga
 \ge skillful
+
 
 \lx tuku
 \ge press
 \ge pinch
+
 
 \lx tukunu
 \ps
 \ge sago leaf *basin
 \gn
 
+
 \lx tukuru
 \ge across
 \ge lay across
+
 
 \lx tulada
 \ge draw
 \ge paint
 
+
 \lx tulaka
 \ge live *lewdly
+
 
 \lx tulaki-bara
 \ge ballast
 
+
 \lx tulihi
 \ge color
+
 
 \lx tulu
 \ps ho
 \ge stop in
 \ge go in
 \gn singgah
+
 
 \lx tulung
 \ps ho
@@ -13057,8 +16189,10 @@
 \ge help with s t
 \bw Malay
 
+
 \lx tuma
 \ge push up with stick
+
 
 \lx tumara
 \ps o
@@ -13066,39 +16200,48 @@
 \gn
 \sd animal
 
+
 \lx tumidi
 \ps NUM
 \ge seven
 \gn tujuh
 
+
 \lx tumule
 \ge clean
 \ge weed
+
 
 \lx tumungu
 \ge hold up
 \ge stop
 \ge arrest
 
+
 \lx tumunu
 \ps ho ma
 \ge dive
 \gn menyelam
 
+
 \lx tumurahu
 \ge groggy
 \ge not yet *awake
+
 
 \lx tumutu
 \ps ho
 \ge point
 \gn tunjuk
 
+
 \lx tumutuku
 \ge remain *small
 
+
 \lx tunata
 \ge greedy
+
 
 \lx tungiri
 \ps ha
@@ -13106,45 +16249,58 @@
 \gn sisik ikan
 \sd food
 
+
 \lx tungutu
 \ge point out
 \ge indicate
 
+
 \lx tuono
 \ge do *simultaneously
+
 
 \lx tupa
 \ge box
 
+
 \lx tupa-tupa
 \ge boxfish
+
 
 \lx tupe
 \ge ape sound
 
+
 \lx tupukuru
 \ge fold
+
 
 \lx turahi
 \ge become *steep
 
+
 \lx turono
 \ge fall down
 
+
 \lx turu
 \ge follow
+
 
 \lx tururu
 \ps ho ma
 \ge move
 \gn pindah
 
+
 \lx turutang
 \ge clever
 \ge skilled
 
+
 \lx tutama
 \ge can
+
 
 \lx tutuku
 \ps ho
@@ -13154,34 +16310,44 @@
 \id opine hotuduku
 \ge pound rice
 
+
 \lx tutukuna
 \ge ruler
+
 
 \lx tutukunu
 \ge walking *stick
 
+
 \lx tutumu
 \ge spy on
+
 
 \lx tututu
 \ge drip
 \ge drop
 
+
 \lx tutuuhu
 \ge heartbeat
 
+
 \lx tuubula
 \ge k o *tree
+
 
 \lx tuuku
 \ge shape
 \ge fashion
 
+
 \lx tuuru
 \ge k o *tree
 
+
 \lx tuwinihi
 \ge constipate
+
 
 \lx -ua
 \ps vsf
@@ -13193,15 +16359,19 @@
 \xe I'm not able to go on any longer
 \xn saya tidak sanggup lagi
 
+
 \lx uahi
 \ge not yet
+
 
 \lx uba
 \ge gunpowder
 
+
 \lx ubo
 \ps o
 \crm ubo-ubo
+
 
 \lx uboro
 \ps o
@@ -13209,9 +16379,11 @@
 \gn
 \sd animal
 
+
 \lx Ubo-Ubo
 \ps o
 \ge name of kapung where Miti people took refuge from the war
+
 
 \lx ubo-ubo
 \ps o
@@ -13220,17 +16392,21 @@
 \gn bunga cepato
 \sd plant
 
+
 \lx ucaha
 \ge bewitchment
+
 
 \lx udi
 \ps o
 \ge large *basket
 \gn
 
+
 \lx udo-udomo
 \ge basin
 \ge cup
+
 
 \lx ugaka
 \ps o
@@ -13239,17 +16415,20 @@
 \sd food
 \sd plant
 
+
 \lx uge
 \ps o
 \ge vegetable (general term)
 \gn sayur
 \sd food
 
+
 \lx uha
-\ps PART
+\ps part
 \ge forbid
 \ge don't
 \gn jangan
+
 
 \lx uhaka
 \ps o
@@ -13257,8 +16436,10 @@
 \gn
 \sd med
 
+
 \lx uhanga
 \ge bunch
+
 
 \lx uhele
 \ps o
@@ -13266,15 +16447,18 @@
 \gn
 \sd plant
 
+
 \lx uihi
 \ge leak
 \ge leaky
+
 
 \lx uiti
 \ps ha
 \ge bail
 \gn
 \sd nautical
+
 
 \lx ukere
 \ps i
@@ -13284,23 +16468,28 @@
 \ps ho ma k
 \ge stand close to each other
 
+
 \lx uku
 \ps o
 \ge fire
 \gn api
+\xv o uku ma dokara
+\xe flame, literally 'the redness of the fire'
+
+\lx uku
 \ps ha
-\ge burn
+\ge burn st
 \gn
+
+\lx uku
 \ps ho ma
 \ge burn oneself
-\se o uku ma dokara
-\ge flame
-\se o uku ma dino
-\ge firewood
+
 
 \lx ukumu
 \ge press close
 \ge pinch together
+
 
 \lx ukuru
 \ps ma
@@ -13310,6 +16499,7 @@
 \gn ukur
 \bw Malay
 
+
 \lx ule
 \ps ho
 \ge play
@@ -13318,21 +16508,25 @@
 \xv o ngohaka o dowingioka youle-ule
 \ge the children are playing on the beach
 
+
 \lx ulingi
 \ps o
 \ge k o *kingfisher
 \gn
 \sd bird
 
+
 \lx ulini
 \ge umata
 \ge rollers
 \ge huge *waves
 
+
 \lx umati
 \ps ma
 \ge people
 \bw Malay
+
 
 \lx umeloa
 \ps o
@@ -13340,10 +16534,12 @@
 \gn
 \sd food
 
+
 \lx umo
 \ps ha
 \ge throw away
 \gn buang
+
 
 \lx umuru
 \ps o
@@ -13352,6 +16548,7 @@
 \gn umur
 \bw Malay
 
+
 \lx una
 \ps PRO
 \va unanga
@@ -13359,22 +16556,27 @@
 \ge 3m
 \re he ; him
 
+
 \lx unaha
 \ps o
 \ge fish *scales
 \gn sisik
 \sd fish
 
+
 \lx upahi
 \ge police officer
 
+
 \lx upeti
 \ge taxation
+
 
 \lx uriti
 \ps ha
 \ge sew
 \gn jahit
+
 
 \lx uroto
 \ps o
@@ -13385,6 +16587,7 @@
 \gn urat
 \sd body part
 \bw Malay
+
 
 \lx uru
 \ps nanga
@@ -13398,38 +16601,50 @@
 \ge bill
 \sd body part
 
+
 \lx uru
 \ps ho
 \ge cut off
 \gn
 
+
 \lx uru jawa
 \ps o
 \ge k o *rattan
+
 
 \lx uti
 \ps ho
 \ge descend
 \gn turun
 
+
 \lx utongo
 \ge sago palm *leaf sheath
 
-\lx utu
-\ge head *hair
 
 \lx utu
-\ps PART
+\ge head *hair, stem
+\xv o akere ma utu
+\xe river
+\xn sungai
+\sd body part
+
+
+\lx utu
+\ps part
 \ge little bit
 \ge other
-\id ho utu (ga)
-\ge the others
-\gn yang lain
+\xv ho utu (ga)
+\xe the others
+\xn yang lain
+
 
 \lx utuku
 \ps ho
 \ge pick (rice)
 \gn petik
+
 
 \lx utumu
 \ps ho
@@ -13438,32 +16653,41 @@
 \gn untung
 \bw Malay
 
+
 \lx ututlu
 \ge little bit
+
 
 \lx uwini
 \ge light
 
+
 \lx uworo
 \ge handle
+
 
 \lx wabi
 \ge shrink
 \ge sink
 \ge flatten
 
+
 \lx wagihi
 \ge limp
+
 
 \lx wagu
 \ge swing
 
+
 \lx wahiohi
 \ge not yet
+
 
 \lx waho
 \ps ho
 \ge know
+
 
 \lx wahu-wahu
 \ps o
@@ -13471,13 +16695,16 @@
 \gn
 \sd animal
 
+
 \lx wai
 \ps o
 \ge valley
 \gn
 
+
 \lx waja
 \ge steel
+
 
 \lx wakili
 \ps o
@@ -13486,10 +16713,12 @@
 \gn wakil
 \bw Malay
 
+
 \lx wako
 \ps ho
 \ge rotate
 \gn
+
 
 \lx wakomomu
 \ps o
@@ -13497,10 +16726,12 @@
 \gn
 \sd fishing
 
+
 \lx wakuhu
 \ps ho
 \ge select
 \gn
+
 
 \lx wakutu
 \ps ma
@@ -13508,30 +16739,36 @@
 \gn waktu
 \bw Malay
 
+
 \lx wale
 \ps o
 \ge mango tree
 \gn pohon mangga
 \sd plant
 
+
 \lx walimi
 \ge push along
+
 
 \lx waloko
 \ps ho ma
 \ge naked
 \gn telanjang
 
+
 \lx waloko
 \ps o
 \ge bamboo *joint
 \gn
+
 
 \lx walye
 \ps o
 \ge refuse
 \ge waste
 \gn sampah
+
 
 \lx wama
 \ps o
@@ -13544,6 +16781,7 @@
 \ge lemon
 \gn limon
 \sd food
+
 
 \lx wange
 \ps o
@@ -13559,11 +16797,13 @@
 \id owange iboaoka
 \ge the sun has risen
 
+
 \lx wange-wange
 \ps o
 \ge k o *snake
 \gn
 \sd animal
+
 
 \lx wango
 \ps ho
@@ -13571,11 +16811,13 @@
 \ps o
 \ge life
 
+
 \lx wangoro
 \ps ho
 \ge shine
 \ge be *splendid
 \ind mewah
+
 
 \lx wapi
 \nanga
@@ -13583,10 +16825,12 @@
 \gn
 \sd body part
 
+
 \lx wapo
 \ps i
 \ge soaked
 \gn
+
 
 \lx waranga
 \ps o
@@ -13595,12 +16839,14 @@
 \ge venom
 \ge poison
 
+
 \lx warigi
 \ps o
 \ge fig tree
 \gn waringin
 \bw Malay
 \sd plant
+
 
 \lx wariki
 \ps ma
@@ -13609,15 +16855,18 @@
 \gn isi
 \sd body part
 
+
 \lx waru
 \ps ho
 \ge sage
 \ge wise
 
+
 \lx wato (wa + ato)
-\ps PART
+\ps part
 \ge so that
 \gn bahwa
+
 
 \lx wawawe
 \ps i
@@ -13625,11 +16874,13 @@
 \ge sway
 \gn
 
+
 \lx wawi
 \ps ho
 \ge not *enough
 \ge not *reach
 \gn
+
 
 \lx wederi
 \ps i
@@ -13639,28 +16890,34 @@
 \ps ha
 \ge smash
 
+
 \lx weka
 \ps o
 \ge fan *palm
 \gn
 \sd plant
 
+
 \lx wela
 \ps o
 \ge k o *opera
+
 
 \lx welanga
 \ps ma
 \ge fallen *unripe
 
+
 \lx weleke
 \ps o
 \ge cross (shape)
+
 
 \lx wengaha
 \ps i
 \ge hollow
 \gn
+
 
 \lx wera
 \ps o
@@ -13668,10 +16925,12 @@
 \gn
 \sd plant
 
+
 \lx were
 \ps ho
 \ge make *noise
 \gn beribut
+
 
 \lx wewa
 \ps i
@@ -13679,46 +16938,57 @@
 \ps ho ma
 \ge walk with the arms swinging to and fro
 
+
 \lx wewe
 \ps o
 \ge k o *wood (used to make fire
 \gn
 \sd plant
 
+
 \lx wiki-wiki
 \ge doodle
+
 
 \lx wilere
 \ge come *loose
 
+
 \lx wiludu
 \ge velvet
+
 
 \lx witomo
 \ge lauch a canoe
 
+
 \lx woa
 \ge loosen
 
+
 \lx woata
 \ge broad
+
 
 \lx woe
 \ps COUNT
 \ge many
 \gn banyak
 
+
 \lx woere
 \ps ha
 \ge dry
 \gn keringkan
 
+
 \lx wogono
 \ps o
 \ge raven
 \gn
-\sc
+\sd
 \sd animal
+
 
 \lx wohama
 \ps ho
@@ -13731,15 +17001,19 @@
 \id tohingohama
 \ge I put it in
 
+
 \lx wohanga
 \ps ho
 \ge forget
 
+
 \lx wohono
 \ge fast
 
+
 \lx woki-woki
 \ge terong
+
 
 \lx wokuhu
 \ps o
@@ -13747,8 +17021,10 @@
 \gn
 \sd magic
 
+
 \lx Wolada
 \ge Holland
+
 
 \lx womaha
 \ps ho
@@ -13757,21 +17033,26 @@
 \ps o
 \ge breath
 
+
 \lx womo
 \ps
 \ge lap
 \ge suck
 
+
 \lx wongeme
 \ge tribal *spirit
 
+
 \lx wora
 \ge lower
+
 
 \lx woro
 \ge sink
 \ge clear
 \ge roomy
+
 
 \lx wota
 \ps nanga
@@ -13779,10 +17060,123 @@
 \gn
 \sd kin
 
+
 \lx wotiti
-\ps
-\õ˙Ó˙˚˙ç˚≤˝à˛!
-˙^˘˘^˙«˙Ω˚î˚
-¸é¸ˇ˚-˝‡¸H˝}˛µèJiz&Ωà≤˛µ
-n
-Ñ±|a√èˇñˇ˝˛^˛§ˇ!˛*˝‡¸¸Õ˚X¸*˝i˝Ö˛÷ˇ∂
+\ps 
+\ge navel
+\gn 
+\sd body part
+
+\lx woto
+\ge press
+
+
+\lx wowa
+\ps 
+\ge youngest *child
+\sd kin
+
+\lx wowalada
+\ge speak Dutch
+
+
+\lx wowomoko
+\ge gargle
+
+
+\lx wuagi
+\ps 
+\ge debt
+\gn 
+
+\lx wuhi
+\ps 
+\ge comb
+\gn sisir
+
+\lx wuhi
+\ps o
+\ge turtle
+\gn 
+\sd animal
+
+\lx wunehe
+\ps 
+\ge calf muscle
+\gn 
+\sd body part
+
+\lx wunenge
+\ps 
+\ge vomit
+\gn muntah
+
+\lx wungama
+\ps o
+\ge k o *snail
+\gn 
+\sd animal
+
+\lx wuni
+\ps 
+\ge look at
+
+
+\lx wunu
+\ge look at
+
+
+\lx wupu
+\ps o
+\ge k o *tree
+\gn 
+\sd plant
+
+\lx wuro
+\ge waved
+\ge ribbed
+
+
+\lx wuru
+\ge fibrous
+
+
+\lx wuuku
+\ps o
+\ge k o *bird
+\gn
+\sd animal
+
+\lx wuwu
+\ps i
+\ge blow
+\gn tiup
+
+
+\lx yaba
+\ps o
+\ge k o *bean
+\gn 
+\sd food
+
+\lx yabo
+\ps ha
+\ge wound
+\ge injure
+\gn 
+\id yaduhuku ma yayaboua
+\ge they shot but they were not injured 
+
+\lx yahana
+\ge spear point
+
+
+\lx ya-
+\ps PRO
+\ge 3pS.3pO
+\ge 3pO
+
+
+\lx yaro
+\ps o
+\ge sailfish
