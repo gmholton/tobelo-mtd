@@ -1,17 +1,19 @@
 {
-    "name": "Tobelo Test",
+    "name": "Tobelo Flat",
     "file_type" : "csv",
     "skipheader" : true,
     "sorting": "word",
     "targets": {
-        "entryID" : "0",
+        "entryID":"0",
         "word": "1",
         "definition": "3",
         "optional": [
         	{ 
-        	    "PoS":"2"
+                "PoS":"2",
+        	    "theme": "4",
+        	    "example":"5",
+        	    "translation":"6"
         	}
-        ],
-	"theme": "4"
+        ]
     }
 }
