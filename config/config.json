@@ -8,7 +8,7 @@
     "data": [
         {
             "manifest": "./manifest.json",
-            "resource": "../data/tob-flat.csv"
+            "resource": "../toolbox/tob-flat.csv"
         }
     ]
 }
